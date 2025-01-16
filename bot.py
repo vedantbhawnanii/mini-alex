@@ -249,11 +249,16 @@ def call_chain(user_input: str, chain: ConversationalRetrievalChain) -> str:
 def main(query):
     persist_directory = "google-embed/transcripts.db"
     files = [f for f in glob("./data/*.srt")]
+
+    """
     if os.path.exists(persist_directory):
         retriever = load_vectorstore(persist_directory)
         log.info("Found existing vectorstore... Loading into it...")
     else:
         retriever = create_vectorstore(files)
+    """
+    retriever = create_vectorstore(files)
+
     chain = create_conversation_chain(retriever)
     log.info("Chain built... Happy querying!")
 
