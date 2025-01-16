@@ -101,7 +101,7 @@ def create_vectorstore(files: List[str]):
     embedding_function = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 
     """    vector store    """
-    
+
     # TODO: Need to figure a way to use the persist persist_directory and not re-initialize it everytime the code is run.
     # Once we have all data embedded in the db, we can call the db directly into the retriever, which should reduce the startup time.
     db = Chroma.from_documents(
@@ -114,11 +114,12 @@ def create_vectorstore(files: List[str]):
     print("Done creating vectorstores")
     return retriever
 
+
 def load_vectorstore(persist_directory: str = None):
     if not persist_directory:
         print("No persistant storage found.")
-        return 
-    
+        return
+
     # embedding_function = HuggingFaceBgeEmbeddings(
     #     model_name="all-MiniLM-L6-v2",
     #     # model_kwargs={"device": "cpu"}, # Not needed since it does this internally. Can specify cpu/gpu for developer clarity.
@@ -128,13 +129,13 @@ def load_vectorstore(persist_directory: str = None):
     embedding_function = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 
     db = Chroma(
-        persist_directory = persist_directory,
-        embedding_function = embedding_function
+        persist_directory=persist_directory, embedding_function=embedding_function
     )
 
     retriever = db.as_retriever()
 
     return retriever
+
 
 def create_llm(
     model_name: str = "gemini-2.0-flash-exp",
@@ -151,7 +152,6 @@ def create_llm(
 
 
 def get_standalone_template():
-
     standalone_question_template = """
     You are an expert at understanding and rephrasing questions. Given a conversation transcript from course lectures and a follow-up question, rewrite the follow-up question as a standalone question that can be understood without prior context. Ensure the standalone question is clear, concise, and suitable for a 12th-grade reading level. 
 
@@ -245,6 +245,7 @@ def call_chain(user_input: str, chain: ConversationalRetrievalChain) -> str:
     logging.debug(result)
     return result
 
+
 def main(query):
     persist_directory = "google-embed/transcripts.db"
     files = [f for f in glob("./data/*.srt")]
@@ -255,10 +256,11 @@ def main(query):
         retriever = create_vectorstore(files)
     chain = create_conversation_chain(retriever)
     log.info("Chain built... Happy querying!")
-    
+
     response = call_chain(query, chain)
     log.info(f"Returning response: {response}")
     return response
+
 
 def test_run():
     query = "When starting your own content marketing, what is important?"
@@ -271,7 +273,6 @@ def test_run():
         retriever = create_vectorstore(files)
     chain = create_conversation_chain(retriever)
     log.info("Chain built... Happy querying!")
-    
 
     # Test questions
     # query = "What is TOFU content and how to identify it?"
@@ -289,7 +290,8 @@ def test_run():
         print(f"{query=}")
         print(f"{result=}")
 
-test_run()
+
+# test_run()
 
 
 """
