@@ -1,6 +1,5 @@
 .env
 .venv/
-google-embed/
 log/
 output/
 pdf_bot.py
