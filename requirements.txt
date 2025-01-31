@@ -7,4 +7,4 @@ chromadb
 sentence-transformers
 nltk
 streamlit
-
+pysqlite3-binary
