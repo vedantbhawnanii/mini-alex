@@ -39,10 +39,12 @@ nltk.download("punkt_tab")
 warnings.filterwarnings("ignore", category=FutureWarning)
 
 # Get all environment variables
-load_dotenv()
-os.environ["GOOGLE_API_KEY"] = os.environ["GEMINI_API_KEY"]
+# load_dotenv()
+# os.environ["GOOGLE_API_KEY"] = os.environ["GEMINI_API_KEY"]
 
 # Set up logger
+if not os.path.isdir("log"):
+    os.mkdir("log")
 logging.basicConfig(filename=f"log/log-{datetime.datetime.today()}", level=logging.INFO)
 log = logging.getLogger()
 ch = logging.StreamHandler()
