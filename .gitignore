@@ -7,5 +7,6 @@ pdf_bot.py
 you-bot-requirements.txt
 youtube-chat.py
 pyrightconfig.json
-_pycache/
-
+__pycache__/
+data/
+.devcontainer/

@@ -24,7 +24,6 @@ from langchain.memory import ConversationSummaryBufferMemory
 from langchain_google_genai import (
     GoogleGenerativeAI,
     GoogleGenerativeAIEmbeddings,
-    ChatGoogleGenerativeAI,
 )
 
 import nltk
@@ -256,7 +255,7 @@ def call_chain(user_input: str, chain: ConversationalRetrievalChain) -> str:
     logging.debug(result)
     return result
 
-# INFO:                         Streamlit
+# INFO:                        Streamlit
 
 def main(query):
     persist_directory = "google-embed/transcripts.db"
