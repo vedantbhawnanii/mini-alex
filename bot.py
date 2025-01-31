@@ -1,6 +1,7 @@
 # OS related imports
 import os
 from glob import glob
+from chromadb import api
 from dotenv import load_dotenv
 import warnings
 
@@ -85,7 +86,7 @@ def load_srt_function(file_path: str) -> str:
 
 # INFO:                   Vectorstore Functions
 
-def create_vectorstore(files: List[str]):
+def create_vectorstore(files: List[str], api_key):
     log.info("Creating vectorstores...")
     print("Creating vectorstores")
     documents = [load_srt_function(file_path) for file_path in files]
@@ -98,7 +99,7 @@ def create_vectorstore(files: List[str]):
         split_docs = text_splitter.split_documents([doc])
         docs.extend(split_docs)
 
-    embedding_function = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
+    embedding_function = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key = api_key)
 
     """    vector store    """
 
@@ -111,8 +112,8 @@ def create_vectorstore(files: List[str]):
     return store, embedding_function
 
 
-def load_vectorstore(persist_directory: str):
-    embedding_function = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
+def load_vectorstore(persist_directory: str, api_key):
+    embedding_function = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=api_key)
     store = Chroma(
         persist_directory=persist_directory, embedding_function=embedding_function
     ) 
@@ -194,9 +195,9 @@ Standalone Question:
 
     return standalone_question_prompt
 
-def create_conversation_chain(retriever) -> ConversationalRetrievalChain:
+def create_conversation_chain(retriever, api_key) -> ConversationalRetrievalChain:
     memory = ConversationSummaryBufferMemory(
-        llm=create_llm(temperature=0.1),
+        llm=create_llm(temperature=0.1, api_key=api_key),
         memory_key="chat_history",
         return_messages=True,
         output_key="answer",
@@ -221,10 +222,10 @@ def create_conversation_chain(retriever) -> ConversationalRetrievalChain:
 
     chain = ConversationalRetrievalChain.from_llm(
         condense_question_prompt=standalone_question_prompt,
-        condense_question_llm=create_llm(temperature=0.3),
+        condense_question_llm=create_llm(temperature=0.3, api_key=api_key),
         memory=memory,
         retriever=retriever,
-        llm=create_llm(temperature=0.6),
+        llm=create_llm(temperature=0.6, api_key=api_key),
         combine_docs_chain_kwargs={"prompt": qa_prompt},
         chain_type="stuff",
         verbose=False,
@@ -237,6 +238,7 @@ def create_conversation_chain(retriever) -> ConversationalRetrievalChain:
 # INFO:                     Creating LLMs and chains.
 
 def create_llm(
+    api_key,
     model_name: str = "gemini-2.0-flash-exp",
     temperature: float = 0.5,
     top_p: float = 0.95,
@@ -245,6 +247,7 @@ def create_llm(
         model=model_name,
         temperature=temperature,
         top_p=top_p,
+        api_key = api_key
     )
 
     return llm
@@ -259,12 +262,12 @@ def call_chain(user_input: str, chain: ConversationalRetrievalChain) -> str:
 
 # INFO:                        Streamlit
 
-def main(query):
+def main(api_key):
     persist_directory = "google-embed/transcripts.db"
 
     if os.path.exists(persist_directory):
         log.info("Found existing vectorstore... Loading into it...")
-        store, embedding_function = load_vectorstore(persist_directory=persist_directory)
+        store, embedding_function = load_vectorstore(persist_directory=persist_directory, api_key=api_key)
         base_retriever = vectorstore_backed_retriever(store, "similarity", k=10) 
         compressed_retriever = create_compression_retriever(
             embeddings = embedding_function, 
@@ -274,24 +277,21 @@ def main(query):
     else:
             
         files = [f for f in glob("./data/*.srt")]
-        store, embedding_function = create_vectorstore(files)
+        store, embedding_function = create_vectorstore(files, api_key= api_key)
         base_retriever = vectorstore_backed_retriever(store, "similarity", k=10) 
         compressed_retriever = create_compression_retriever(
             embeddings = embedding_function, 
             base_retriever = base_retriever,
-        ) 
-       
+        )
 
-    chain = create_conversation_chain(compressed_retriever)
+    chain = create_conversation_chain(compressed_retriever, api_key=api_key)
     log.info("Chain built... Happy querying!")
 
-    response = call_chain(query, chain)
-    log.debug(f"Returning response: {response}")
-    return response
+    return chain
 
 # INFO:                     Test Function.
 
-def test_run():
+def test_run(api_key):
     query = "When starting your own content marketing, what is important?"
     persist_directory = "google-embed/transcripts.db"
     files = [f for f in glob("./data/*.srt")]
@@ -299,7 +299,7 @@ def test_run():
     
     if os.path.exists(persist_directory):
         log.info("Found existing vectorstore... Loading into it...")
-        store, embedding_function = load_vectorstore(persist_directory=persist_directory)
+        store, embedding_function = load_vectorstore(persist_directory=persist_directory, api_key=api_key)
         base_retriever = vectorstore_backed_retriever(store)
         compressed_retriever = create_compression_retriever(
             embeddings = embedding_function, 
@@ -308,14 +308,14 @@ def test_run():
 
     else:
         
-        store, embedding_function = create_vectorstore(files)
+        store, embedding_function = create_vectorstore(files, api_key=api_key)
         base_retriever = vectorstore_backed_retriever(store)
         compressed_retriever = create_compression_retriever(
             embeddings = embedding_function, 
             base_retriever = base_retriever,
         ) 
     
-    chain = create_conversation_chain(compressed_retriever)
+    chain = create_conversation_chain(compressed_retriever, api_key=api_key)
 
     # Test questions
     query = "What is TOFU, MOFU, BOFU content and how to identify it?"
@@ -340,4 +340,4 @@ def test_run():
     #     print(f"{query=}")
     #     print(f"{result=}")
 
-# test_run()
+test_run("AIzaSyCvsLIQzh6bAXQlx_f7KCaxDWKGRSKMEyo")
