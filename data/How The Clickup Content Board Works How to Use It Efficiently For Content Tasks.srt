@@ -1,0 +1,2641 @@
+1
+00:00:01,550 --> 00:00:08,595
+So how do you structure your content management
+process for efficiency? Now improper content
+
+2
+00:00:08,615 --> 00:00:16,601
+management is the hash one reason for content
+failure. It's easy to assume that content marketing
+
+3
+00:00:16,641 --> 00:00:23,918
+strategy failures or lack of results from content
+marketing happens because of improper. internal
+
+4
+00:00:23,938 --> 00:00:27,619
+processes or because you are not able to create
+content on the right topics or because the
+
+5
+00:00:27,639 --> 00:00:32,640
+team members or the copywriters or the content
+managers are not skilled enough but the actual
+
+6
+00:00:32,660 --> 00:00:39,602
+truth is that improper and inefficient content
+management or lack of a process of proper content
+
+7
+00:00:39,642 --> 00:00:47,204
+management is the number one cause of failure
+when you are not generating results from content
+
+8
+00:00:47,224 --> 00:00:53,788
+marketing. Now let me explain that for a minute.
+There are There are three quick topics to discuss
+
+9
+00:00:53,828 --> 00:00:59,758
+here. So the first one is people and team members.
+The second one is consistency. And the third
+
+10
+00:00:59,838 --> 00:01:06,915
+one are content formats. Now in a scenario where
+you're creating your own content and you're
+
+11
+00:01:06,955 --> 00:01:11,197
+reviewing it yourself, you're editing it yourself,
+you're approving it yourself and you're publishing
+
+12
+00:01:11,237 --> 00:01:17,059
+it, promoting it yourself, you don't really
+need a very robust content management process.
+
+13
+00:01:17,739 --> 00:01:21,301
+So if you're handling the process end to end,
+you can simply track it in a Google Sheet,
+
+14
+00:01:21,321 --> 00:01:26,963
+that's more than enough. But... If you have
+a cotton strategy that you're trying to scale
+
+15
+00:01:27,023 --> 00:01:32,966
+up where you're creating cotton consistently
+in multiple cotton formats that require the
+
+16
+00:01:33,046 --> 00:01:38,769
+input of multiple team members, let's take an
+example. So assume you're creating a video
+
+17
+00:01:39,690 --> 00:01:45,753
+where somebody is scripting the video for you
+and you're recording the video and you're sending
+
+18
+00:01:45,793 --> 00:01:52,137
+it to a video editor who edits the video, which
+is then reviewed by a cotton manager for revision
+
+19
+00:01:52,217 --> 00:01:52,857
+suggestions.
+
+20
+00:01:56,042 --> 00:02:00,763
+post copy corrections and so on and then sent
+to you for approval and you finally take a
+
+21
+00:02:00,803 --> 00:02:05,085
+look at it and you approve it, give the final
+approval for the publishing and then a team
+
+22
+00:02:05,105 --> 00:02:11,546
+member goes and publishes it on your LinkedIn
+page and promotes the content and replies to
+
+23
+00:02:11,586 --> 00:02:17,808
+the comments and drag the leads coming in. Now
+a process like these requires the input of
+
+24
+00:02:17,888 --> 00:02:26,044
+multiple team members and it is very difficult
+handle this in a simple Google Sheet. What
+
+25
+00:02:26,064 --> 00:02:32,650
+you need to solve this is a content management
+system that has the ability to track statuses
+
+26
+00:02:32,710 --> 00:02:39,075
+of multiple content pieces, the ability to handle
+different process workflows. Say for example,
+
+27
+00:02:39,756 --> 00:02:45,641
+the process workflow for an experiential story
+video is different from the process workflow
+
+28
+00:02:45,681 --> 00:02:50,765
+for a Q&A video. We will get into these formats
+later on so that you understand better but
+
+29
+00:02:50,978 --> 00:02:56,122
+different kinds of content formats have different
+process workflows. The content workflow for
+
+30
+00:02:57,023 --> 00:03:02,488
+a text post is very different from the content
+workflow for a video, any video. The content
+
+31
+00:03:02,508 --> 00:03:14,478
+workflow for a text post is very different from
+that of a carousel that involves the inputs
+
+32
+00:03:14,639 --> 00:03:21,320
+of a designer who designs the carousel on the
+slide post. Now are these the only challenges?
+
+33
+00:03:21,421 --> 00:03:28,172
+No. We need to be able to categorize each of
+the content pieces into different buckets based
+
+34
+00:03:28,212 --> 00:03:33,420
+on content formats, like experience stories,
+or slide posts, Q&A videos, and social media
+
+35
+00:03:33,440 --> 00:03:39,877
+and so on. we need to be able to search and
+filter for different content pieces as needed.
+
+36
+00:03:39,917 --> 00:03:45,842
+So over time as you build your content database
+and you've published a couple dozens of content
+
+37
+00:03:46,222 --> 00:03:50,626
+and you want to search a particular post, you
+need to have a sheet or a content management
+
+38
+00:03:50,666 --> 00:03:57,471
+system or a dashboard that is able to, where
+you're able to quickly find the content piece
+
+39
+00:03:57,491 --> 00:04:02,916
+that you're looking for. And in the creation
+of each content piece, there are subtasks,
+
+40
+00:04:03,056 --> 00:04:09,318
+say for example, the entire content creation
+process is not handled by one person. So there
+
+41
+00:04:09,358 --> 00:04:13,642
+are sub-cores in it. The post copy is created
+by a copywriter, the video script is also created
+
+42
+00:04:13,682 --> 00:04:17,947
+by a copywriter, but the reviewing is done by
+a content manager. The video is being edited
+
+43
+00:04:17,967 --> 00:04:22,692
+by a video editor, and the carousels are being
+designed, or the thumbnail images for the videos
+
+44
+00:04:22,732 --> 00:04:30,812
+are being designed by a graphic designer. So
+each of these are subtasks within the creation
+
+45
+00:04:30,892 --> 00:04:36,795
+of a post. And because different people may
+be handling this process in a team, we need
+
+46
+00:04:36,815 --> 00:04:42,599
+the ability to assign these subtasks to different
+members on the team. And then if you're working
+
+47
+00:04:42,619 --> 00:04:48,142
+with freelancers or contingency members or consultants,
+you also need the ability to track the amount
+
+48
+00:04:48,182 --> 00:04:52,384
+of work that they're putting in, say track the
+number of hours or track the number of videos
+
+49
+00:04:52,424 --> 00:04:57,910
+or track the number of copies that they're writing.
+maybe even track the time that they're putting
+
+50
+00:04:57,970 --> 00:05:05,194
+in for, so that they can bill you at an hourly
+rate. Now what you see here is ClickUp. ClickUp
+
+51
+00:05:05,354 --> 00:05:12,017
+is a task management platform. It is one of
+the most customizable and robust task management
+
+52
+00:05:12,037 --> 00:05:19,201
+platforms in the world today. And the interesting
+thing about ClickUp is that they bring everything
+
+53
+00:05:19,301 --> 00:05:24,286
+into one platform. So they market themselves
+or position themselves as one app to roll them
+
+54
+00:05:24,366 --> 00:05:32,194
+all. So everything from task management to chats
+to gun charts and goal setting dashboards to
+
+55
+00:05:32,294 --> 00:05:42,294
+documents and dashboards and whiteboards, everything
+is brought into one single platform. And in
+
+56
+00:05:42,475 --> 00:05:52,722
+our case, every single requirement that we have
+of a robust content management platform. is
+
+57
+00:05:52,822 --> 00:06:00,168
+met by ClickUp. So now I am going to jump in
+into the Imagine Growth Content Board which
+
+58
+00:06:00,228 --> 00:06:07,374
+is built on ClickUp and walk you through how
+it works and how the ClickUp platform works
+
+59
+00:06:07,414 --> 00:06:16,942
+as a whole. So this is the Imagine Growth Content
+Platform and it looks a bit confusing but This
+
+60
+00:06:17,362 --> 00:06:22,283
+these are the template cards for each of the
+content formats. I'll explain what they are.
+
+61
+00:06:22,703 --> 00:06:29,645
+But these are the template cards for each of
+the content formats that we coach you on in
+
+62
+00:06:29,685 --> 00:06:37,087
+the program. Now in the template code you can
+see tasks statuses. Now what do we mean by
+
+63
+00:06:37,167 --> 00:06:43,989
+task statuses? Task statuses are the different
+stages in which a content piece moves through
+
+64
+00:06:44,009 --> 00:06:52,228
+the content management process. So task analysis
+begins with outlines, which is where the content
+
+65
+00:06:52,248 --> 00:06:58,091
+manager takes an idea that is either suggested
+by the copywriter or discussed on the weekly
+
+66
+00:06:58,132 --> 00:07:03,835
+content edition calls with the executive and
+the content team and creates an outline for
+
+67
+00:07:04,195 --> 00:07:11,951
+that piece of content and adds it in a template
+card. Now after the outline stage, the copywriter
+
+68
+00:07:12,032 --> 00:07:19,497
+works on it in the draft stage, which is why
+we mark it as CW and creates a draft for that
+
+69
+00:07:19,557 --> 00:07:24,620
+content piece. Now the drafts, the type of drafts
+we differ, if it's an experiential video, it
+
+70
+00:07:24,660 --> 00:07:31,905
+is just the post copy as well as the script
+for the experiential video. If it's an informative
+
+71
+00:07:31,965 --> 00:07:37,109
+course, it is just the post copy. If it is a
+carousel, then it's the post copy as well as
+
+72
+00:07:37,229 --> 00:07:45,344
+the... slide deck content with which the designer
+is supposed to design it. And then after the
+
+73
+00:07:45,364 --> 00:07:51,466
+draft stage, after the copywriter is done creating
+the drafts, for that content format it moves
+
+74
+00:07:51,526 --> 00:07:57,089
+to the content manager approval or revision
+stage, which is where the content manager reviews
+
+75
+00:07:58,069 --> 00:08:02,931
+the content created, the draft created by the
+copywriter, either suggests changes and moves
+
+76
+00:08:02,971 --> 00:08:09,830
+it back to the drafts queue or he approves it
+and moves it to sensitive approval. But in
+
+77
+00:08:09,890 --> 00:08:15,617
+some cases there may be the creation of a media
+file. Now these media files may be videos,
+
+78
+00:08:15,657 --> 00:08:21,625
+they may be carousels, they may be images and
+so on which is why we have an awaiting media
+
+79
+00:08:21,665 --> 00:08:27,538
+file step over here and it's in this stage that
+the graphic designer the video editor will
+
+80
+00:08:27,758 --> 00:08:33,942
+edit the videos or design the text or images
+and send it for approval to the content manager
+
+81
+00:08:33,982 --> 00:08:41,426
+again. Now after all this is done then it goes
+to the executives approval queue and the executive
+
+82
+00:08:41,466 --> 00:08:50,206
+reviews it and if it's good to go he can go
+ahead and either directly move into the publishing
+
+83
+00:08:50,226 --> 00:08:55,450
+queue but if there's a video to be recorded
+by the executor say an exponential video or
+
+84
+00:08:55,490 --> 00:09:01,715
+a Q&A video there is a recording step as well
+inbuilt into this and the publishing queue
+
+85
+00:09:01,936 --> 00:09:07,380
+is in two stages so it can either be published
+on the user profile or it can be published
+
+86
+00:09:07,480 --> 00:09:13,005
+on the company page we also have an option and
+that takes up in here so that we can track
+
+87
+00:09:13,025 --> 00:09:20,520
+the analytics for the published content pieces
+right within ClickUp itself. Next, let's take
+
+88
+00:09:20,560 --> 00:09:26,754
+a look at how template cards work. So each of
+these are template cards for different content
+
+89
+00:09:26,774 --> 00:09:32,187
+formats. And What I'm going to do now is I'm
+going to make a copy of this template card.
+
+90
+00:09:32,388 --> 00:09:38,271
+Say assume you're creating an exponential video.
+This is what the process will look like. The
+
+91
+00:09:38,311 --> 00:09:42,553
+content manager or the copywriters will first
+come in here and they will click on this icon
+
+92
+00:09:42,573 --> 00:09:49,897
+over here. They'll click on duplicate and rename
+it according to the topic of the post, the
+
+93
+00:09:49,937 --> 00:09:55,657
+exponential video that they want to create.
+So for the sake of this example, let's say
+
+94
+00:09:55,717 --> 00:10:03,106
+the topic I choose the video to be on is how
+I was the lowest paid member on my team. So
+
+95
+00:10:03,246 --> 00:10:05,068
+I type that out over here.
+
+96
+00:10:18,642 --> 00:10:27,545
+as the title and I uncheck attachments and comments
+and comment attachments, remove the assignees
+
+97
+00:10:27,565 --> 00:10:34,689
+and the watches and all I need to do is click
+on duplicate task and a new task will be created.
+
+98
+00:10:35,889 --> 00:10:43,512
+In here it could take like a few seconds but
+after it is created I will click on the open
+
+99
+00:10:43,552 --> 00:10:51,511
+link after this pop-up comes up. and it will
+open up the newly created card. Now this is
+
+100
+00:10:51,671 --> 00:10:56,595
+what the template card structure looks like.
+So we have a bunch of guidelines about how
+
+101
+00:10:56,615 --> 00:11:01,320
+the task is supposed to be used. I'll shortly
+read through them. Always work directly the
+
+102
+00:11:01,360 --> 00:11:06,084
+parent task. Do not add descriptions or comments
+inside some tasks. So this is what you see.
+
+103
+00:11:06,244 --> 00:11:14,379
+What you see on the screen here is the parent
+task and In the parent task we may have subtasks,
+
+104
+00:11:14,499 --> 00:11:20,263
+for example we have 10 subtasks in this parent
+task for experiential videos, so it's a video
+
+105
+00:11:20,283 --> 00:11:25,587
+content format and these are the subtasks. You
+are not supposed to update anything in the
+
+106
+00:11:25,627 --> 00:11:32,112
+subtasks, it has also been specified here. Everything
+is to be updated in the main parent task. So
+
+107
+00:11:32,573 --> 00:11:36,215
+all the descriptions, post copies, updates,
+everything is to be updated from the parent
+
+108
+00:11:36,235 --> 00:11:43,823
+task itself. Just to be clear. The second guideline
+is that you always need to read through checklists
+
+109
+00:11:43,843 --> 00:11:47,785
+for each sub-task or status and after you're
+done with all the checklists for your sub-task
+
+110
+00:11:47,865 --> 00:11:53,608
+update the status. Now the interesting thing
+about the ClickUp templates is that for each
+
+111
+00:11:53,668 --> 00:11:59,931
+stage, say for example, this is a task for the
+content manager. So for each of these sub-tasks,
+
+112
+00:12:00,331 --> 00:12:06,614
+we have a dedicated checklist section that details
+each and every minute step that is to be taken
+
+113
+00:12:06,954 --> 00:12:15,446
+by the content manager for the sub-task. So
+whenever you have a... sub-tasks that is assigned
+
+114
+00:12:15,466 --> 00:12:21,269
+to you all you need is look at the checklist
+for that specific section see each of these
+
+115
+00:12:21,289 --> 00:12:26,831
+sub-tasks will have their own dedicated checklist
+sections that you can look through to understand
+
+116
+00:12:27,112 --> 00:12:34,055
+the different steps for completing that sub-task
+so it's basically like a short standard operating
+
+117
+00:12:34,075 --> 00:12:39,397
+procedure for each content format so that you
+don't have to think through about what to do
+
+118
+00:12:39,417 --> 00:12:45,181
+for each content format everything is goes according
+to process and you need to coordinate much
+
+119
+00:12:45,201 --> 00:12:49,926
+with each team member for each content format
+you just need to follow the process that is
+
+120
+00:12:49,966 --> 00:12:58,273
+being outlined in this template card. Now in
+addition to these, each of these subtasks can
+
+121
+00:12:58,313 --> 00:13:03,257
+be assigned to different team members. Say for
+example if the outlines, creating the outlines
+
+122
+00:13:03,277 --> 00:13:08,081
+for a piece of cotton is being done by the cotton
+manager, then it can be assigned to that cotton
+
+123
+00:13:08,121 --> 00:13:13,045
+manager on the team. If the drafts is being
+created by a copywriter on your team, you can
+
+124
+00:13:13,126 --> 00:13:19,551
+assign that to a copywriter on the team and
+select them in here. If the executive who reviews
+
+125
+00:13:19,571 --> 00:13:25,805
+the cotton and gives the approvals, So if you
+do the content, you can select them and assign
+
+126
+00:13:25,825 --> 00:13:30,657
+that specific sub-task to that theme. In addition
+to these, we also have
+
+127
+00:13:34,074 --> 00:13:41,377
+relationships built into each of these subtasks
+so that this task will not become due until
+
+128
+00:13:41,417 --> 00:13:46,359
+this task is completed. So considering that
+graphs can only be created after outlines have
+
+129
+00:13:46,379 --> 00:13:51,062
+been created there is a relationship set between
+these tasks so that this task will not become
+
+130
+00:13:51,082 --> 00:13:57,184
+due until this task is completed. So all of
+the subtasks have relationships, all of them
+
+131
+00:13:57,244 --> 00:13:58,505
+have mapped due dates
+
+132
+00:14:04,108 --> 00:14:09,490
+could take if it's being handled by a team member
+who's experienced with the process. We have
+
+133
+00:14:09,570 --> 00:14:15,592
+tag for the individual sub-tasks as well as
+tags for the main content formats so that later
+
+134
+00:14:15,672 --> 00:14:23,503
+on you can filter them and search them easily
+inside the job. And in the description section
+
+135
+00:14:23,584 --> 00:14:28,529
+of the task, so this is the description, editable
+description section of the task, you have a
+
+136
+00:14:28,609 --> 00:14:34,015
+rich text editor that you can use to add rich
+text, and at the same time, separate sections
+
+137
+00:14:34,055 --> 00:14:41,010
+for outlines, for the video script, for the
+post copy, as well as first comment. thumbnail
+
+138
+00:14:41,191 --> 00:14:45,816
+image captions if a thumbnail image is supposed
+to be created for that experiential video the
+
+139
+00:14:45,876 --> 00:14:52,284
+mail drive folder link where all the videos
+will be uploaded for that content process the
+
+140
+00:14:52,324 --> 00:14:59,867
+recordings folder link where This videos recording
+folder will be uploaded finished video you
+
+141
+00:14:59,947 --> 00:15:06,455
+ordered so that the Team members can easily
+access the video after it's done, review it
+
+142
+00:15:06,535 --> 00:15:11,618
+and publish it on LinkedIn, a subtitles file
+line, the thumbnail image for the video, and
+
+143
+00:15:11,658 --> 00:15:16,380
+the LinkedIn post URL after it is published.
+And you don't need to worry about how to fill
+
+144
+00:15:16,560 --> 00:15:23,183
+each of these. Again, for each of these steps
+from the ideation of the process, so right
+
+145
+00:15:23,223 --> 00:15:28,386
+when the content manager creates an outline,
+to publishing and promoting it on the user
+
+146
+00:15:28,426 --> 00:15:35,028
+profile and the company page, every single step
+of the process outlined in the checklist section
+
+147
+00:15:35,409 --> 00:15:42,571
+corresponding to each of the sub-tasks. So for
+the outline of an experience story video we
+
+148
+00:15:42,591 --> 00:15:50,950
+have a list of steps in the checklist that the
+content manager needs to do. If it's a different
+
+149
+00:15:50,990 --> 00:15:54,952
+content format, then the checklist has been
+personalized for that content format. So it's
+
+150
+00:15:55,012 --> 00:16:00,194
+different. Each template card is different,
+follows different process workflows specific
+
+151
+00:16:00,254 --> 00:16:02,175
+to that particular content format.
+
+152
+00:16:05,456 --> 00:16:11,099
+The reason we do this is because one of the
+biggest reasons for inefficiencies in a content
+
+153
+00:16:11,119 --> 00:16:18,998
+management process is the amount of coordination
+and communication that is required. I've been
+
+154
+00:16:19,058 --> 00:16:25,508
+running an agency for about four years now.
+And what I've learned is that even if you're
+
+155
+00:16:25,548 --> 00:16:31,958
+publishing content consistently, and a lot of
+the communication and coordination from your
+
+156
+00:16:31,998 --> 00:16:40,225
+team is manual one-on-one. You can still make
+content marketing work for you, but you will
+
+157
+00:16:40,245 --> 00:16:48,211
+be wasting a lot of your time. In fact, up to
+40% of your team's time involved in creating
+
+158
+00:16:48,251 --> 00:16:53,195
+and publishing and promoting a piece of content
+will go just into coordination and communication
+
+159
+00:16:53,235 --> 00:16:55,077
+and making sure everybody's on the same page.
+
+160
+00:16:58,130 --> 00:17:04,992
+a structured content management process that
+lists exactly what to do, assigns it to the
+
+161
+00:17:05,172 --> 00:17:10,913
+team members who are supposed to do it, who
+are responsible for it, and explains what is
+
+162
+00:17:10,953 --> 00:17:17,335
+to be done to each of them in a single place
+so that everyone is on the same page is the
+
+163
+00:17:17,395 --> 00:17:24,697
+best way to manage a content management process.
+And that is what the ClickUp content management
+
+164
+00:17:24,737 --> 00:17:31,619
+code does. Now I won't go into detail about
+like how the each of these content stages will
+
+165
+00:17:31,639 --> 00:17:35,401
+go in how the content piece will go through
+each of these stages. You've gotten a brief
+
+166
+00:17:35,461 --> 00:17:41,163
+overview but I will be explaining these in the
+dedicated videos for each of the content formats
+
+167
+00:17:41,763 --> 00:17:50,067
+later on in the module. Now let's take a look
+at how to. create or make a copy of this content
+
+168
+00:17:50,087 --> 00:17:55,610
+board for your own usage and then personalize
+it for your own usage. So below this video
+
+169
+00:17:55,730 --> 00:18:00,953
+you will find a link to this template content
+board. I'd like you to check that and open
+
+170
+00:18:00,973 --> 00:18:07,416
+that link in your browser. So ClickUp will first
+ask you to sign up. So I'm going to enter my
+
+171
+00:18:07,456 --> 00:18:13,880
+name in here and the email address and password.
+They're going to ask you to enter a complex
+
+172
+00:18:13,900 --> 00:18:19,250
+password so let me just go ahead and enter the
+password and click on the table. So I just
+
+173
+00:18:19,290 --> 00:18:28,393
+did that and I'm clicking on play with ClickUp
+and now a form should load asking us to enter
+
+174
+00:18:28,634 --> 00:18:33,476
+a confirmation code that was sent to the email
+address. I'm just going to copy that and paste
+
+175
+00:18:33,556 --> 00:18:39,218
+it in there and we are done and now ClickUp
+should take us in and here there'll be another
+
+176
+00:18:39,258 --> 00:18:44,520
+form where they'll ask us a bunch of details
+about the workspace so you can name this as
+
+177
+00:18:45,000 --> 00:18:46,601
+whatever your company name is.
+
+178
+00:18:49,750 --> 00:18:50,708
+the content.
+
+179
+00:18:54,079 --> 00:18:59,127
+and just click on avatar you can drop like your
+logo or something that sort of here I'm just
+
+180
+00:18:59,148 --> 00:19:05,118
+gonna skip it so far and then color theme but
+I love red so I'm just gonna go with that how
+
+181
+00:19:05,138 --> 00:19:08,406
+many people will you be working with this is
+not really important So you can just mention
+
+182
+00:19:08,426 --> 00:19:12,368
+this I don't know. How do you want to start
+using click up? So you can say something like
+
+183
+00:19:12,408 --> 00:19:19,751
+marketing your context. How did you hear about
+us? We can say other This is not really important.
+
+184
+00:19:19,771 --> 00:19:24,033
+You can say anything you want Just click on
+something or just said to imagine true because
+
+185
+00:19:24,053 --> 00:19:28,475
+we he prefer I refer a lot of people to click
+up because I think It's been cast soon. You
+
+186
+00:19:28,495 --> 00:19:31,777
+don't need to invite people at this stage I
+will show you how to do this later on so click
+
+187
+00:19:31,797 --> 00:19:38,460
+on I am done You can integrate click up to slack
+and a bunch of other apps point you can do
+
+188
+00:19:38,500 --> 00:19:42,721
+it later on, click on no thanks. Any of these
+tools for project management that's up to you,
+
+189
+00:19:43,081 --> 00:19:46,842
+I'm just going to go ahead and no thanks and
+click on play with ClickUp. And that's it and
+
+190
+00:19:46,882 --> 00:19:53,503
+ClickUp is going to load and set up a workspace
+for us. So I'm going to, you can watch the
+
+191
+00:19:53,523 --> 00:19:57,544
+video if you'd like, I'm going to skip it for
+now. I suggest you walk in so that you get
+
+192
+00:19:57,564 --> 00:20:07,524
+familiar with the tool and you understand how
+to use it. And then... I just opened the link
+
+193
+00:20:08,545 --> 00:20:11,948
+which you can find in the description below
+which is the link to the template board. So
+
+194
+00:20:11,968 --> 00:20:18,234
+just open that link in the same browser window
+and they will ask you to create your own list,
+
+195
+00:20:18,274 --> 00:20:22,458
+copy that list and use that template. So you
+can name it as you like, it's up to you. Select
+
+196
+00:20:22,478 --> 00:20:28,274
+a space or folder, it's up to you, you can select
+a space but it's not really needed. and you
+
+197
+00:20:28,294 --> 00:20:34,618
+can click on also save a list copy of this template
+to my workspace and share it with all members
+
+198
+00:20:34,678 --> 00:20:40,442
+click on use template and that should be more
+than enough i think i need to select this piece
+
+199
+00:20:40,482 --> 00:20:45,846
+over here so i just select this piece and then
+click on use template okay we need a unique
+
+200
+00:20:45,866 --> 00:20:54,075
+name as well so let's just see i'm just gonna
+call it IGCon For now, you can personalize
+
+201
+00:20:54,115 --> 00:21:01,145
+it as you like and click on use template. And
+now, clitorp will copy the template list and
+
+202
+00:21:01,205 --> 00:21:07,732
+template board and the view and all. template
+cards with all the sub tests, tasks, checklists,
+
+203
+00:21:07,812 --> 00:21:15,699
+all the tags, everything is going to be copied
+into your list. So what you see here is a view.
+
+204
+00:21:16,079 --> 00:21:20,964
+So that's the way we view the tasks. So what
+you see here is a list view. But what we are
+
+205
+00:21:21,004 --> 00:21:25,407
+interested in is a board view. So the board
+view is what we saw earlier, where it looks
+
+206
+00:21:25,427 --> 00:21:34,082
+like this. And of these cards represent a template
+card for each post and you need to duplicate
+
+207
+00:21:34,122 --> 00:21:40,908
+this whenever you want to create a new experiential
+video or if you want to create say a Q&A video
+
+208
+00:21:41,408 --> 00:21:48,394
+or a slide post you can click on here you can
+click on duplicate rename it okay again you
+
+209
+00:21:48,434 --> 00:21:54,940
+need to uncheck attachments and comments and
+comment attachments and then you don't need
+
+210
+00:21:57,638 --> 00:22:03,540
+either and then you can click on duplicate task
+and a new task will be created there will be
+
+211
+00:22:03,560 --> 00:22:09,682
+a small pop-up in this corner if you want to
+create it and that is what you can open and
+
+212
+00:22:09,722 --> 00:22:14,104
+edit let me just show it to you quickly so that
+you understand again you take a template card
+
+213
+00:22:14,224 --> 00:22:18,606
+so if you want to create a new slide post you
+take a template card you click on duplicate
+
+214
+00:22:19,386 --> 00:22:22,888
+and you theme it as you like so in my case it's
+how do i um first be released
+
+215
+00:22:30,890 --> 00:22:35,971
+So, gonna create a carousel on that. So you
+uncheck attachments. Every single time you
+
+216
+00:22:35,991 --> 00:22:42,033
+do it, you uncheck attachments. Comments and
+comment attachments, as well as assignees and
+
+217
+00:22:42,073 --> 00:22:48,035
+copywatches. We don't need these. So, I mean,
+it's okay if you've selected them. It doesn't
+
+218
+00:22:48,055 --> 00:22:53,136
+matter much. But if there's any attachments
+that you've made by mistake in the template
+
+219
+00:22:53,156 --> 00:22:58,922
+cards, if you've edited the template cards,
+you should never do. the attachments won't
+
+220
+00:22:58,942 --> 00:23:03,104
+get copied, so the task will stay clean. But
+once you're done with that, you can just click
+
+221
+00:23:03,165 --> 00:23:07,707
+on duplicate task, and you should wait for a
+while ClickerPace is copying the task right
+
+222
+00:23:07,727 --> 00:23:14,891
+now. So this will finish loading in a while,
+takes about 10 seconds, it's done, and it will
+
+223
+00:23:14,991 --> 00:23:21,034
+open it up directly, or you can click on this
+open, and it will open it up, and then you
+
+224
+00:23:21,055 --> 00:23:26,998
+can start working on the task where the content
+manager goes through each step in his... list
+
+225
+00:23:27,178 --> 00:23:31,500
+so it takes a look at the subtask and then the
+first thing is create a copy of the template
+
+226
+00:23:31,520 --> 00:23:36,482
+task and change parent task status to outlines
+so he comes in here and he selects the parent
+
+227
+00:23:36,522 --> 00:23:42,464
+task to outlines but i'm not going to discuss
+more about the individual steps for the content
+
+228
+00:23:42,504 --> 00:23:48,207
+management process for each content format because
+we have separate videos later on in the module
+
+229
+00:23:48,227 --> 00:23:53,509
+for that all right so this is how you create
+your own click up template code and start using
+
+230
+00:23:53,569 --> 00:24:01,261
+it and now Let's talk a bit about how to filter
+for specific content formats as needed. So,
+
+231
+00:24:02,142 --> 00:24:08,507
+filtering is good because it allows you to easily
+identify content formats. So you can search
+
+232
+00:24:08,547 --> 00:24:12,750
+and filter. There's options for both filtering
+and searching in here. So if you want to quickly
+
+233
+00:24:12,810 --> 00:24:17,673
+find the content format for informative posts,
+we just need to search that and it will bring
+
+234
+00:24:17,714 --> 00:24:21,897
+it up here. See if you want slide posts, just
+type out the first few words and it will come
+
+235
+00:24:21,937 --> 00:24:29,422
+up here. Q&A videos it will come up here in
+this manner. So it's pretty easy to search
+
+236
+00:24:29,502 --> 00:24:34,666
+and you can do this for even for like say content
+pieces that have been created in the board.
+
+237
+00:24:35,646 --> 00:24:41,531
+So if you have a lot of content formats already
+for different for content that you've already
+
+238
+00:24:41,551 --> 00:24:46,194
+created you can come in here and just search
+for whatever the topic of that post was and
+
+239
+00:24:46,314 --> 00:24:51,994
+it should bring it up for you. In my case for
+example I've already created a post on how
+
+240
+00:24:52,014 --> 00:24:56,277
+was the least paid member. So all I need to
+do, and there's not a lot of tasks on this
+
+241
+00:24:56,317 --> 00:25:02,040
+board. So it is not very important, but if you
+want to do it, I could just create it like
+
+242
+00:25:02,060 --> 00:25:08,444
+this and I would be able to get the template
+more easily. So that is how you search for
+
+243
+00:25:08,464 --> 00:25:16,850
+tasks. And now let's take a look at the filtering.
+So in here, there is an option to... filter
+
+244
+00:25:16,870 --> 00:25:23,139
+for tasks you can be able to see it find it
+here or if you're using the website you'll
+
+245
+00:25:23,159 --> 00:25:28,967
+be the ux is a bit different the filtering option
+is in here and you can use it i recommend using
+
+246
+00:25:29,027 --> 00:25:39,532
+the desktop app because it's faster and ease
+of access of any platform is very important
+
+247
+00:25:39,693 --> 00:25:43,856
+if you want to actively take action. So the
+more easier ClickUp is to access and let's
+
+248
+00:25:43,896 --> 00:25:49,760
+say create, edit, suggest, edit, so review content,
+the more you'll end up using it and the more
+
+249
+00:25:49,800 --> 00:25:54,003
+results you'll be able to generate with the
+content management process. So our filtering
+
+250
+00:25:54,023 --> 00:25:59,743
+is a bit different, but it works the same way
+on. for the actual filtering process, you click
+
+251
+00:25:59,803 --> 00:26:05,628
+on this and you get filtered by every single
+data field inside the ClickUp task, starting
+
+252
+00:26:05,648 --> 00:26:11,693
+from the due dates to the priorities to who
+it's assigned to, to when it's created, what
+
+253
+00:26:11,713 --> 00:26:16,217
+the due dates are, if there's any dependencies,
+what the location is. So it's one of the most
+
+254
+00:26:16,277 --> 00:26:21,981
+customizable task management platforms in the
+world today. This is why I said that. And if
+
+255
+00:26:22,001 --> 00:26:31,499
+you want to quickly filter for a specific task
+that is in a specific status or that specific
+
+256
+00:26:31,639 --> 00:26:36,740
+tag. You can do it over here step by step. So
+it's pretty easy to understand if task status
+
+257
+00:26:36,880 --> 00:26:43,762
+is or is not, and you can select like all the
+task status options. If assignee is, you can
+
+258
+00:26:43,782 --> 00:26:47,583
+select like any particular assignee of the team.
+So you can filter for like whatever we want.
+
+259
+00:26:48,804 --> 00:26:55,205
+But typically, almost all data fields that are
+available in the task, you can filter using
+
+260
+00:26:55,225 --> 00:26:55,745
+them all.
+
+261
+00:26:59,030 --> 00:27:05,215
+Now the next step after this is to of course
+add more team members to the template board
+
+262
+00:27:05,235 --> 00:27:06,617
+so that more team members can come in.
+
+263
+00:27:10,178 --> 00:27:14,519
+you can start assigning tasks and launch the
+content process. So for that, all you need
+
+264
+00:27:14,539 --> 00:27:19,121
+to do is go over here, click on this three dots
+icon over here, that is the list settings.
+
+265
+00:27:19,882 --> 00:27:24,384
+So whatever you've named your content board
+as, just click go to over here at the top and
+
+266
+00:27:24,404 --> 00:27:29,366
+click on list settings. And then at the bottom,
+you can find sharing and permissions. If you
+
+267
+00:27:29,406 --> 00:27:35,809
+click on sharing and permissions, you will be
+able to invite people by name. So I've already
+
+268
+00:27:35,889 --> 00:27:41,217
+added a lot of, added a lot of team. of people
+on my team but in addition to that you can
+
+269
+00:27:41,397 --> 00:27:48,064
+add your team members you can if you already
+bulk added them and you can you want to share
+
+270
+00:27:48,805 --> 00:27:55,892
+access to them to the specific list you can
+just type their name but if they're not signed
+
+271
+00:27:55,932 --> 00:28:08,050
+up to clicker yet you just need to their email
+address in this manner and send them an email
+
+272
+00:28:08,311 --> 00:28:13,677
+and an email should get sent to them and after
+they click on invite they join they should
+
+273
+00:28:13,697 --> 00:28:16,700
+be able to access kick up. So
+
+274
+00:28:20,026 --> 00:28:24,391
+At the moment, click-up usage is completely
+free, so this entire template board can be
+
+275
+00:28:24,491 --> 00:28:28,935
+used for free. You can take a paint plan if
+you want to customize it and if you want to
+
+276
+00:28:29,035 --> 00:28:34,661
+use it for more task management and so on, but
+at the moment, you can add sufficient team
+
+277
+00:28:34,681 --> 00:28:41,575
+members for the entire content management process
+completely for free. Now one of the things
+
+278
+00:28:41,635 --> 00:28:47,343
+I want to assure you of is that you do not need
+to follow. the exact structure. While the structure
+
+279
+00:28:47,523 --> 00:28:53,706
+or the process flow that we teach in the program
+is based on actual work that we've done as
+
+280
+00:28:53,746 --> 00:28:58,128
+an agency over the past four years, you don't
+really need to follow the exact process. Now
+
+281
+00:28:58,168 --> 00:29:03,350
+we've seen this process to work really well,
+so you can follow this exact same process.
+
+282
+00:29:03,990 --> 00:29:09,373
+But if you have a better process that you think
+will work better for your team structure or
+
+283
+00:29:09,413 --> 00:29:13,995
+for your own use case, say suppose you're not
+using a different content manager or a different
+
+284
+00:29:14,035 --> 00:29:19,937
+copywriter. What you can do is you can combine
+both these checklists into one. So you can
+
+285
+00:29:20,097 --> 00:29:25,878
+edit each, all of these elements on the clickup
+task. You can edit everything from the tags
+
+286
+00:29:26,378 --> 00:29:36,341
+to the statuses. You can customize the statuses
+of the content board by clicking on the status
+
+287
+00:29:36,361 --> 00:29:42,644
+column. So you click on this. Sorry, I can't
+talk about this. click on this button of the
+
+288
+00:29:42,684 --> 00:29:47,988
+status and we click on add or edit statuses
+and you can update the statuses in here. So
+
+289
+00:29:48,068 --> 00:29:54,313
+statuses are categorized as not started statuses
+or templates as a not started status which
+
+290
+00:29:54,353 --> 00:29:59,618
+means we're not using the task or the task is
+not activated it's not been assigned it. Active
+
+291
+00:29:59,658 --> 00:30:04,722
+statuses is when we begin the work on that task
+and finally done statuses is when we post it
+
+292
+00:30:04,742 --> 00:30:12,673
+to be some content or the sub tasks are complete
+and so on. So That is it with statuses. The
+
+293
+00:30:12,713 --> 00:30:18,759
+statuses can be edited. The descriptions and
+the titles can be edited. The different sections
+
+294
+00:30:18,779 --> 00:30:23,703
+and the descriptions can be edited. The subtasks
+can be edited. So you can edit each of these
+
+295
+00:30:23,743 --> 00:30:29,629
+subtasks, rename them. You can add different
+time estimates for them. You can edit the...
+
+296
+00:30:31,906 --> 00:30:36,930
+different tags added for the sub-tasks. You
+can change the due dates. So all of these things
+
+297
+00:30:37,370 --> 00:30:43,515
+can be done within the sub-tasks itself. Or
+you can even change the relationships of each
+
+298
+00:30:43,555 --> 00:30:50,141
+of these sub-tasks and edit the names of the
+sub-tasks, change the order, delete sub-tasks.
+
+299
+00:30:50,661 --> 00:30:57,787
+We can edit or delete, sub-type this checklist
+as well so that you can personalize it if you
+
+300
+00:30:57,847 --> 00:31:03,891
+need, if you'd like, for your own process workflow.
+We would recommend that you stick to this process
+
+301
+00:31:03,911 --> 00:31:08,894
+workflow if you work with multiple team members.
+Say you have a copywriter and a content manager
+
+302
+00:31:09,054 --> 00:31:12,395
+or a graphic designer or a video editor. So
+there are multiple members of the team and
+
+303
+00:31:12,415 --> 00:31:18,003
+you're not handling the entire content management
+process yourself. this workflow should work
+
+304
+00:31:18,623 --> 00:31:23,766
+more than fine. Even if you're handling multiple
+responsibilities, say there is a content that
+
+305
+00:31:24,086 --> 00:31:28,129
+the same person is handling both the content
+management and the copywriting process, you
+
+306
+00:31:28,149 --> 00:31:35,033
+can assign both the sub-tasks to the same person.
+It's completely fine. The only scenario where
+
+307
+00:31:35,094 --> 00:31:40,617
+this entire click-up process is not needed is
+if you're handling the entire process on your
+
+308
+00:31:40,637 --> 00:31:46,456
+own. Say you're handling the entire ideation
+creation process on your own and you're only
+
+309
+00:31:46,496 --> 00:31:51,538
+having an executive assistant or a virtual assistant
+on your team publishing the content. So in
+
+310
+00:31:51,558 --> 00:31:55,180
+such a scenario, a content management board
+like this is not needed. You can simply create
+
+311
+00:31:55,260 --> 00:32:00,463
+a Google Sheet and add it there. But if you
+have like more team members involved in the
+
+312
+00:32:00,503 --> 00:32:05,365
+content creation process itself or the content
+approval process itself or the ideation process
+
+313
+00:32:05,405 --> 00:32:05,745
+itself.
+
+314
+00:32:10,442 --> 00:32:19,545
+This is the best structure that you can flow,
+that you can follow for a content management
+
+315
+00:32:19,585 --> 00:32:22,486
+process that is well optimized and efficient.
+So there are two types of views in the template
+
+316
+00:32:22,526 --> 00:32:26,867
+board. So one is the board view where you can
+see all the content, the entire content management
+
+317
+00:32:26,887 --> 00:32:32,248
+process, all the cards in all the formats, and
+the different content management stages they
+
+318
+00:32:32,288 --> 00:32:39,995
+are in, like outlines or graphs or content management.
+approval or awaiting media file on EDX approval
+
+319
+00:32:40,015 --> 00:32:46,676
+and so on. And in addition to that, we have
+a list for the subtasks. Now while the board
+
+320
+00:32:46,736 --> 00:32:56,319
+is for an overall view of all the content pieces,
+the list is for the subtasks that the individual
+
+321
+00:32:56,339 --> 00:32:57,419
+team members have to work on.
+
+322
+00:33:05,218 --> 00:33:11,481
+graphic designing of the video editing tasks
+or the approval tasking or the task sub-tasks
+
+323
+00:33:11,501 --> 00:33:16,964
+for posting on the company page or the user
+profile and so on. So all the sub-tasks have
+
+324
+00:33:17,265 --> 00:33:24,829
+been listed in the list sub-tasks view and the
+main board with all the content pieces, if
+
+325
+00:33:24,849 --> 00:33:30,512
+you'd like to take a look at how many we have
+in the approved stage, how many are ready for
+
+326
+00:33:30,552 --> 00:33:35,271
+approval, how many are being edited on. how
+many adjusted drafts and the copywriters are
+
+327
+00:33:35,291 --> 00:33:39,533
+working on them and how many are just in outlines
+waiting for the content manager to add an outline.
+
+328
+00:33:40,094 --> 00:33:46,678
+So the board is for an overall view of the entire
+content management process and the list or
+
+329
+00:33:46,698 --> 00:33:53,202
+the subtasks are for the individual subtasks
+that the that the team needs to work on. So
+
+330
+00:33:53,282 --> 00:34:00,646
+all you need to do is handle the board while
+you're working on the the content addition
+
+331
+00:34:00,666 --> 00:34:04,629
+call. So the content managers will come in here,
+the copywriters will come in here, and they
+
+332
+00:34:04,669 --> 00:34:08,632
+can make a copy of the individual template cards.
+They can duplicate the individual template
+
+333
+00:34:08,652 --> 00:34:14,716
+cards, rename them, and start working on the
+tasks, the sub-tasks, interview, adding outlines,
+
+334
+00:34:14,756 --> 00:34:18,699
+creating graphs, and so on. They can go about
+their work. But if you'd like to take, if any
+
+335
+00:34:18,719 --> 00:34:23,942
+of the team members in the content marketing
+team needs to take a look at the tasks that
+
+336
+00:34:23,962 --> 00:34:29,850
+they need to work on every day for the content
+management process, they can just come to list
+
+337
+00:34:30,730 --> 00:34:36,053
+and in here you can see all the assigned tasks
+that are yet as still in assigned stage that
+
+338
+00:34:36,073 --> 00:34:41,535
+the team members need to work on. So if they'd
+like to come in here and if you want to see
+
+339
+00:34:41,755 --> 00:34:47,438
+only the tasks that are assigned to you in your
+queue in ClickUp, just click on this mean button
+
+340
+00:34:47,898 --> 00:34:53,020
+and it will filter out all the sub tasks that
+are assigned to other team members. So for
+
+341
+00:34:53,080 --> 00:34:58,699
+example, these are all the tasks that are assigned
+to me. So I do a lot of different kinds of
+
+342
+00:34:58,719 --> 00:35:02,662
+work, which is why you see different kinds of
+tasks in here. Say for example, posting, client
+
+343
+00:35:02,702 --> 00:35:09,687
+review, writing outlines or video editing. But
+if a video editor comes in here, they will
+
+344
+00:35:09,747 --> 00:35:13,069
+only see video editing tasks. If a copywriter
+or content manager comes in here, they will
+
+345
+00:35:13,129 --> 00:35:17,633
+only see the content tasks or the copywriting
+tasks or the content review tasks. If you're
+
+346
+00:35:17,653 --> 00:35:22,416
+the executive, when you come in here, you will
+only see the client tasks or the review tasks
+
+347
+00:35:22,456 --> 00:35:29,613
+that you need to focus on. So It is segregated
+easily so that you can quickly work, you can
+
+348
+00:35:29,633 --> 00:35:37,259
+quickly take a look at the tasks, the sub tasks
+that you need to work on. So the copy, if you're
+
+349
+00:35:37,279 --> 00:35:43,524
+a copywriter, you'll only see the posts that
+you have to create, the copies that you have
+
+350
+00:35:43,544 --> 00:35:49,088
+to generate. If you're a video editor, you'll
+only see the links to the actual videos that
+
+351
+00:35:49,108 --> 00:35:53,848
+you need to edit and so on. Now one thing to
+note over here which is very, very important
+
+352
+00:35:53,928 --> 00:35:59,393
+and I want you to internalize this a gift in
+your mind is do not work on the sub task. If
+
+353
+00:35:59,413 --> 00:36:03,716
+you come in here and we click on this it will
+open the sub task. But in here we've dropped
+
+354
+00:36:03,736 --> 00:36:07,880
+something in here. Do not update anything in
+the sub task. Always work on parent task. So
+
+355
+00:36:07,920 --> 00:36:13,004
+if you go up you'll see the button to the main
+parent task in here. But even in the list in
+
+356
+00:36:13,024 --> 00:36:17,868
+the sub task list that you see over here you
+have an option to click go directly to the
+
+357
+00:36:17,888 --> 00:36:21,874
+parent task. So always whenever you come in
+here. irrespective of what role you're working
+
+358
+00:36:21,934 --> 00:36:26,915
+in, just don't work on the subtasks in here.
+Click on this main parent task link instead,
+
+359
+00:36:27,355 --> 00:36:31,196
+which will open up a parent task. You can see
+the subtasks that are assigned to you in here
+
+360
+00:36:31,497 --> 00:36:38,939
+and you can start working on them as opposed
+to working on the individual subtasks. So we
+
+361
+00:36:38,959 --> 00:36:44,140
+do not work on subtasks in this because all
+the details of all the post copies, all the
+
+362
+00:36:44,200 --> 00:36:51,882
+work, the links, everything is added inside
+the parent task. So please keep that in mind.
+
+363
+00:36:52,082 --> 00:36:57,003
+When you come in here, do not click on this
+link, click on this main link of the parent
+
+364
+00:36:57,043 --> 00:37:07,366
+task. So this link. All right. Now, while the
+subtasks are for an overview of the task that
+
+365
+00:37:07,386 --> 00:37:12,027
+you need to work on, and you can filter for
+your own task by clicking on this me button
+
+366
+00:37:12,067 --> 00:37:17,509
+over here. The board view is an overall view
+for the content-addition calls. So when you're
+
+367
+00:37:17,529 --> 00:37:23,971
+working on the content-addition calls, and you
+want to note down a bunch of ideas from the
+
+368
+00:37:24,051 --> 00:37:28,593
+ideas discussed by the executive or by other
+team members on the content-edition calls or
+
+369
+00:37:28,653 --> 00:37:34,195
+after the content-edition calls, you can come
+in here, you can make a copy of this template
+
+370
+00:37:34,215 --> 00:37:40,978
+card and include the outline or the ideas in
+there. Even if you are a copywriter and you
+
+371
+00:37:40,998 --> 00:37:45,460
+want to suggest a few ideas that are to be discussed
+on the content-edition calls before the content-edition
+
+372
+00:37:45,500 --> 00:37:52,448
+call, you can come in here and make a copy of
+the template card. and add them in here. Now
+
+373
+00:37:52,488 --> 00:38:01,114
+that sums up how you can use the different views
+in ClickUp, both for content, the overall content
+
+374
+00:38:01,134 --> 00:38:05,857
+management, as well as the individual sub-tasks
+that you should be working on every day. So
+
+375
+00:38:05,917 --> 00:38:10,120
+this is the main list that you should be working
+on every day to see the tasks that are assigned
+
+376
+00:38:10,140 --> 00:38:14,463
+to you, the individual sub-tasks that are assigned
+to you, so that you can continue with the work
+
+377
+00:38:14,503 --> 00:38:20,223
+and progress each content piece to the next
+content next stage in the content marketing
+
+378
+00:38:20,243 --> 00:38:27,409
+process. And the content board is only for creating
+templates and getting an overall view of where
+
+379
+00:38:27,429 --> 00:38:34,355
+we are in the content management process for
+each content piece. So you can quickly get
+
+380
+00:38:34,375 --> 00:38:38,178
+an overview of like each content piece in here.
+There will be different stages in the content
+
+381
+00:38:38,198 --> 00:38:42,882
+management process and that can be seen on the
+board. So you have two modes. You have two
+
+382
+00:38:42,942 --> 00:38:48,491
+views. One is board and the other is a list
+called subtasks. where you can see the subtasks
+
+383
+00:38:48,511 --> 00:38:55,136
+that are assigned to you. Next, let's go over
+a few rules that you have to follow when you're
+
+384
+00:38:55,156 --> 00:39:02,782
+working in ClickUp and using the template boards.
+So the first rule is that the correct views
+
+385
+00:39:02,822 --> 00:39:09,368
+that you need. So these views have settings.
+So all of them have been configured in the
+
+386
+00:39:09,408 --> 00:39:13,151
+template board already for you. So all you need
+to do is just take a look at the board view
+
+387
+00:39:13,291 --> 00:39:19,296
+and the list view. And all the filters are set.
+in here so we only have one filter and the
+
+388
+00:39:19,416 --> 00:39:24,699
+one filter in the list subtasks list view is
+that you can only see the assigned subtask
+
+389
+00:39:24,719 --> 00:39:32,124
+so this status has been selected and that is
+the only type of type of task that you can
+
+390
+00:39:32,164 --> 00:39:38,208
+see in here so you can see only the subtask
+with the assigned status in this board and
+
+391
+00:39:38,249 --> 00:39:42,932
+in addition to that we've also set a setting
+for the subtasks so that subtasks are all shown
+
+392
+00:39:42,972 --> 00:39:47,074
+as separate tasks as part of like the original
+parent task. So these settings have already
+
+393
+00:39:47,114 --> 00:39:51,296
+been configured for you. You don't need to make
+any changes. But whenever you make an additional
+
+394
+00:39:51,316 --> 00:39:57,258
+filter, say for example, I'm adding an additional
+filter for QDate, all right? So I want to see
+
+395
+00:39:57,278 --> 00:40:02,080
+the task that I do today. ClickUp will ask you
+to save it. You see this prompt called, you
+
+396
+00:40:02,120 --> 00:40:07,302
+change the layout, save or reload. And this
+view has unsaved changes. Do not save on this.
+
+397
+00:40:07,542 --> 00:40:12,204
+So if you add any additional filters and you
+want to go back to the original thing, you
+
+398
+00:40:12,244 --> 00:40:18,140
+just need to reload your view. reload clickup
+so if I reload clickup like this I just reloaded
+
+399
+00:40:18,200 --> 00:40:25,406
+it by entering command R or control R and it
+will automatically revert to the old view so
+
+400
+00:40:25,426 --> 00:40:31,491
+that nothing is changed do not save the additional
+views that you want because it could mess up
+
+401
+00:40:31,672 --> 00:40:37,877
+the filtering and the settings and that we've
+already saved in the clickup view for you okay
+
+402
+00:40:37,897 --> 00:40:44,102
+so this is the best view you can personalize
+this view for your own use case but until you've
+
+403
+00:40:44,162 --> 00:40:47,463
+tested it out properly and you're made should
+you sure that this is the view that you need
+
+404
+00:40:47,883 --> 00:40:53,125
+do not update the view because the view will
+be updated for all the team members who are
+
+405
+00:40:53,285 --> 00:40:59,988
+using this specific list. So the views that
+you want are already configured. If you make
+
+406
+00:41:00,048 --> 00:41:04,530
+any additional filtering say for example if
+I entered filtering in this board as well,
+
+407
+00:41:04,870 --> 00:41:08,932
+ClickUp will ask me if I want to save this.
+Then go ahead and save it. If you change the
+
+408
+00:41:08,972 --> 00:41:10,232
+view it will get updated for
+
+409
+00:41:14,030 --> 00:41:18,573
+If you want filtering, you can just use it as
+you like. You can filter and use it as you
+
+410
+00:41:18,613 --> 00:41:22,696
+like, but do not save it. When you save it,
+it will get updated for all the team members.
+
+411
+00:41:23,556 --> 00:41:31,542
+All right. So that was the first rule. The second
+rule is that subtasks and parent tasks have
+
+412
+00:41:31,582 --> 00:41:37,446
+different types of statuses. So let me explain
+that for a moment. So subtasks, for example,
+
+413
+00:41:37,486 --> 00:41:45,275
+will have two task statuses. So the first task
+status for subtasks will be assigned and this
+
+414
+00:41:45,355 --> 00:41:51,339
+other task status for subtasks will be completed.
+So there is only two task statuses for subtasks,
+
+415
+00:41:51,799 --> 00:41:56,201
+assigned and completed. So if something is assigned
+to you, you just need to work on it and market
+
+416
+00:41:56,221 --> 00:42:02,645
+is complete. That is it, very simple. But parent
+tasks will have different statuses. So a content
+
+417
+00:42:02,665 --> 00:42:08,848
+piece on LinkedIn can go from outlines to drafts
+to CM approval revisions to a waiting media
+
+418
+00:42:08,868 --> 00:42:13,986
+file to DDEX approval to a waiting recording.
+to need to be ready to be posted to user profile,
+
+419
+00:42:14,006 --> 00:42:18,668
+ready to be posted to company page. And we have
+an extra analytics step if you'd like to track
+
+420
+00:42:18,708 --> 00:42:24,849
+analytics, but this is not included in your
+existing process. But these from outlines to
+
+421
+00:42:25,069 --> 00:42:31,831
+ready to be posted on company page are the task
+statuses for the parent task. To make sure
+
+422
+00:42:31,851 --> 00:42:35,592
+that you don't get confused by this, everything
+has been mentioned in here. So like whenever
+
+423
+00:42:35,633 --> 00:42:40,838
+you need to update the status after you're done
+with a specific sub task. What status updates
+
+424
+00:42:40,918 --> 00:42:45,640
+like what you need to change it to and how you
+need to change it are all mentioned in here
+
+425
+00:42:45,680 --> 00:42:51,963
+So that you don't get confused and this is different
+for each content format So you have like personalized
+
+426
+00:42:52,383 --> 00:42:58,325
+step-by-step checklist for each Content format
+created for you in the template cards so that
+
+427
+00:42:58,345 --> 00:43:02,647
+you don't get confused But this is just so that
+you understand that this is the structure that
+
+428
+00:43:02,687 --> 00:43:07,949
+is to be followed Or the process that is to
+be followed for parent tasks and sub tasks.
+
+429
+00:43:07,969 --> 00:43:14,051
+So just recapping The subtasks which are included
+in the main parent tasks, so these are all
+
+430
+00:43:14,091 --> 00:43:19,832
+subtasks, will have only two task statuses.
+One will be assigned and the other one is completed.
+
+431
+00:43:20,312 --> 00:43:27,634
+So at the start when the cotton manager or the
+CM creates the cotton piece from the template
+
+432
+00:43:27,674 --> 00:43:34,176
+card and he'll assign, he or she will assign
+all the individual subtasks to all the team
+
+433
+00:43:34,196 --> 00:43:39,830
+members who were involved in the creation of
+that cotton piece. And When the team members
+
+434
+00:43:39,850 --> 00:43:44,753
+work on them, they'll have it in assigned status
+and all they need to do is mark it as complete
+
+435
+00:43:44,793 --> 00:43:49,595
+after they're done. So sub-tasks will have only
+two task statuses. One is assigned when it's
+
+436
+00:43:49,635 --> 00:43:54,538
+assigned to them and one is completed when they've
+completed working on their task. But parent
+
+437
+00:43:54,558 --> 00:44:01,442
+task statuses, the parent tasks will have multiple
+statuses. So it will start from outlines to
+
+438
+00:44:01,462 --> 00:44:06,365
+graphs to scene approval to awaiting media file
+to media approval, awaiting recording based
+
+439
+00:44:06,405 --> 00:44:14,056
+on like what stage that content is in and finally
+in ready to be posted company page which will
+
+440
+00:44:14,076 --> 00:44:19,378
+be the last status and after the post is published
+and all the work has been done for that post
+
+441
+00:44:19,699 --> 00:44:28,743
+they can mark it as posted. So posted is the
+final done or completed status for the main
+
+442
+00:44:28,803 --> 00:44:34,965
+parent task. Now the reason we specify is this
+because when you select the task status is
+
+443
+00:44:35,045 --> 00:44:42,324
+in here there is an option to like say add this
+as outlines or drafts. So do not mark the subtask
+
+444
+00:44:42,344 --> 00:44:47,686
+statuses as anything other than assigned or
+completed. So whenever you work on a content
+
+445
+00:44:47,706 --> 00:44:53,408
+piece the subtask should only have assigned
+or completed statuses. Do not update them as
+
+446
+00:44:53,448 --> 00:45:01,828
+any of these any of these main parent task statuses.
+So make sure you follow this process exactly
+
+447
+00:45:01,868 --> 00:45:09,236
+to avoid confusions in the team. So that was
+the ClickUp Cottonboard. And now let's talk
+
+448
+00:45:09,276 --> 00:45:15,342
+about some final updates. The templates will
+be updated from time to time. So over the course
+
+449
+00:45:15,382 --> 00:45:22,408
+of your program, as you're taking the IG program,
+the templates will be updated by us. We could
+
+450
+00:45:22,568 --> 00:45:27,292
+add update existing templates or we could be
+adding new templates for new cotton formats
+
+451
+00:45:27,332 --> 00:45:32,737
+that are performing very well on LinkedIn. But
+all of these updates will be announced in the
+
+452
+00:45:32,777 --> 00:45:40,756
+group watching calls. or in the WhatsApp communities.
+So make sure that you are paying attention
+
+453
+00:45:40,796 --> 00:45:46,199
+to any of these announcements that we make in
+the WhatsApp community or via email or in the
+
+454
+00:45:46,219 --> 00:45:52,001
+group coaching calls. We typically announce
+these updates everywhere so that you can come
+
+455
+00:45:52,041 --> 00:45:57,003
+in here and add the new template cards for new
+content formats or update the existing template
+
+456
+00:45:57,043 --> 00:46:02,318
+cards. Now let's take a look at how you can
+replace your existing template card. All you
+
+457
+00:46:02,338 --> 00:46:07,422
+need to do is take a look at the link below
+this video. So below this video, there'll always
+
+458
+00:46:07,442 --> 00:46:14,428
+be a link of the template board. All you need
+to do is create a new copy. It's just like
+
+459
+00:46:14,468 --> 00:46:21,674
+how I created this board from a template board
+from the link below the video. Create a new
+
+460
+00:46:21,994 --> 00:46:29,020
+board and just copy this to the list, the new
+list, the new template board that you created.
+
+461
+00:46:29,040 --> 00:46:35,935
+So let me show you how to do that. So after
+you create a copy of the template board, whenever
+
+462
+00:46:35,975 --> 00:46:41,776
+we announce any updates, just make a new copy
+in here. And this is, for example, the template
+
+463
+00:46:41,796 --> 00:46:47,818
+board with all the content formats, all the
+updated content formats is the most updated
+
+464
+00:46:47,838 --> 00:46:53,039
+version of it. So if the announcement is that
+I've added two new content formats, we've added
+
+465
+00:46:53,099 --> 00:46:58,841
+two new content formats, say, viral text posts
+and viral tweets, for example, all you need
+
+466
+00:46:58,861 --> 00:47:04,095
+to do is duplicate this into your existing content.
+So assume this is your existing content board
+
+467
+00:47:04,615 --> 00:47:11,077
+with all the content formats that you're using
+right now with all the additional tasks if
+
+468
+00:47:11,097 --> 00:47:14,379
+you've already started your content management
+process. So there could be additional tasks
+
+469
+00:47:14,419 --> 00:47:19,541
+in here but the templates are in this column
+with the content formats that you're using
+
+470
+00:47:19,581 --> 00:47:25,523
+right now and we announce two new content formats.
+Say assume the two new content formats are
+
+471
+00:47:27,344 --> 00:47:33,856
+viral tweets and viral text posts and you need
+to start using these. All you need to do is
+
+472
+00:47:33,996 --> 00:47:41,162
+come in here, click on this button of more options,
+click on duplicate and copy the content formats
+
+473
+00:47:41,843 --> 00:47:46,266
+to the content board that you're using right
+now. So in our case it's the IG content board
+
+474
+00:47:46,286 --> 00:47:49,890
+that is the content board that we're using right
+now. So I just click on this and I click on
+
+475
+00:47:49,930 --> 00:47:59,077
+duplicate task and that is it. So this is how
+you copy new content formats that we announced.
+
+476
+00:48:00,038 --> 00:48:06,641
+in the program to your content board. So just
+click on more options and click on duplicate
+
+477
+00:48:07,342 --> 00:48:11,764
+and select the content board that you want to
+copy to, just click on duplicate and that's
+
+478
+00:48:11,844 --> 00:48:21,369
+it. Now, what do you do if you want to update
+a template? So if you want to update a template,
+
+479
+00:48:21,409 --> 00:48:27,292
+so assume we've announced an update for the
+experiential videos process, or we've announced
+
+480
+00:48:27,312 --> 00:48:32,648
+an update for the news text post process. something
+like that all you need to do is come to your
+
+481
+00:48:32,688 --> 00:48:40,134
+content board and find the content piece that
+you need to update okay so even if you mess
+
+482
+00:48:40,174 --> 00:48:44,117
+up like a template and you want to revert to
+the original template so you messed up some
+
+483
+00:48:44,137 --> 00:48:48,701
+checklist and you want to revert to the original
+template from the program all you need to do
+
+484
+00:48:49,201 --> 00:48:53,204
+is come to the content board that you're using
+so this is the content board that we are using
+
+485
+00:48:53,765 --> 00:48:56,167
+and delete that template card so just delete
+the
+
+486
+00:48:59,938 --> 00:49:05,239
+template card and then I come to this template
+which is the template that I just copied. Again
+
+487
+00:49:05,279 --> 00:49:10,280
+you can find the link to the original template
+board that we are sharing below the video as
+
+488
+00:49:10,320 --> 00:49:16,642
+well as in the progress tracking sheet. But
+go to that template and then all you need to
+
+489
+00:49:16,662 --> 00:49:24,004
+do is duplicate this from the template board
+to your own content management board. So I
+
+490
+00:49:24,024 --> 00:49:28,165
+just deleted the template card, the outdated
+template card or the wrong template card, the
+
+491
+00:49:28,205 --> 00:49:33,888
+messed up template card. from my content board
+and I just come to the content board template
+
+492
+00:49:34,349 --> 00:49:43,194
+that I found from the link below the video and
+I just copied that to my own content board
+
+493
+00:49:43,634 --> 00:49:56,137
+and now it will come in here as in the. templates
+list as a new template task. So it'll take
+
+494
+00:49:56,157 --> 00:50:01,021
+some time to duplicate and copy, but once it's
+done, it'll come into this list. So this is
+
+495
+00:50:01,061 --> 00:50:08,446
+how you get updates, get updated template cards
+or get new template cards from the content
+
+496
+00:50:08,466 --> 00:50:17,652
+board that we're sharing with you. So assume
+that we will constantly be updating new content
+
+497
+00:50:17,672 --> 00:50:22,810
+formats. We'll be introducing new content formats.
+If there is any change, significant change
+
+498
+00:50:22,850 --> 00:50:27,972
+in the process that will save a lot of your
+time, we will be including, we'll be updating
+
+499
+00:50:27,992 --> 00:50:32,593
+the existing templates, but all of these updates
+of new content formats and updates in existing,
+
+500
+00:50:34,534 --> 00:50:40,256
+in the existing process or the existing templates
+will be announced to you in via email, via
+
+501
+00:50:40,996 --> 00:50:44,457
+the WhatsApp community, as well as in the group
+
+502
+00:50:48,002 --> 00:50:56,288
+Keep an eye out for it. Now before we close
+off this lesson, what I want to assure you
+
+503
+00:50:56,408 --> 00:51:01,610
+is that this same content management board can
+be used for additional content formats. So
+
+504
+00:51:01,650 --> 00:51:07,812
+you want to create a content format for a blog
+post, all you need to do is look at the most
+
+505
+00:51:08,112 --> 00:51:13,515
+similar content formats. Say for example for
+blog post, I would say that experience story,
+
+506
+00:51:13,555 --> 00:51:19,037
+the process that we use for experience stories
+would be more or less the same one, the content
+
+507
+00:51:19,157 --> 00:51:25,639
+process for it. when we create an outline for
+a blog post, and then a draft is created by
+
+508
+00:51:25,659 --> 00:51:29,320
+a copywriter or a content writer, and then the
+content manager reviews it and approves it.
+
+509
+00:51:29,760 --> 00:51:33,481
+And then finally, the executive approves it,
+and then goes to a ready-to-be-posted queue.
+
+510
+00:51:33,781 --> 00:51:38,742
+But the ready-to-be-posted queue is not for
+LinkedIn, but it's for the website. But if
+
+511
+00:51:38,762 --> 00:51:46,644
+you create a copy, if you duplicate this, you
+can create a new template for content formats
+
+512
+00:51:46,664 --> 00:51:51,130
+that you want to introduce into the process,
+say, blog posts or white papers. or any other
+
+513
+00:51:51,150 --> 00:51:56,152
+content format that you can think of because
+of the ability of the structuring process for
+
+514
+00:51:56,212 --> 00:52:00,514
+sub-tasks to different team members in the team,
+say content managers or copywriters or executives,
+
+515
+00:52:00,934 --> 00:52:05,856
+or video editors and graphic designers. This
+structure that we teach you in the program
+
+516
+00:52:05,876 --> 00:52:11,258
+can be used for additional content formats that
+you want to create yourself. So what we're
+
+517
+00:52:11,278 --> 00:52:16,381
+teaching you here is, in addition to like offering
+these templates for content formats, we train
+
+518
+00:52:16,421 --> 00:52:21,856
+you and coach you in the program. The structure
+and framework can be used for additional content
+
+519
+00:52:21,876 --> 00:52:28,962
+formats that you want to come up with for your
+own business or for your own brand. And these
+
+520
+00:52:28,982 --> 00:52:35,028
+can be white papers, these can be blog posts,
+this can be ad copies, this can be a new video
+
+521
+00:52:35,068 --> 00:52:40,292
+series or a new interview video series that
+you want to introduce. So try to internalize
+
+522
+00:52:40,312 --> 00:52:46,237
+the framework that we're teaching over here
+and try to use it for your own content formats.
+
+523
+00:52:46,778 --> 00:52:52,504
+Ideally, you should be using the same system
+for all of your content, because if everything
+
+524
+00:52:52,524 --> 00:52:55,708
+is in one place, it'll be far more easier for
+you to track. And...
+
+525
+00:52:59,810 --> 00:53:06,095
+To make your content management process efficient,
+you need to have it in a single place with
+
+526
+00:53:06,215 --> 00:53:14,582
+multiple team members collaborating in a single
+board with a list of sub tasks for each stages
+
+527
+00:53:14,622 --> 00:53:18,726
+of the content management process assigned individually
+to each of the team members, and they can see
+
+528
+00:53:18,766 --> 00:53:26,432
+it in a single view in the lists view in the
+content management board. So with that, I'm
+
+529
+00:53:26,472 --> 00:53:30,696
+signing off from this video. I'll see you in
+the next video. If you have any questions at
+
+530
+00:53:30,736 --> 00:53:35,660
+all about the content management process, ask
+them in the group coaching calls and drop them
+
+531
+00:53:35,700 --> 00:53:40,263
+in the WhatsApp communities so that we can answer
+them for you. See you in the next video.
+

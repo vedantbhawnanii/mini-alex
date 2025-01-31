@@ -1,0 +1,829 @@
+1
+00:00:01,410 --> 00:00:06,872
+So the very next step in building our own content
+strategy is to choose content formats. But
+
+2
+00:00:06,892 --> 00:00:12,054
+before we jump into all the different content
+formats, let's talk a bit about content personas.
+
+3
+00:00:12,454 --> 00:00:15,776
+And what do we mean by content personas? All
+you need to do is take a look at the Viral
+
+4
+00:00:15,816 --> 00:00:20,157
+Content Marketing book and a specific section
+in the Viral Content Marketing book called
+
+5
+00:00:20,357 --> 00:00:26,720
+personas. And what we're going to talk about
+here are content personas. So content personas
+
+6
+00:00:26,940 --> 00:00:33,224
+are, you could say the personalities that you
+adopt or choose to adopt for designing your
+
+7
+00:00:33,244 --> 00:00:38,128
+content strategy. There are three types of content
+personas that perform well on LinkedIn. The
+
+8
+00:00:38,168 --> 00:00:43,532
+first is that what we call a viral news guy
+persona. The second is that a viral influencer
+
+9
+00:00:43,572 --> 00:00:48,776
+persona. And the third one is that of an niche
+expert persona. Now let's dive deep a little
+
+10
+00:00:48,797 --> 00:00:54,041
+bit into each of these personas and what they
+are and take a look some examples of content
+
+11
+00:00:54,061 --> 00:01:01,407
+created by these personas. So viral news guy
+persona is someone that focus on one core niche
+
+12
+00:01:01,907 --> 00:01:09,353
+and creates news posts or interesting viral
+posts in that specific niche. So they always
+
+13
+00:01:09,393 --> 00:01:14,157
+focus on one specific niche. They don't publish
+any and all types of content on any and all
+
+14
+00:01:14,197 --> 00:01:20,323
+types of topics. They always focus on one specific
+niche. So Pascal Bornet is a very good example
+
+15
+00:01:20,443 --> 00:01:26,308
+of a viral news guy. What he does is he's a
+LinkedIn top voice. He only focuses on tech
+
+16
+00:01:26,368 --> 00:01:31,269
+focused content. Now If you take a look at the
+content that he published, this is a viral
+
+17
+00:01:31,309 --> 00:01:36,075
+news video from that was created by some other
+company called EEAGLI. So it looks like a data
+
+18
+00:01:36,115 --> 00:01:41,202
+analysis company and this compares how the mobile
+phone market changed over 30 years. It's a
+
+19
+00:01:41,222 --> 00:01:46,309
+video. Now what Pascal did is he...
+
+20
+00:01:49,766 --> 00:01:53,887
+repurposed the content published by this guy
+so he's added source attribution in here and he's
+
+21
+00:01:53,927 --> 00:01:59,570
+repurposed that content and he's published it
+on LinkedIn so he chose this because again
+
+22
+00:01:59,690 --> 00:02:04,532
+it's over the tech market so he only talks about
+tech he doesn't talk about other topics but
+
+23
+00:02:04,572 --> 00:02:09,474
+tech is a broad niche so there's a lot of things
+to talk about within tech and he only publishes
+
+24
+00:02:09,514 --> 00:02:14,676
+content like this here's another example so
+this one is created by Quantum Techs which
+
+25
+00:02:14,696 --> 00:02:20,959
+is another company and this is a video about
+a viral news video about a first augmented
+
+26
+00:02:20,999 --> 00:02:27,885
+reality lens becoming real. I guess that's an
+implanted lens and you can see the engagement
+
+27
+00:02:27,965 --> 00:02:35,091
+that he has received on these content pieces
+as well. Now why does the viral news guy persona
+
+28
+00:02:36,532 --> 00:02:42,237
+work really well? Now the interesting thing
+about this persona is that almost all of the
+
+29
+00:02:42,277 --> 00:02:46,981
+content that they publish is sourced from other
+social media platforms. It's almost never original
+
+30
+00:02:47,021 --> 00:02:52,520
+content. They always source it from other social
+media platforms. They publish content in multiple
+
+31
+00:02:52,560 --> 00:02:57,602
+formats. So it can be a video, it can be an
+image, or it can be other formats. And they
+
+32
+00:02:57,662 --> 00:03:02,644
+also give source attribution to the content
+that they publish on their profiles if they
+
+33
+00:03:02,684 --> 00:03:09,047
+source it from somewhere else. But the goals
+of this persona is to build a large, industry-relevant
+
+34
+00:03:09,167 --> 00:03:16,451
+audience. And they only focus on creating content
+using by repurposing content that is performed
+
+35
+00:03:16,491 --> 00:03:23,577
+well on other social media platforms. And they
+publish multiple times a day, which is one
+
+36
+00:03:23,698 --> 00:03:31,104
+of their differentiating factors about their
+content. So on average, we tend to publish
+
+37
+00:03:31,444 --> 00:03:35,388
+content only once a day, but they publish content
+multiple times a day because they're confident
+
+38
+00:03:35,408 --> 00:03:39,632
+that perform well, again, because they only
+take content that is performed well or proven
+
+39
+00:03:39,672 --> 00:03:47,857
+to work really well on other social media platforms.
+Now, after the viral news guy persona, we have
+
+40
+00:03:47,897 --> 00:03:53,201
+the niche expert persona. Now, what is a niche
+expert persona? So you could say both Alex
+
+41
+00:03:53,361 --> 00:04:00,768
+and me are choose the niche expert persona for
+our content. So the goals of the niche expert
+
+42
+00:04:00,788 --> 00:04:04,771
+persona is to build an industry-specific audience.
+So we don't want a generic audience like entirely
+
+43
+00:04:04,791 --> 00:04:11,897
+in tech. We want users who are specifically
+say, interested in LinkedIn marketing and interested
+
+44
+00:04:11,957 --> 00:04:15,932
+in... learning more about LinkedIn marketing
+and understanding more about the generation
+
+45
+00:04:15,952 --> 00:04:22,377
+of sales, social selling topics like that, and
+that a more potential customers of the product
+
+46
+00:04:22,397 --> 00:04:28,401
+or the service that I offer. Now, the reason
+I choose this personalize because with expert
+
+47
+00:04:28,441 --> 00:04:35,786
+content in that specific niche, I can build
+trust faster in that specific niche, which
+
+48
+00:04:35,826 --> 00:04:42,770
+is much smaller than say tech in general. But
+The brand that you can generate and the revenue
+
+49
+00:04:42,790 --> 00:04:46,753
+that you can generate even with a small audience
+in the niche experts with the niche persona
+
+50
+00:04:47,213 --> 00:04:52,676
+is larger than what you can generate with the
+viral news guy persona or the viral influencer
+
+51
+00:04:52,696 --> 00:04:56,859
+persona. So that's the advantage. I'm not suggesting
+that the niche expert persona is far better
+
+52
+00:04:56,899 --> 00:05:03,222
+than the viral influencer persona or the viral
+news guy persona. So these are all good personas
+
+53
+00:05:03,242 --> 00:05:07,425
+to choose from because of the amount of effort
+that you put into the content marketing process
+
+54
+00:05:07,445 --> 00:05:13,188
+and the amount of returns that you get from
+it. So the viral user persona focuses on creating
+
+55
+00:05:13,228 --> 00:05:20,434
+content in specific formats. But again, it's
+almost always original content that they themselves
+
+56
+00:05:20,494 --> 00:05:26,879
+created with research or from their own knowledge.
+But they rarely plagiarize or copy content
+
+57
+00:05:26,919 --> 00:05:30,422
+or repurpose content that is performed well
+on other social media platforms. They may gain
+
+58
+00:05:30,482 --> 00:05:34,545
+inspiration from them and choose topics from
+content pieces that are performed on other
+
+59
+00:05:34,585 --> 00:05:40,610
+social media platforms. But almost always they
+create original content. that is interesting
+
+60
+00:05:40,630 --> 00:05:47,235
+to their specific target audience on LinkedIn.
+Now after the niche expert persona, we have
+
+61
+00:05:47,355 --> 00:05:51,898
+one more persona, which is the viral influencer
+persona. So the best way you could say to explain
+
+62
+00:05:52,639 --> 00:05:58,823
+viral influencer persona is an influencer or
+a wannabe influencer, a creator on LinkedIn,
+
+63
+00:05:59,343 --> 00:06:06,048
+who is publishing content on any and all topics,
+any and all niches, any and all formats. The
+
+64
+00:06:06,108 --> 00:06:12,069
+only criteria is that it performs well. So all
+he does is he finds viral content on LinkedIn
+
+65
+00:06:12,089 --> 00:06:18,115
+that is performed well on other social media
+platforms as well as LinkedIn. And he repurposed
+
+66
+00:06:18,135 --> 00:06:23,740
+that content for his profile. So almost always,
+almost all the content that they publish on
+
+67
+00:06:24,261 --> 00:06:29,566
+their profiles are repurposed content. The amount
+of original content they publish is little
+
+68
+00:06:29,606 --> 00:06:36,931
+to zero. But... They borrow or repurpose content
+that has performed really well on other social
+
+69
+00:06:36,951 --> 00:06:40,852
+media platforms, so viral content essentially,
+and they publish that on their LinkedIn profile.
+
+70
+00:06:41,852 --> 00:06:48,634
+The goal of this persona is to reach as many
+users as possible and maximize the reach of
+
+71
+00:06:48,654 --> 00:06:54,156
+their content by choosing only viral posts.
+And irrespective of industry or niche or subniche,
+
+72
+00:06:54,176 --> 00:06:58,497
+they want to build a large audience and a large
+follower base on LinkedIn. Now let's take a
+
+73
+00:06:58,517 --> 00:07:04,351
+look at some examples of specific persona. So
+you can ideally recommend when you check these
+
+74
+00:07:04,391 --> 00:07:09,394
+examples out, you can easily search them on
+LinkedIn, take a look at their content and
+
+75
+00:07:09,434 --> 00:07:15,237
+form an understanding of how they differ from
+each other. So the best example of viral influencer
+
+76
+00:07:15,257 --> 00:07:20,480
+persona is that of Daniel Abraham's. So Daniel
+Abraham's publishes content on any and all
+
+77
+00:07:20,520 --> 00:07:25,163
+topics and he's quite viral and pretty sure
+he's got over 1 million followers now. And
+
+78
+00:07:25,223 --> 00:07:30,058
+he's doing a great job with simply repurposing
+content that he finds from other sources. and
+
+79
+00:07:30,098 --> 00:07:35,820
+publishing it on his LinkedIn profile. Anne
+Handley is the, I believe she was the CMO of
+
+80
+00:07:35,880 --> 00:07:42,103
+marketing drops, a famous marketing run. And
+she is also a good example of the viral influencer
+
+81
+00:07:42,123 --> 00:07:46,945
+persona because they publish content, she publishes
+content on well, every single topic under the
+
+82
+00:07:46,965 --> 00:07:52,147
+sun, so it can be any content or in any format.
+All she focuses on is making sure that it is
+
+83
+00:07:52,247 --> 00:07:58,129
+viral or it has gone viral in the past on other
+social media platforms or on LinkedIn. So these
+
+84
+00:07:58,209 --> 00:08:05,390
+are the core. um personas and each of these
+personas we've segmented content formats for
+
+85
+00:08:05,410 --> 00:08:11,074
+you. So in the content format sheet we have
+the content formats that you can use to create
+
+86
+00:08:11,134 --> 00:08:18,098
+content. If you choose any of these personas,
+so all of these have separate content formats
+
+87
+00:08:18,118 --> 00:08:24,784
+that you can use. Obviously the viral news guy
+and the viral influencer persona are, have
+
+88
+00:08:24,824 --> 00:08:28,007
+content formats that are way more easier to
+create. The processes for creating content
+
+89
+00:08:28,287 --> 00:08:32,671
+with these personas are way more easier to create.
+But what I want you to do is make a decision
+
+90
+00:08:32,711 --> 00:08:38,456
+now on which persona you want to choose. Now,
+it's not necessary that you focus on one persona
+
+91
+00:08:38,536 --> 00:08:43,260
+alone. You can use a hybrid between niche expert
+persona and viral influencer persona, or you
+
+92
+00:08:43,280 --> 00:08:48,576
+can use a hybrid between. me, Shakespeare, persona
+and viral news guy persona, but ideally don't
+
+93
+00:08:48,616 --> 00:08:55,201
+combine all three because combine all three,
+it's going to be ineffective to some extent.
+
+94
+00:08:57,538 --> 00:09:02,299
+But after you've made a decision on what hybrid
+you want, what I'd recommend that you do is
+
+95
+00:09:02,360 --> 00:09:08,122
+you make a hybrid between the niche expert persona
+and the viral news guy persona. So say, suppose
+
+96
+00:09:08,162 --> 00:09:11,883
+you are in the construction space, like the
+case study that we talked about in the previous
+
+97
+00:09:11,903 --> 00:09:17,086
+videos and the modules. If you're in the construction
+space, you can publish niche expert content
+
+98
+00:09:17,106 --> 00:09:21,988
+on the construction niche, and at the same time,
+you can repurpose content in the construction
+
+99
+00:09:22,028 --> 00:09:25,689
+niche that is performed really well on other
+social media platforms, and you can publish
+
+100
+00:09:25,729 --> 00:09:32,608
+them on LinkedIn. or other social media platforms.
+So the first thing you need to do is decide
+
+101
+00:09:32,668 --> 00:09:37,069
+on what persona you need to choose. You can
+choose a hybrid between two of these personas.
+
+102
+00:09:37,510 --> 00:09:41,871
+But after you make that decision, the next step
+is to think about what are the content formats
+
+103
+00:09:41,911 --> 00:09:48,834
+in each of these personas that we selected.
+So once you make that decision, all you need
+
+104
+00:09:48,854 --> 00:09:55,437
+to do is make a list of content formats that
+you want to start experimenting with in the
+
+105
+00:09:55,497 --> 00:10:01,576
+content format queue. So the content format
+queue is a queue of different content formats
+
+106
+00:10:01,596 --> 00:10:08,060
+that you want to test on LinkedIn. And it's
+not necessary that you use all of this. So
+
+107
+00:10:08,420 --> 00:10:12,603
+you'll be choosing some content formats or prioritizing
+some content formats from the content queue.
+
+108
+00:10:13,083 --> 00:10:17,626
+Content format queue into content formats and
+we're going to test them out and decide on
+
+109
+00:10:17,666 --> 00:10:22,269
+which ones you want to use long term. But for
+the time being, what you should be doing is
+
+110
+00:10:22,289 --> 00:10:26,063
+you should be copying these. and pasting this.
+So I'm gonna choose a hybrid between the Niche
+
+111
+00:10:26,103 --> 00:10:31,726
+Expert persona and the Viral Niche Guy persona
+for the case study prompt in the construction
+
+112
+00:10:31,746 --> 00:10:38,350
+niche. So what I'm gonna do is I am going to
+choose these and paste them in here. I'm gonna
+
+113
+00:10:38,390 --> 00:10:44,894
+choose these and paste them in here. And the
+next step after this is to include content
+
+114
+00:10:44,914 --> 00:10:50,317
+formats you wish to include in your content
+strategy. So we did the gap identification
+
+115
+00:10:50,357 --> 00:10:57,775
+and we already got... an idea of different content
+formats that we want to be using. So we have
+
+116
+00:10:57,835 --> 00:11:03,457
+carousels or slide posts, which we already have
+in the content format sheet. So in the content
+
+117
+00:11:03,477 --> 00:11:09,339
+format sheet, we already have carousels or slide
+posts. So I'm going to keep moving on. We have
+
+118
+00:11:09,379 --> 00:11:13,280
+text posts already, experiences stories and
+informative posts that include carousels again,
+
+119
+00:11:13,320 --> 00:11:18,221
+image posts with text, of course, and those
+are what we call informative posts. That's
+
+120
+00:11:18,241 --> 00:11:25,406
+fine. we have event or conference snippets.
+This is more of a news post or information
+
+121
+00:11:25,446 --> 00:11:31,311
+post, so we already have that. Explainer video
+is something that is new in here. So what I
+
+122
+00:11:31,331 --> 00:11:36,275
+would do is include an explainer video in here
+because that is something that we want to look
+
+123
+00:11:36,315 --> 00:11:43,381
+at. And we have a VSL, which is also new. So
+I would include that in here. And then we have
+
+124
+00:11:44,101 --> 00:11:49,854
+actionable tutorials. So actionable tutorials,
+I haven't yet made up my mind on what format
+
+125
+00:11:49,894 --> 00:11:53,715
+it should be in, but actionable tutorials is
+something that I'm going to include in here.
+
+126
+00:11:54,215 --> 00:11:58,976
+And then we have webinars. Webinars are an entirely
+different process. We're already covering it
+
+127
+00:11:59,016 --> 00:12:02,277
+separately in the Imagine Growth process because
+they're very effective. So I'm not going to
+
+128
+00:12:02,297 --> 00:12:08,659
+cover them over here, but you now know that
+you need to focus on webinars as well. We have
+
+129
+00:12:08,939 --> 00:12:13,440
+white papers and ebooks, different kinds of
+white papers and ebooks. So I'm going to include
+
+130
+00:12:13,520 --> 00:12:18,906
+that as well in content format. So white papers
+on a specific point. our pain point data study
+
+131
+00:12:18,966 --> 00:12:24,908
+and then we have industry report process template.
+So my oh my, we have a lot of stuff in here.
+
+132
+00:12:24,928 --> 00:12:30,449
+And so we have process templates, guide or actionable
+tool. And we've already included in here. So
+
+133
+00:12:30,469 --> 00:12:36,491
+I'm going to move back. Then we have again webinars,
+conferences, conferences again is an entirely
+
+134
+00:12:36,531 --> 00:12:41,312
+different kind of strategy. I'm not going to
+include it here. The interview podcast series
+
+135
+00:12:41,352 --> 00:12:46,613
+of the interview podcasting. That is a very
+interesting addition from the gap identification
+
+136
+00:12:46,653 --> 00:12:52,493
+sheet. And then we have newsletters. Newsletters
+is something we can consider. But newsletters
+
+137
+00:12:52,533 --> 00:12:57,917
+as well is a separate section in the LinkedIn
+Growth campus because we cover it in detail because
+
+138
+00:12:57,937 --> 00:13:03,622
+it's a very good content format. But I'm going
+to cover that right now. But we need case studies
+
+139
+00:13:04,142 --> 00:13:09,026
+and customer experience stories are some good
+content formats that we can consider. So what
+
+140
+00:13:09,066 --> 00:13:16,510
+I would do is ideally use customer experience
+stories than case studies because This is a
+
+141
+00:13:16,550 --> 00:13:22,894
+content format that performs better on LinkedIn.
+Plus we already have it in here, customer experience
+
+142
+00:13:22,914 --> 00:13:28,877
+stories. So I could go ahead and add case studies,
+but to an extent, customer experience stories
+
+143
+00:13:28,917 --> 00:13:33,940
+come from case studies and then vice versa.
+So I'm not gonna add case studies as well in
+
+144
+00:13:33,960 --> 00:13:39,823
+there because we already have customer experience
+stories. And then we have testimonials, which
+
+145
+00:13:39,883 --> 00:13:49,698
+is something that I could add in here, testimonials.
+We have product features. Product feature is
+
+146
+00:13:49,938 --> 00:13:54,042
+above full video, but this is not something
+that I would consider much adding on LinkedIn.
+
+147
+00:13:54,583 --> 00:13:59,328
+But we could consider that part of the company
+page. So I'm gonna include all of them in here,
+
+148
+00:13:59,929 --> 00:14:06,888
+and I'm gonna... Make sure the formatting is
+correct. All right, so we have some content
+
+149
+00:14:06,908 --> 00:14:12,911
+formats documented in here now. And now that
+we've included all of these formats in here
+
+150
+00:14:12,931 --> 00:14:18,214
+that we want to test out, the first thing we
+need to do is select five of them that we should
+
+151
+00:14:18,834 --> 00:14:23,717
+prioritizing. So what my recommendation would
+be take experiential stories because there
+
+152
+00:14:23,757 --> 00:14:28,140
+are good content format. Slideposts is one of
+the best content formats you can use on LinkedIn.
+
+153
+00:14:28,680 --> 00:14:35,128
+If you have a lot of lead magnets that you've
+created internally, say white papers, templates,
+
+154
+00:14:36,769 --> 00:14:41,092
+guides and so on that you can give away for
+free. Ideally PDFs or like tools that you can
+
+155
+00:14:41,112 --> 00:14:47,196
+give away for free internally. You can use resource
+giveaways but otherwise my best recommendation
+
+156
+00:14:47,636 --> 00:14:52,299
+would be to offer Q&A videos. So Q&A videos
+are a good content format. So these would be
+
+157
+00:14:52,339 --> 00:15:00,036
+the three ones I would select for this use case
+which is construction niche. And then the remaining
+
+158
+00:15:00,076 --> 00:15:04,920
+two slots on the content calendar. So those,
+assuming we have a five day work week. So that's
+
+159
+00:15:04,980 --> 00:15:10,505
+Mondays, Tuesdays, Wednesdays, Thursdays and
+Fridays. Three of them are filled and now we
+
+160
+00:15:10,525 --> 00:15:15,309
+have two more. Now two of these should be experimental
+slots. Now what I mean by that is you should
+
+161
+00:15:15,349 --> 00:15:20,054
+be experimenting different content formats in
+these slots and seeing what is working and
+
+162
+00:15:20,094 --> 00:15:24,157
+what is not working. So what I'd recommend is
+going ahead and maybe doing an experiment.
+
+163
+00:15:24,562 --> 00:15:29,126
+Informative post and a fun video is too much
+work, these are all videos, I would also use
+
+164
+00:15:29,146 --> 00:15:33,690
+an engagement bait. So I would test out these
+formats, see whether they're working. If they're
+
+165
+00:15:33,710 --> 00:15:38,975
+working well, I will continue to do it. Maybe
+I'll try switching out some other stuff. And
+
+166
+00:15:39,135 --> 00:15:42,018
+I'll continue testing with more and more content
+formats from the content format.
+

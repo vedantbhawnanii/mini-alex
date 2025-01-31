@@ -1,0 +1,508 @@
+1
+00:00:01,218 --> 00:00:04,940
+So in this video, we're going to talk about
+resource giveaways. Now, resource giveaways
+
+2
+00:00:05,080 --> 00:00:10,244
+are when you give away a free resource, which
+can be a tool, it can be a template, it can
+
+3
+00:00:10,284 --> 00:00:17,329
+be a free guide, or it can be like a niche report
+that is valuable to your target audience. Say
+
+4
+00:00:17,349 --> 00:00:22,252
+for example, for Sachin, who is in the crypto
+space and the crypto regulation space, the
+
+5
+00:00:22,272 --> 00:00:26,295
+giveaway he's offering is that of an ultimate
+guide to crypto asset regulations in the UK,
+
+6
+00:00:26,315 --> 00:00:33,271
+which is very important document about what
+laws to follow. for crypto companies and what
+
+7
+00:00:33,291 --> 00:00:38,795
+he's done is he's offered a poll in which he's
+asked them if they're interested in this resource,
+
+8
+00:00:40,876 --> 00:00:46,740
+just drop a post in the comments below and I'll
+send it to you. So what you do in resource
+
+9
+00:00:46,760 --> 00:00:53,485
+giveaways is you don't give them a link to the
+post right away. You will tell them that they
+
+10
+00:00:53,525 --> 00:00:58,388
+can get access to the resource, this valuable
+resource or tool. If they drop a comment below
+
+11
+00:00:58,408 --> 00:01:02,531
+the post or if you're doing it as a poll, You
+can ask the question if they're interested
+
+12
+00:01:02,551 --> 00:01:07,393
+in the poll or a related question and they can
+click yes or no. And if they click on yes,
+
+13
+00:01:07,553 --> 00:01:11,696
+to everyone who voted on yes, you can send the
+resource by messaging them on like that. To
+
+14
+00:01:11,736 --> 00:01:16,758
+everyone who votes on a normal post, you can
+message them, you can connect to them and message
+
+15
+00:01:16,778 --> 00:01:24,763
+them and send them the resource. Now let's first
+take a look at how the content management process
+
+16
+00:01:25,003 --> 00:01:29,905
+works like as usual for resource giveaways.
+And then we'll get into the ideation and creation.
+
+17
+00:01:30,314 --> 00:01:37,456
+of resource giveaways. So this is the ClickUp
+template task for resource giveaways. As usual,
+
+18
+00:01:37,496 --> 00:01:41,857
+you first create a duplicate of this and then
+you start working creating on resource giveaways.
+
+19
+00:01:42,737 --> 00:01:48,639
+You add an outline, discuss the outline, get
+it approved by the executive on the content
+
+20
+00:01:48,679 --> 00:01:53,101
+ideation calls and then you beef out the outline,
+add some property deals and source links and
+
+21
+00:01:53,141 --> 00:01:59,196
+then you get started with the creation process.
+The process for resource giveaways is very
+
+22
+00:01:59,236 --> 00:02:03,139
+simple. We are assuming that we are working
+on existing resource giveaways that we've already
+
+23
+00:02:03,179 --> 00:02:08,584
+created. If the resources need to be created
+by yourself, that is a separate process, you
+
+24
+00:02:08,604 --> 00:02:14,469
+need to handle that separately. But if the resources
+have already been created, this is very simple
+
+25
+00:02:14,509 --> 00:02:18,812
+process you can follow for it. You first add
+the outline, then you work on the drafts. You
+
+26
+00:02:18,832 --> 00:02:23,036
+create a draft for the post copy for the resource
+or for the post copy for the poll that you're
+
+27
+00:02:23,056 --> 00:02:26,930
+publishing with the questions and stuff. then
+the content manager reviews and approves it.
+
+28
+00:02:27,410 --> 00:02:31,332
+Then it goes to the executive approval queue.
+And once the executive approves it on the content
+
+29
+00:02:31,352 --> 00:02:35,294
+ideation calls, it can be published on the user
+profile and the company page. A very simple
+
+30
+00:02:35,334 --> 00:02:42,397
+process. When you add the outline to the resource,
+a resource giveaway post, make sure you add
+
+31
+00:02:42,437 --> 00:02:46,359
+like talk about what the resource is, what pain
+points it solves, what are the insights in
+
+32
+00:02:46,379 --> 00:02:49,460
+the resource? Like how does it solve the pain
+points? What are the insights in the resource
+
+33
+00:02:49,480 --> 00:02:54,054
+that you're sharing and what messages to be
+conveyed? And you also need to add the direct
+
+34
+00:02:54,114 --> 00:02:58,356
+link to the resource file uploaded in Drive.
+This is important in the respective session,
+
+35
+00:02:58,396 --> 00:03:02,138
+the description. So when we add resource URL,
+it needs to be uploaded in Drive and you need
+
+36
+00:03:02,158 --> 00:03:11,282
+to add the shared, anyone with the link can
+access view link in here. All right. But all
+
+37
+00:03:11,322 --> 00:03:15,504
+of these steps as usual have been mentioned
+and explained step by step for each subtask
+
+38
+00:03:15,604 --> 00:03:21,378
+in here. So you just need to follow the subtask
+process exactly as it is. Now let's talk about
+
+39
+00:03:21,598 --> 00:03:26,519
+ideation of resource giveaways. So again, the
+most interesting thing about resource giveaways
+
+40
+00:03:26,559 --> 00:03:32,721
+is that it can easily be found using Google
+search itself. So all you need to do is enter
+
+41
+00:03:32,761 --> 00:03:39,823
+a relevant keyword. So in our case, it can be
+construction, project management. So I'm just
+
+42
+00:03:39,843 --> 00:03:44,484
+gonna use that to explain this. Construction
+project management is the keyword I'm gonna
+
+43
+00:03:44,604 --> 00:03:51,536
+use and templates. So if I Google for this,
+boom. Excel template. So, just from a few of
+
+44
+00:03:51,576 --> 00:03:56,879
+these I am going to get like, I do not know,
+20 different resources that I can use. So,
+
+45
+00:03:56,899 --> 00:04:02,964
+take a look at this. This is a construction
+timeline template for Excel. That is one resource,
+
+46
+00:04:03,384 --> 00:04:07,627
+construction budget template for Excel. So,
+you could create the resource giveaway post
+
+47
+00:04:08,087 --> 00:04:12,590
+where you discuss this with the executive and
+the executive will give some tips on personalizing
+
+48
+00:04:12,630 --> 00:04:17,814
+this template or on how to use this template
+and why is this important. and you could offer
+
+49
+00:04:17,854 --> 00:04:22,597
+it with a guide that you write yourself for
+how to create construction budget estimates.
+
+50
+00:04:23,077 --> 00:04:28,060
+So, each of these could be a potential resource.
+Now, you should be making sure that you discuss
+
+51
+00:04:28,100 --> 00:04:33,523
+this with the executive so that they confirm
+that this is a valuable resource for your target
+
+52
+00:04:33,563 --> 00:04:40,126
+audience. But as long as that is done, you can
+easily find resources online. So, I just use
+
+53
+00:04:40,286 --> 00:04:46,169
+one type of search which is keyword plus templates.
+In addition to this, you can also search for.
+
+54
+00:04:46,638 --> 00:04:51,820
+keyword guide PDFs. I could use construction
+project management guide PDF and there you
+
+55
+00:04:51,860 --> 00:04:56,262
+go. I'll find a bunch of PDF guides from other
+publishers. I can give social attribution in
+
+56
+00:04:56,282 --> 00:05:01,404
+the post that's completely fine, but construction
+project management PDFs from the Pennsylvania
+
+57
+00:05:01,444 --> 00:05:06,586
+State University, construction project management
+templates from Academy Research Guide, there's
+
+58
+00:05:06,626 --> 00:05:12,709
+template.net, there's Coursera guides. I don't
+think that's downloadable, but that's fine.
+
+59
+00:05:13,850 --> 00:05:17,933
+Introduction to construction project management.
+So, this must be from some publication that
+
+60
+00:05:17,953 --> 00:05:19,534
+we can download for free from script.
+
+61
+00:05:22,656 --> 00:05:30,161
+Upload a bit, but we can even tag these sources
+so that it is easier. And like you should be
+
+62
+00:05:30,201 --> 00:05:35,826
+collecting like every time you look for resource
+giveaway ideas, you should be collecting a
+
+63
+00:05:35,926 --> 00:05:40,449
+bunch of resources like assume like 10 to 20
+content ideas and then reviewing them with
+
+64
+00:05:40,489 --> 00:05:45,123
+the executive. on the content ideation call so
+that they can choose the best ones and then
+
+65
+00:05:45,163 --> 00:05:49,404
+you can start working on the best ones. So don't
+go about like creating like one, finding an
+
+66
+00:05:49,444 --> 00:05:53,445
+idea for one resource giveaway, find 10 or 20
+of them. So you have your, you, you go about
+
+67
+00:05:53,465 --> 00:05:58,907
+it in one single step and you can dump all of
+them into one single resource giveaway template
+
+68
+00:05:58,947 --> 00:06:05,148
+task so that it's, it's reviewed on the content
+ideation calls. Now this is how you go about
+
+69
+00:06:05,329 --> 00:06:11,070
+ideating them. Here are some additional keywords.
+So one keyword is Keyword in quotes plus templates.
+
+70
+00:06:11,290 --> 00:06:18,613
+Another keyword is keyword in quotes plus guide
+PDF. Another search operator is keyword in
+
+71
+00:06:18,693 --> 00:06:24,456
+quotes plus free tool. So you can also offer
+free tools that are available online and explain
+
+72
+00:06:24,476 --> 00:06:32,139
+how to use those tools. Another one is keyword
+plus resources. Now in addition to these, the
+
+73
+00:06:32,299 --> 00:06:38,061
+easiest way to go about creating resource giveaways
+is taking a look at the gap identification
+
+74
+00:06:38,081 --> 00:06:42,378
+sheet. in the content analysis spreadsheet.
+So in the content analysis spreadsheet, you
+
+75
+00:06:42,398 --> 00:06:45,349
+have a gap identification worksheet. And in
+here you can find.
+
+76
+00:06:49,362 --> 00:06:56,206
+eBooks, white papers about different stuff that
+they've created internally about the companies
+
+77
+00:06:56,246 --> 00:07:02,410
+that the companies have created internally that
+helps them that helps the target audience like
+
+78
+00:07:02,450 --> 00:07:07,673
+learn about a particular topic. So ideally don't
+publish ones from your competitors. Some of
+
+79
+00:07:07,713 --> 00:07:11,915
+these will be from competitors, but if you've
+created stuff internally, you can find it from
+
+80
+00:07:11,935 --> 00:07:16,002
+the gap identification sheet itself or from
+the existing content analysis sheet. and you
+
+81
+00:07:16,022 --> 00:07:19,284
+just come down and look at white papers and
+ebooks. We have not created anything like this
+
+82
+00:07:19,324 --> 00:07:23,627
+client, this case study that we are reviewing,
+TraceCost hasn't created anything. So I cannot
+
+83
+00:07:23,647 --> 00:07:29,391
+show anything here, but in many cases you may
+have internal white papers and ebooks that
+
+84
+00:07:29,411 --> 00:07:34,454
+you can repurpose as a resource giveaway post
+on LinkedIn. And now let's quickly jump into
+
+85
+00:07:34,474 --> 00:07:39,878
+how to go about actually creating a resource
+giveaway. So just like usual, we have outlines.
+
+86
+00:07:40,118 --> 00:07:47,631
+We have outlines for resource giveaways. So
+we've found very well performing resource giveaways.
+
+87
+00:07:48,071 --> 00:07:54,076
+And we've reverse engineered each line to give
+you an outline. And all you need to do is take
+
+88
+00:07:54,096 --> 00:07:58,640
+a look at each of these lines one by one. Choose
+a content topic that is apt to this outline
+
+89
+00:07:58,820 --> 00:08:02,923
+or vice versa. Choose an outline that is apt
+for your content topic. We have about five
+
+90
+00:08:02,963 --> 00:08:08,648
+outlines in here and just start filling them
+out. Some of these are my own that have performed
+
+91
+00:08:08,688 --> 00:08:16,686
+very well and have generated a lot of leads
+for us. And that is it. very easy PC process.
+
+92
+00:08:17,687 --> 00:08:21,109
+The outlines are pretty self-explanatory, plus
+we have information in here on how to use the
+
+93
+00:08:21,149 --> 00:08:28,213
+outlines as well. But that sums up the resource
+giveaway format. If you have any questions
+
+94
+00:08:28,273 --> 00:08:32,635
+at all, feel free to drop them in the WhatsApp
+community and ask us on group coaching calls
+
+95
+00:08:32,715 --> 00:08:36,918
+because this is an excellent content format
+for lead generation, actually generating leads
+
+96
+00:08:37,478 --> 00:08:43,821
+from just from publishing content. And this
+post format is engineered for traction. So,
+
+97
+00:08:44,354 --> 00:08:48,955
+When most people vote on the polls to get access
+to our resource or when most people drop a
+
+98
+00:08:48,995 --> 00:08:53,496
+comment to get access to our resource, more
+of their network will see it. So that induces
+
+99
+00:08:53,957 --> 00:08:58,638
+an organic virality factor in the post and the
+promotion of this post. So it's really good
+
+100
+00:08:58,998 --> 00:09:03,520
+for generating leads because only if the people
+are interested in that specific resource, that
+
+101
+00:09:03,600 --> 00:09:10,142
+niche resource will be commenting on the post
+or voting on the polls. So that's it for this
+
+102
+00:09:10,182 --> 00:09:11,942
+format. See you in the next video.
+

@@ -2,36 +2,42 @@
 import os
 from glob import glob
 from dotenv import load_dotenv
+import warnings
 
-import logging
 
-# import tqdm
-from typing import List
+from typing import List, Dict
 import datetime
 
 # Logger
 from logger import CustomFormatter
+import logging
 
-# Store and retriever imports
-# from langchain_community.multi_query import MultiQueryRetriever  """Use if needed. Adds complexity overhead"""
-from langchain_text_splitters import NLTKTextSplitter
+from langchain_text_splitters import NLTKTextSplitter, RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma
-from langchain_community.embeddings import HuggingFaceBgeEmbeddings
 from langchain.schema import Document
+
+from langchain_core.prompts import PromptTemplate, ChatPromptTemplate
+from langchain.chains import ConversationalRetrievalChain
+from langchain.memory import ConversationSummaryBufferMemory
 
 # LLM imports
 from langchain_google_genai import (
     GoogleGenerativeAI,
     GoogleGenerativeAIEmbeddings,
+    ChatGoogleGenerativeAI,
 )
 
-from langchain_core.prompts import PromptTemplate
-from langchain.chains import ConversationalRetrievalChain
-from langchain.memory import ConversationBufferMemory, ConversationSummaryBufferMemory
-from langchain_core.prompts import ChatPromptTemplate
 import nltk
 
+### Document Compressor Pipeline
+from langchain.retrievers.document_compressors import DocumentCompressorPipeline
+from langchain.text_splitter import CharacterTextSplitter
+from langchain_community.document_transformers import EmbeddingsRedundantFilter,LongContextReorder
+from langchain.retrievers.document_compressors import EmbeddingsFilter
+from langchain.retrievers import ContextualCompressionRetriever
+
 nltk.download("punkt_tab")
+warnings.filterwarnings("ignore", category=FutureWarning)
 
 # Get all environment variables
 load_dotenv()
@@ -45,9 +51,10 @@ ch.setFormatter(CustomFormatter())
 log.addHandler(ch)
 
 # Constants
-chunk_size = 700
-chunk_overlap = 100
+chunk_size = 1200
+chunk_overlap = 200
 
+# INFO:                  Data functions                     
 
 def load_srt_function(file_path: str) -> str:
     """
@@ -75,9 +82,7 @@ def load_srt_function(file_path: str) -> str:
 
     return transcript
 
-    print
-    return " ".join(t for t in transcript)
-
+# INFO:                   Vectorstore Functions
 
 def create_vectorstore(files: List[str]):
     log.info("Creating vectorstores...")
@@ -92,93 +97,93 @@ def create_vectorstore(files: List[str]):
         split_docs = text_splitter.split_documents([doc])
         docs.extend(split_docs)
 
-    # embedding_function = HuggingFaceBgeEmbeddings(
-    #     model_name="all-MiniLM-L6-v2",
-    #     # model_kwargs={"device": "cpu"}, # Not needed since it does this internally. Can specify cpu/gpu for developer clarity.
-    #     encode_kwargs={"normalize_embeddings": True},
-    # )
-
     embedding_function = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 
     """    vector store    """
 
-    # TODO: Need to figure a way to use the persist persist_directory and not re-initialize it everytime the code is run.
-    # Once we have all data embedded in the db, we can call the db directly into the retriever, which should reduce the startup time.
-    db = Chroma.from_documents(
+    store = Chroma.from_documents(
         docs, embedding_function, persist_directory="google-embed/transcripts.db"
     )
 
-    retriever = db.as_retriever()
 
-    log.info("Finished creating vectorstores...")
-    print("Done creating vectorstores")
-    return retriever
+    log.info("Finished creating vectorstore...")
+    return store, embedding_function
 
 
-def load_vectorstore(persist_directory: str = None):
-    if not persist_directory:
-        print("No persistant storage found.")
-        return
-
-    # embedding_function = HuggingFaceBgeEmbeddings(
-    #     model_name="all-MiniLM-L6-v2",
-    #     # model_kwargs={"device": "cpu"}, # Not needed since it does this internally. Can specify cpu/gpu for developer clarity.
-    #     encode_kwargs={"normalize_embeddings": True},
-    # )
-
+def load_vectorstore(persist_directory: str):
     embedding_function = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
-
-    db = Chroma(
+    store = Chroma(
         persist_directory=persist_directory, embedding_function=embedding_function
+    ) 
+
+    return store, embedding_function 
+
+# INFO:                     Retriever Functions
+
+def vectorstore_backed_retriever(vectorstore,search_type="similarity",k=4,score_threshold=None):
+    """create a vectorsore-backed retriever
+    Parameters: 
+        search_type: Defines the type of search that the Retriever should perform.
+            Can be "similarity" (default), "mmr", or "similarity_score_threshold"
+        k: number of documents to return (Default: 4) 
+        score_threshold: Minimum relevance threshold for similarity_score_threshold (default=None)
+    """
+    search_kwargs={}
+    if k is not None:
+        search_kwargs['k'] = k
+    if score_threshold is not None:
+        search_kwargs['score_threshold'] = score_threshold
+
+    retriever = vectorstore.as_retriever(
+        search_type=search_type,
+        search_kwargs=search_kwargs
     )
-
-    retriever = db.as_retriever()
-
     return retriever
 
+def create_compression_retriever(embeddings, base_retriever, chunk_size=500, k=16, similarity_threshold=None):
+    """Build a ContextualCompressionRetriever.
+    We wrap the the base_retriever (a vectorstore-backed retriever) into a ContextualCompressionRetriever.
+    The compressor here is a Document Compressor Pipeline, which splits documents
+    into smaller chunks, removes redundant documents, filters out the most relevant documents,
+    and reorder the documents so that the most relevant are at the top and bottom of the list.
+    
+    Parameters:
+        embeddings: GoogleGenerativeAIEmbeddings 
+        base_retriever: a vectorstore-backed retriever.
+        chunk_size (int): Documents will be splitted into smaller chunks using a CharacterTextSplitter with a default chunk_size of 500. 
+        k (int): top k relevant chunks to the query are filtered using the EmbeddingsFilter. default =16.
+        similarity_threshold : minimum relevance threshold used by the EmbeddingsFilter.. default =None.
+    """
+    
+    splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=0, separator=". ")    
+    redundant_filter = EmbeddingsRedundantFilter(embeddings=embeddings)
+    relevant_filter = EmbeddingsFilter(embeddings=embeddings, k=k, similarity_threshold=similarity_threshold) # similarity_threshold and top K
 
-def create_llm(
-    model_name: str = "gemini-2.0-flash-exp",
-    temperature: float = 1,
-    top_p: float = 0.95,
-):
-    llm = GoogleGenerativeAI(
-        model=model_name,
-        temperature=temperature,
-        top_p=top_p,
-        task_type="CONVERSATIONAL",
+    # Less relevant document will be at the middle of the list and more relevant elements at the beginning or end of the list.
+    # Reference: https://python.langchain.com/docs/modules/data_connection/retrievers/long_context_reorder
+    reordering = LongContextReorder()
+    pipeline_compressor = DocumentCompressorPipeline(
+        transformers=[splitter, redundant_filter, relevant_filter, reordering]  
     )
-    return llm
+    compression_retriever = ContextualCompressionRetriever(
+        base_compressor=pipeline_compressor, 
+        base_retriever=base_retriever
+    )
 
+    return compression_retriever
+
+# INFO:                   Prompting                 
 
 def get_standalone_template():
-    standalone_question_template = """
-    You are an expert at understanding and rephrasing questions. Given a conversation transcript from course lectures and a follow-up question, rewrite the follow-up question as a standalone question that can be understood without prior context. Ensure the standalone question is clear, concise, and suitable for a 12th-grade reading level. 
+    standalone_question_template = """You are an expert at understanding and rephrasing questions. Given a conversation transcript from course lectures and a follow-up question, rewrite the follow-up question as a standalone question that can be understood without prior context. Ensure the standalone question is clear, concise, and provides all necessary context.
 
 Use the following format to structure your response:
 
-Chat History:
-{chat_history}
+Chat History: {chat_history}
 
-Follow-Up Input:
-{question}
+Follow-Up Input: {question}
 
-Standalone Question (Rephrased): 
-- [Provide the rephrased question]
-
-Tips for writing the standalone question:
-1. Include any missing context from the chat history needed to make the question meaningful on its own.
-2. Keep the language simple but formal, avoiding unnecessary jargon unless explained within the question.
-3. Ensure the question stays focused and concise without losing critical details.
-
-Chat History:
-{chat_history}
-
-Follow-Up Input:
-{question}
-
-Standalone Question (Rephrased):
-- [Your rephrased question here]
+Standalone Question:  
 """
 
     standalone_question_prompt = PromptTemplate(
@@ -188,15 +193,7 @@ Standalone Question (Rephrased):
 
     return standalone_question_prompt
 
-
 def create_conversation_chain(retriever) -> ConversationalRetrievalChain:
-    # memory = ConversationBufferMemory(
-    #     memory_key="chat_history",
-    #     return_messages=True,
-    #     output_key="answer",
-    #     input_key="question",
-    # )
-
     memory = ConversationSummaryBufferMemory(
         llm=create_llm(temperature=0.1),
         memory_key="chat_history",
@@ -210,8 +207,7 @@ def create_conversation_chain(retriever) -> ConversationalRetrievalChain:
 
     # ? Prompt passed to the llm based on which it generates the answer. Modify this to align outputs as per requirement.
     general_system_template = r"""Use the following pieces of context to answer the question at the end.
-    If you don't know the answer, just say that you don't know, don't try to make up an answer.
-    Use five sentences maximum. Always provide source from document in the answer. Ensure you include examples that make it easy to understand the concept even for a complete newbie.
+    If you don't know the answer, just say that you don't know, don't try to make up an answer. Always provide source from document in the answer. Ensure you include examples that make it easy to understand the concept even for a complete newbie.
     {context}
     Question: {question}
     Helpful Answer:"""
@@ -232,10 +228,25 @@ def create_conversation_chain(retriever) -> ConversationalRetrievalChain:
         chain_type="stuff",
         verbose=False,
         return_source_documents=True,
-        response_if_no_docs_found="I don't have enough information.",
+        response_if_no_docs_found="I cannot answer this question right now. Please ask me something else.",
     )
 
     return chain
+
+# INFO:                     Creating LLMs and chains.
+
+def create_llm(
+    model_name: str = "gemini-2.0-flash-exp",
+    temperature: float = 0.5,
+    top_p: float = 0.95,
+):
+    llm = GoogleGenerativeAI(
+        model=model_name,
+        temperature=temperature,
+        top_p=top_p,
+    )
+
+    return llm
 
 
 def call_chain(user_input: str, chain: ConversationalRetrievalChain) -> str:
@@ -245,60 +256,87 @@ def call_chain(user_input: str, chain: ConversationalRetrievalChain) -> str:
     logging.debug(result)
     return result
 
+# INFO:                         Streamlit
 
 def main(query):
     persist_directory = "google-embed/transcripts.db"
-    files = [f for f in glob("./data/*.srt")]
 
-    """
     if os.path.exists(persist_directory):
-        retriever = load_vectorstore(persist_directory)
         log.info("Found existing vectorstore... Loading into it...")
+        store, embedding_function = load_vectorstore(persist_directory=persist_directory)
+        base_retriever = vectorstore_backed_retriever(store, "similarity", k=10) 
+        compressed_retriever = create_compression_retriever(
+            embeddings = embedding_function, 
+            base_retriever = base_retriever,
+        ) 
+          
     else:
-        retriever = create_vectorstore(files)
-    """
-    retriever = create_vectorstore(files)
+            
+        files = [f for f in glob("./data/*.srt")]
+        store, embedding_function = create_vectorstore(files)
+        base_retriever = vectorstore_backed_retriever(store, "similarity", k=10) 
+        compressed_retriever = create_compression_retriever(
+            embeddings = embedding_function, 
+            base_retriever = base_retriever,
+        ) 
+       
 
-    chain = create_conversation_chain(retriever)
+    chain = create_conversation_chain(compressed_retriever)
     log.info("Chain built... Happy querying!")
 
     response = call_chain(query, chain)
-    log.info(f"Returning response: {response}")
+    log.debug(f"Returning response: {response}")
     return response
 
+# INFO:                     Test Function.
 
 def test_run():
     query = "When starting your own content marketing, what is important?"
     persist_directory = "google-embed/transcripts.db"
     files = [f for f in glob("./data/*.srt")]
+
+    
     if os.path.exists(persist_directory):
-        retriever = load_vectorstore(persist_directory)
         log.info("Found existing vectorstore... Loading into it...")
+        store, embedding_function = load_vectorstore(persist_directory=persist_directory)
+        base_retriever = vectorstore_backed_retriever(store)
+        compressed_retriever = create_compression_retriever(
+            embeddings = embedding_function, 
+            base_retriever = base_retriever,
+        ) 
+
     else:
-        retriever = create_vectorstore(files)
-    chain = create_conversation_chain(retriever)
-    log.info("Chain built... Happy querying!")
+        
+        store, embedding_function = create_vectorstore(files)
+        base_retriever = vectorstore_backed_retriever(store)
+        compressed_retriever = create_compression_retriever(
+            embeddings = embedding_function, 
+            base_retriever = base_retriever,
+        ) 
+    
+    chain = create_conversation_chain(compressed_retriever)
 
     # Test questions
-    # query = "What is TOFU content and how to identify it?"
-    # response = call_chain(query, chain)
+    query = "What is TOFU, MOFU, BOFU content and how to identify it?"
+    response = call_chain(query, chain)
 
-    # print(f"{query=}")
-    # print(f"{response=}")
+    print(f"{query=}")
+    print(f"Answer: {response["answer"]}")
 
-    while True:
-        query = input("Query: ")
-        if query in ["q", "exit"]:
-            break
-        response = call_chain(query, chain)
-        result = response["answer"]
-        print(f"{query=}")
-        print(f"{result=}")
+    query = "How many states are there in United States?"
+    response = call_chain(query, chain)
 
+    print(f"{query=}")
+    print(f"Answer: {response["answer"]}")
+
+
+    # while True:
+    #     query = input("Query: ")
+    #     if query in ["q", "exit"]:
+    #         break
+    #     response = call_chain(query, chain)
+    #     result = response["answer"]
+    #     print(f"{query=}")
+    #     print(f"{result=}")
 
 # test_run()
-
-
-"""
-
-"""

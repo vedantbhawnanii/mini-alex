@@ -1,0 +1,437 @@
+1
+00:00:00,826 --> 00:00:04,735
+So now we are going to take a look at experiential
+stories. So this is the experiential story.
+
+2
+00:00:04,775 --> 00:00:12,642
+template in ClickUp, and the process begins with the 
+outline section...subtask. So the content manager
+
+3
+00:00:12,662 --> 00:00:17,764
+first creates a copy of the template task, changes
+the parent task status to outlines. Then they
+
+4
+00:00:17,784 --> 00:00:21,965
+need to add the post topic in the task title.
+So that's over here. The post topic needs to
+
+5
+00:00:22,005 --> 00:00:27,367
+be filled. This needs to be edited. And then
+an outline of that topic in the description.
+
+6
+00:00:27,487 --> 00:00:32,649
+So this is done usually on the content ideation
+calls. Whatever content ideas that can be
+
+7
+00:00:32,789 --> 00:00:40,248
+the executive shares or the feedback that
+they give on the ideas that you provide to
+
+8
+00:00:40,288 --> 00:00:44,750
+them. These ideas can be fetched on your own
+or from the content ideation sheet. You need
+
+9
+00:00:44,770 --> 00:00:50,513
+to add them in here and detail it on the content
+ideation call, and this needs to include like
+
+10
+00:00:50,533 --> 00:00:55,075
+what the experience is, what changes it brought,
+what lesson was learned, what message or lessons
+
+11
+00:00:55,115 --> 00:00:59,237
+to be conveyed At the end of post everything
+needs to be included in here. Make sure
+
+12
+00:00:59,615 --> 00:00:04,137
+the outline is very well, um, detailed, uh, so 
+that the copywriter has enough work
+
+12
+00:01:04,560 --> 00:01:09,985
+enough stuff to work on. And then next, he assigns
+all the subtasks for all the team members.
+
+13
+00:01:10,405 --> 00:01:14,749
+So the subtasks will include the drafts for
+the copywriter. So that is where they create
+
+14
+00:01:14,769 --> 00:01:20,475
+the draft of the post, the revision or the approval
+process for the content managers. This
+
+15
+00:01:20,495 --> 00:01:26,080
+needs to be assigned to themselves like this,
+and the executive approvals, The executive needs
+
+16
+00:01:26,140 --> 00:01:30,499
+this needs to be assigned to the executive.
+This needs to be assigned to the executive
+
+17
+00:01:30,539 --> 00:01:35,382
+assistants on the team who will be handling
+that the publishing process on LinkedIn, so
+
+18
+00:01:36,042 --> 00:01:41,285
+assign the subtasks to the relevant team members.
+So all of these tasks are for that, and then
+
+19
+00:01:42,338 --> 00:01:48,042
+After he assigns it to all of them, he needs
+to update the status of the content manager
+
+20
+00:01:48,062 --> 00:01:55,687
+needs to update the status of these subtasks
+as assigned. So there will only be two subtask
+
+21
+00:01:55,707 --> 00:02:00,870
+statuses. One will be assigned, and the other
+one will be completed. So just mark it as assigned
+
+22
+00:02:01,791 --> 00:02:08,456
+and you're good to go. So after you mark it
+as assigned, the last thing is change the 
+
+23
+00:02:08,496 --> 00:02:08,756
+parent task to Drafts status. So,
+
+24
+00:02:12,022 --> 00:02:19,125
+need to click on this and change the parent
+task status to draft status. That's it. So
+
+25
+00:02:19,145 --> 00:02:23,827
+that the entire team is aware on where that
+content piece is in the content management
+
+26
+00:02:23,847 --> 00:02:28,529
+process. And then after all these steps are
+done, they can mark their subtask of outlines.
+
+27
+00:02:28,669 --> 00:02:36,713
+So this subtask of outlines as completed because
+they've already added the outlines and finished
+
+28
+00:02:36,733 --> 00:02:41,654
+that entire process. They can go ahead and mark it as 
+completed. Now the next step is the process for this subtask
+
+29
+00:02:41,936 --> 00:02:48,102
+process for this subtask has been covered already
+in these checklists. Just go to here and follow
+
+30
+00:02:48,122 --> 00:02:52,708
+these one by one. So the first one is adding
+the post copy. So review the outline that the
+
+31
+00:02:52,728 --> 00:02:58,454
+copyrighter added for you carefully, create
+the post copy and add them in here. And the
+
+32
+00:02:58,494 --> 00:03:02,418
+post copy should have the hashtags. So which
+is the next step. you need to add three to
+
+33
+00:03:02,438 --> 00:03:07,200
+four relevant hashtags with good followings.
+We already covered how to do this in the previous
+
+34
+00:03:07,220 --> 00:03:11,762
+videos. That's usually good to go. And then
+re-read the hook of the post copy. The hook
+
+35
+00:03:11,802 --> 00:03:17,105
+is very important for experiential stories and
+all the LinkedIn posts. So re-read the hook
+
+36
+00:03:17,125 --> 00:03:21,107
+of the post copy and make sure it's catchy enough.
+Then you add in the required first comments.
+
+37
+00:03:21,127 --> 00:03:25,889
+So first comments are only added if you need
+to add external links or you need to add link
+
+38
+00:03:25,909 --> 00:03:31,451
+to another external source or you want them
+to take an action specifically after they read
+
+39
+00:03:31,652 --> 00:03:37,055
+the post. So, If you're adding any first comment,
+you need to mention it to the post copy that
+
+40
+00:03:38,256 --> 00:03:42,558
+check the first comment for so and so. So you
+need to mention that in the post copy at the
+
+41
+00:03:42,618 --> 00:03:47,420
+end, and then you need to add a first comment
+on how it's supposed to like any with any links
+
+42
+00:03:47,460 --> 00:03:52,982
+and so on. Do not include any direct external
+links in the post copy, and then finally, they
+
+43
+00:03:53,002 --> 00:03:57,805
+need to add the image or photo of the experiential
+story. So typically, experiential stories need
+
+44
+00:03:58,265 --> 00:04:02,747
+an image or photo, so that needs to be added in this 
+step. And then finally, do a grammatical check
+
+45
+00:04:02,787 --> 00:04:07,949
+of all the post copy elements and then they just need 
+to do two things. So the first thing is they mark
+
+46
+00:04:08,009 --> 00:04:14,192
+the subtask as complete, the subtask is complete,
+they can click on here and mark it as complete,
+
+47
+00:04:14,212 --> 00:04:19,054
+click on completed and it's done. And then the
+next thing is to move this to the next stage
+
+48
+00:04:19,074 --> 00:04:23,535
+in the content management process, which is
+CM approval or revisions, so that the content
+
+49
+00:04:23,555 --> 00:04:29,238
+manager get go ahead and approve it or suggest
+revisions. So that's it for the draft CW step.
+
+50
+00:04:29,498 --> 00:04:36,944
+The next step is the content manager approval or revisions 
+step. So in here, what they need to do is they need to come in
+
+51
+00:04:36,984 --> 00:04:45,808
+here and Take a look at these checklists in this section. 
+So they need to approve the content manager needs to 
+
+52
+00:04:45,828 --> 00:04:51,991
+review the post copy and the and the image or the photo with 
+the experiential story. If there are revisions needed, they 
+
+53
+00:04:52,351 --> 00:04:56,353
+need to drop a comment in this section. Tagging, 
+so you can tag like different team members like
+
+54
+00:04:56,373 --> 00:05:02,376
+this. So you can tag the person, the CW, the
+copywriter with the feedback and then move
+
+55
+00:05:02,436 --> 00:05:07,698
+the main parent task back to the draft section
+so the entire team is aware that this is still
+
+56
+00:05:07,718 --> 00:05:13,400
+in drafts. And then set the status of the draft
+CW subtasks, so that's this subtask, draft
+
+57
+00:05:13,420 --> 00:05:23,603
+CW subtask, move it back to a site. Okay, that's
+it, and if any changes are required, now these
+
+58
+00:05:23,663 --> 00:05:29,544
+copyright will follow the entire checklist again
+because it's back to drafts. Now if it is good
+
+59
+00:05:29,564 --> 00:05:36,663
+to go, they can move the parent task to. need
+EX Approval. So it's been mentioned like which
+
+60
+00:05:36,723 --> 00:05:42,065
+task, which stage to move it to is already marked
+in here. So you just need to follow the checklist
+
+61
+00:05:42,105 --> 00:05:48,148
+as it is. So they need to move it to need EX
+Approval, and they need to mark their own sub
+
+62
+00:05:48,188 --> 00:05:54,111
+task for CM Approval as completed because
+they finished the review process. All right.
+
+63
+00:05:54,831 --> 00:06:00,414
+Now the next step after that is for posting it on the
+user profile. So this is for this subtask posting 
+
+64
+00:06:00,434 --> 00:06:07,956
+it in the user profile and the company page, since we 
+assign to the executive assistants on the team and what 
+
+65
+00:06:07,976 --> 00:06:15,278
+they will do is they will first create the comments
+using chat GPT and they will add the generated
+
+66
+00:06:15,318 --> 00:06:21,700
+comments as a comment in here for later reference.
+They will check if the post elements like post
+
+67
+00:06:21,740 --> 00:06:26,741
+copy, image, photo, hashtags, etc., are all in
+place in the description, so then you do a manual
+
+68
+00:06:26,761 --> 00:06:34,266
+check of that, and if it's not in like say good
+to go, they need to contact the content manager
+
+69
+00:06:34,486 --> 00:06:41,751
+and get that sorted but if it's good to go they
+can go ahead and post it on LinkedIn on the
+
+70
+00:06:41,791 --> 00:06:47,115
+executive's profile. They need to copy a link
+to the LinkedIn post URL and add it in the
+
+71
+00:06:47,175 --> 00:06:52,799
+description section, so that's in here in the
+description section, and then finally after
+
+72
+00:06:52,839 --> 00:07:01,577
+they've done with both of them they need to
+move the Academy, 18th strategy call, starts
+
+73
+00:07:01,658 --> 00:07:02,442
+at 10 minutes.
+
+74
+00:07:06,738 --> 00:07:10,569
+We need to move. Draw your gallery. Eighteen,
+seven...
+
+75
+00:07:22,194 --> 00:07:26,776
+So they add the post URL in the respective section
+in the description and then promote the post
+
+76
+00:07:26,956 --> 00:07:31,258
+in Link Boost or Lemp or the manual boards and
+periodically check in over the next one hour
+
+77
+00:07:31,278 --> 00:07:35,199
+to respond to all the comments from the post.
+So you need to reply to the comments and then
+
+78
+00:07:35,259 --> 00:07:43,423
+mark the ready to be posted subtasks. So this
+subtask as completed, and you move the main
+
+79
+00:07:43,643 --> 00:07:50,334
+card to the ready to be posted user stage in
+here, so that everyone is on the same page
+
+80
+00:07:50,354 --> 00:07:59,166
+on what the status is of the specific part of
+the piece. And then finally, you mark the subtasks complete.
+
+81
+00:07:59,186 --> 00:08:04,854
+The subtasks complete. That's it for this step.
+And the next step is that of
+
+82
+00:08:04,934 --> 00:08:12,306
+the company page. Now, we follow the exact same
+process for the company page as well, and you
+
+83
+00:08:12,326 --> 00:08:17,090
+update the sub-tasks and the statuses. But for
+the company page, you need to create new comments,
+
+84
+00:08:17,110 --> 00:08:23,517
+again in ChatGPT, and add them as a comment
+in here, because you cannot use the same comments
+
+85
+00:08:23,537 --> 00:08:27,280
+for promoting in different places. And after
+you publish on the company page, in this case,
+
+86
+00:08:27,400 --> 00:08:35,272
+you need to copy the link to the post URL in
+the company page and add it to the description
+
+87
+00:08:35,793 --> 00:08:39,895
+as well in the LinkedIn post URL section, so
+just post the links over there.

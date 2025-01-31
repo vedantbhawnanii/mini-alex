@@ -1,0 +1,2161 @@
+1
+00:00:01,810 --> 00:00:07,732
+So this is the video on how to create content
+in different content formats. And in this video,
+
+2
+00:00:08,092 --> 00:00:14,955
+I'll explain first the general rules that you
+have to follow for all content formats that
+
+3
+00:00:14,975 --> 00:00:21,018
+you create content on. We'll first talk about
+the elements that we could link and copy. So
+
+4
+00:00:21,038 --> 00:00:25,100
+I'll go through each of the elements that you
+should be focusing on. And these apply to all
+
+5
+00:00:25,140 --> 00:00:31,606
+content formats that we teach you in the IG
+program. But the first element that we need
+
+6
+00:00:31,626 --> 00:00:36,828
+to talk about are optimizing the first three
+lines. Now, when you take a look at a post
+
+7
+00:00:36,888 --> 00:00:46,150
+on LinkedIn, so take a look at this post or
+this post or, well, any of the posts on LinkedIn,
+
+8
+00:00:48,291 --> 00:00:52,792
+LinkedIn only shows us the first two to three
+lines of the post at the start. Only if you
+
+9
+00:00:52,812 --> 00:01:02,196
+click on the see more link, can we see more
+of the content. Now, Think of the part before
+
+10
+00:01:02,216 --> 00:01:06,559
+the C-molec as the headline of an article that
+convinces users to click through to read it.
+
+11
+00:01:06,579 --> 00:01:12,264
+So you will have to spend a lot of time to work
+on optimizing these three lines because without
+
+12
+00:01:12,364 --> 00:01:17,448
+optimizing those three lines nobody is going
+to read the post. So and this applies for both
+
+13
+00:01:18,349 --> 00:01:24,254
+content formats with media formats in them.
+So if it's a carousel or an image post or a
+
+14
+00:01:24,274 --> 00:01:30,794
+video post or a normal text post it applies
+to all of them. Here is an example of a great
+
+15
+00:01:30,974 --> 00:01:34,376
+informative first three lines. So this is of
+course by Sam Jacobs, he's a good creator.
+
+16
+00:01:35,156 --> 00:01:38,378
+Should you exercise your equity when you leave
+your startup? I get that question hundreds
+
+17
+00:01:38,418 --> 00:01:43,080
+of times here. Here's my biggest piece of advice.
+So anybody who reads these first three lines,
+
+18
+00:01:43,600 --> 00:01:49,103
+they will be too enticed to click on the C-Molling
+because they just want to understand what the
+
+19
+00:01:49,143 --> 00:01:54,826
+biggest piece of advice is, which is why you
+see good engagement on this content.
+
+20
+00:01:59,008 --> 00:02:04,171
+hooks which is the name that we give to these
+first three lines because we are hooking the
+
+21
+00:02:04,271 --> 00:02:11,996
+user and getting them to read more of the post.
+Let's take a look at some other types of optimizations
+
+22
+00:02:12,957 --> 00:02:17,660
+some specific types of optimizations that you
+can use for these first three lines of hooks.
+
+23
+00:02:18,381 --> 00:02:23,804
+So the first type of optimization is that of
+a paragraph. So here's a paragraph. Columbia's
+
+24
+00:02:23,824 --> 00:02:24,064
+biggest
+
+25
+00:02:28,848 --> 00:02:34,031
+It's Latin America's third largest and fastest
+growing tech talent hub with 100k skilled highly
+
+26
+00:02:34,071 --> 00:02:38,754
+skilled engineers. So that's a very a bit of
+controversial but at the same time it's a very
+
+27
+00:02:39,254 --> 00:02:46,439
+interesting thing because not most people have
+learned this about Columbia yet. So it's a
+
+28
+00:02:46,479 --> 00:02:54,004
+new statistic and take a look at this. Just
+look at the infamous medley Pablo Escobar and
+
+29
+00:02:55,285 --> 00:03:00,168
+it's about Pablo Escobar which is already an
+interesting topic. So more people will be interested
+
+30
+00:03:00,188 --> 00:03:08,174
+in checking VC Bowling and hence the engagement
+on post. Now this is a hack sort of. With which
+
+31
+00:03:08,194 --> 00:03:14,097
+you can use a paragraph style beginning to start
+your LinkedIn copy Now if we use a lot of white
+
+32
+00:03:14,117 --> 00:03:19,619
+space like this, we cannot add a lot of content
+So if you add like one more line in here, it
+
+33
+00:03:19,659 --> 00:03:24,842
+won't be shown Before the single link, but if
+you use a paragraph you can add include more
+
+34
+00:03:24,862 --> 00:03:32,605
+content in the first few lines without having
+to add spaces so this gives you around like
+
+35
+00:03:32,705 --> 00:03:39,989
+30 to 50 characters to work with and this is
+we first talk about a controversial statement.
+
+36
+00:03:40,009 --> 00:03:44,072
+So take a look at what we did here. Columbia's
+biggest export post pandemic won't be cocaine,
+
+37
+00:03:44,092 --> 00:03:48,995
+but global tech talent, right? That's a controversial
+statement. Then we added data to bracket or
+
+38
+00:03:49,035 --> 00:03:54,619
+the proof. So this is the data to bracket. It's
+Latin America's third largest and fastest-growing
+
+39
+00:03:54,659 --> 00:03:59,322
+tech talent hub with 100K highly skilled engineers.
+And then finally a hint that there's proof
+
+40
+00:04:00,143 --> 00:04:06,007
+inside of the user clicks on C, okay? So just
+look at the infimius. So this is kind of leading
+
+41
+00:04:06,047 --> 00:04:12,407
+to the proof inside the blaster. Now, I am going
+to give you more examples of this exact format
+
+42
+00:04:12,427 --> 00:04:18,930
+over here. Old Farts 61%, Dynos of 56%, and
+old people don't understand, technology 60%,
+
+43
+00:04:19,090 --> 00:04:26,654
+congrats. You just stumbled into the CDRWF tech,
+age discrimination. But is there really age-saving
+
+44
+00:04:26,674 --> 00:04:30,355
+tech? So it follows the exact same structure
+that we mentioned over here. We had our control
+
+45
+00:04:30,375 --> 00:04:36,418
+of the statement, we add some data in it to
+back it, and a hint that there is proof inside
+
+46
+00:04:37,379 --> 00:04:45,344
+in here. So this is how you use paragraph style
+optimization to lead users to click on this
+
+47
+00:04:45,444 --> 00:04:51,768
+email link. We will talk about hooks in detail
+later on, but this is the first type of optimization
+
+48
+00:04:51,788 --> 00:04:56,591
+that you can use using paragraphs. Now the second
+type of optimization is using text and white
+
+49
+00:04:56,631 --> 00:05:05,938
+space. Now we saw this example already, but
+this is using one line spacing in between like
+
+50
+00:05:08,880 --> 00:05:15,244
+that you can need to click get people to click
+on the single link. Now this works very well
+
+51
+00:05:15,344 --> 00:05:19,527
+on LinkedIn, this works on Twitter a lot you
+may have seen this a lot on Twitter especially
+
+52
+00:05:19,567 --> 00:05:27,972
+in tweets that use tweet threads so people publish
+the entire post as a thread in a tweet as opposed
+
+53
+00:05:27,992 --> 00:05:33,636
+to a single tweet and it's also working very
+well on Medium right now. With this you have
+
+54
+00:05:33,676 --> 00:05:38,279
+about 20 to 25 characters to work with so if
+you need more content if you need to add more
+
+55
+00:05:38,840 --> 00:05:43,884
+is a better format but if you don't need to
+just need to add like a short hook then this
+
+56
+00:05:43,984 --> 00:05:49,309
+is a better format that you can use and let's
+take a look at some examples here is another
+
+57
+00:05:49,369 --> 00:05:55,535
+example old school venture capital is dead founders
+just don't want money anymore here's why right
+
+58
+00:05:55,575 --> 00:05:59,699
+it's a very simple hook where you start with
+a quarter versus statement
+
+59
+00:06:02,866 --> 00:06:08,989
+and then lead people to get them to click on
+the Zemo link. Here is more examples. So this
+
+60
+00:06:09,009 --> 00:06:14,112
+is example three where we see most startups
+do not fail because of a bad idea. In fact,
+
+61
+00:06:14,232 --> 00:06:18,034
+ideas is the little element. So it is controversy.
+Here is why they really fail. So we are leading
+
+62
+00:06:18,054 --> 00:06:23,137
+them to the proof inside and get them to click
+on the Zemo link. Let me show you one more
+
+63
+00:06:23,177 --> 00:06:30,064
+example. there's a massive misconception about
+crypto and it's just not true. Crypto not equal
+
+64
+00:06:30,084 --> 00:06:35,127
+to scams, here's proof versus fiat. Right, so
+we're starting off with the controversial statements
+
+65
+00:06:35,807 --> 00:06:43,859
+and we're leading them to click on the Simulink.
+Now Now the third type of optimization is specific
+
+66
+00:06:43,899 --> 00:06:48,561
+for posts with media, so any kind of media,
+so it can be videos, it can be images, polls
+
+67
+00:06:48,601 --> 00:06:53,543
+and slide posts or carousels. So for text posts
+we have three lines that we can optimize, like
+
+68
+00:06:53,563 --> 00:06:58,185
+the examples that we just saw, we have three
+lines that we can use to lead people to the
+
+69
+00:06:58,205 --> 00:07:03,488
+CMO leg, but for media, any posts with media,
+we only have two lines, the dictionary only
+
+70
+00:07:03,528 --> 00:07:08,410
+offers us two lines, this may change later on,
+but at the moment we only have two lines.
+
+71
+00:07:11,592 --> 00:07:17,355
+that get people to click on the CBO link and
+read the rest of the post copy. So in such
+
+72
+00:07:17,395 --> 00:07:27,462
+cases, we get to the controversy faster and
+we need people to the proof that is covered
+
+73
+00:07:27,502 --> 00:07:32,065
+inside the post copy faster. So we start off
+with a controversial statement in one single
+
+74
+00:07:32,105 --> 00:07:37,169
+line, so it needs to be shorter and then we
+add one single line to get people to click
+
+75
+00:07:37,289 --> 00:07:46,515
+on the CBO example of a pole and this is another
+example of a carousel so stop using keyword
+
+76
+00:07:46,535 --> 00:07:50,918
+difficulties goes in SU tools so that's a very
+controversial statement because keyword difficulty
+
+77
+00:07:50,978 --> 00:07:57,102
+is typically used a lot in SU tools all SUs
+use them and then he's talking about keyword
+
+78
+00:07:57,122 --> 00:08:02,926
+difficulty only considers one variable backlinks
+so I get that now I'm curious as a as an ex-SU
+
+79
+00:08:03,326 --> 00:08:10,211
+because now I want to understand what are the
+variables are included or like why is a keyword
+
+80
+00:08:11,732 --> 00:08:16,436
+So we leading people into click on the Cmolink
+very quickly. So one controversy statement
+
+81
+00:08:16,616 --> 00:08:23,281
+and then the leading in To the rest of the post
+copy. So it's not way more faster than typical
+
+82
+00:08:24,902 --> 00:08:31,268
+Expose Now while these are good examples of
+the structure that you should follow or the
+
+83
+00:08:31,768 --> 00:08:38,504
+hook optimization guidelines that you have to
+keep in mind while creating the hook or the
+
+84
+00:08:38,524 --> 00:08:44,228
+first three lines of your post. It's quite difficult
+to like keep coming up with new hooks for each
+
+85
+00:08:44,248 --> 00:08:50,213
+and every single post that you create which
+is why we've created, we've included over a
+
+86
+00:08:50,273 --> 00:08:56,918
+hundred viral hook ideas that we've tested that
+we figured out in the past and we use these
+
+87
+00:08:56,958 --> 00:09:04,411
+constantly for our own posts. So these are all
+borrowed. online from other creators or the
+
+88
+00:09:04,431 --> 00:09:09,933
+well-known creators and Our own booths that
+we've created in the past and we've organized
+
+89
+00:09:09,973 --> 00:09:13,575
+them in the playbook for you So all you need
+to do every single time you you're looking
+
+90
+00:09:13,595 --> 00:09:19,157
+to create a good hook is come in here Scroll
+through all the hooks that we've used over
+
+91
+00:09:19,177 --> 00:09:24,760
+here and just use them According to the outline
+that is offered over here So what I'm gonna
+
+92
+00:09:24,780 --> 00:09:28,982
+do is I'm gonna go through some of these and
+I'm gonna explain like how to use a hook So
+
+93
+00:09:29,002 --> 00:09:33,765
+that you can use these in your booths. Take
+a look at this one Give me two minutes and
+
+94
+00:09:33,785 --> 00:09:37,227
+I'll teach you six rules to be charismatic.
+So if you're writing a post about building
+
+95
+00:09:37,247 --> 00:09:43,651
+your charisma, this is a hook that you can use.
+Now what I've included in brackets over here
+
+96
+00:09:43,691 --> 00:09:48,554
+is an outline that is built around this hook.
+So we've reverse engineered the hook and created
+
+97
+00:09:48,615 --> 00:09:55,479
+an outline for you. So give me x minutes and
+I'll teach you y rules, okay, to achieve whatever
+
+98
+00:09:55,499 --> 00:09:56,320
+desirable thing it is.
+
+99
+00:10:02,944 --> 00:10:09,488
+teaching construction project managers about
+managing their team better. I would kind of
+
+100
+00:10:09,549 --> 00:10:16,593
+personalize this to say give me three minutes
+and I'll teach you seven cardinal rules to
+
+101
+00:10:17,114 --> 00:10:22,357
+manage your team in the best fashion, manage
+your construction workforce in the best fashion
+
+102
+00:10:22,997 --> 00:10:27,420
+or manage a project in the best fashion. So
+whatever topic or like value addition you're
+
+103
+00:10:27,440 --> 00:10:28,821
+offering in the post which is the
+
+104
+00:10:32,644 --> 00:10:37,647
+to like 2 minutes and extra rolls or like 6
+rolls or 7 rolls or whatever it is. So that
+
+105
+00:10:37,727 --> 00:10:42,330
+is how you use a hook. So this is an example
+of the hook, the original hook and this is
+
+106
+00:10:42,370 --> 00:10:47,874
+the reverse engineered outline that you can
+use on it. Here's another one, the 95 is getting
+
+107
+00:10:47,894 --> 00:10:52,817
+pummeled. So this is a bold opening statement,
+so which is why we reverse engineer that if
+
+108
+00:10:52,837 --> 00:10:57,060
+you have an outline over here, the grade designation
+is growing faster than ever. So we are adding
+
+109
+00:10:57,100 --> 00:11:11,390
+more fuel to the fire and love it. Why? loop.
+So, to get lead people into the C MOLING. So,
+
+110
+00:11:11,430 --> 00:11:16,213
+here is another simple hook that you can use
+for a lot of different types of content that
+
+111
+00:11:16,233 --> 00:11:21,417
+you create. Most advice about X is wrong, a
+lot of personal plan advice will set you up
+
+112
+00:11:21,437 --> 00:11:28,975
+for failure. So, we say a lot of what they teach
+is wrong. So, how about a specific topic? Here
+
+113
+00:11:28,995 --> 00:11:32,479
+are five things you should ignore if you are
+thinking of getting started. So we say reveal
+
+114
+00:11:32,499 --> 00:11:37,604
+common means that Guru is right. So that is
+another outline for a hook that you can use
+
+115
+00:11:38,425 --> 00:11:46,314
+to create a piece of content. Now here is another
+one, how to make money on LinkedIn. So we promised
+
+116
+00:11:46,334 --> 00:11:50,998
+to teach something valuable and how to build
+the algo. Then we add a second promise. In
+
+117
+00:11:51,058 --> 00:11:54,680
+a second, you'll read about how to take advantage
+of LinkedIn, how to beat the algo, how you
+
+118
+00:11:54,700 --> 00:12:01,203
+can monetize. So we get teasing them and building
+the anticipation You can feel free to edit
+
+119
+00:12:01,223 --> 00:12:11,108
+these, feel free to add your own hooks in the
+future, in your own copy or your own documents
+
+120
+00:12:11,908 --> 00:12:17,991
+that you use for the copywriters so that over
+time, you build a good hook database. But these
+
+121
+00:12:18,011 --> 00:12:24,698
+100 viral hooks should be a very good starting
+point to help you craft really good hooks for
+
+122
+00:12:24,938 --> 00:12:30,384
+your posts for different types of content. So
+this is not restricted to any one content format
+
+123
+00:12:30,424 --> 00:12:38,647
+you can use these for all types of content formats.
+So after the hook optimization or the optimizing
+
+124
+00:12:38,667 --> 00:12:44,150
+the first three lines, the next element we come
+to is the paragraph optimization. So by default
+
+125
+00:12:44,190 --> 00:12:48,412
+whenever a writer creates content, the idea
+is to create paragraphs. So that is only the
+
+126
+00:12:48,432 --> 00:12:54,034
+case language works, you create paragraphs as
+combinations of sentences. But when you are
+
+127
+00:12:54,154 --> 00:12:57,916
+creating social media content, you need to follow
+a different approach. The truth is nobody reads
+
+128
+00:12:58,016 --> 00:13:02,978
+long paragraphs anymore. Paragraphs should be
+short and broken down into multiple short sentences
+
+129
+00:13:03,459 --> 00:13:11,404
+because what for attention. If you add like
+clunky paragraphs or long paragraphs subconsciously
+
+130
+00:13:11,444 --> 00:13:17,007
+whenever a reader is seeing that paragraph they
+immediately think there is a lot of work to
+
+131
+00:13:17,047 --> 00:13:21,490
+see that paragraph and they would not read it
+irrespective of how good the post may be or
+
+132
+00:13:21,510 --> 00:13:25,733
+how valuable the content may be. So this is
+something that you always have to keep in mind
+
+133
+00:13:25,833 --> 00:13:32,698
+when you are creating content. What I am about
+to show you is a few examples of well structured
+
+134
+00:13:32,758 --> 00:13:38,642
+posts even if there are paragraphs so that they
+have kept the paragraphs with sentences short
+
+135
+00:13:39,282 --> 00:13:45,646
+and with one line proper one line spacing so
+that whenever a reader sees the post they just
+
+136
+00:13:45,726 --> 00:13:52,371
+read through the lines. If they do not like
+say get blocked or they do not feel a subconscious
+
+137
+00:13:53,191 --> 00:13:59,175
+blocker to reading that post because when they
+see like clunky paragraphs they do not feel
+
+138
+00:13:59,216 --> 00:14:05,200
+that simply because the structure dwell. So
+this is the right way to optimize your paragraphs.
+
+139
+00:14:06,140 --> 00:14:11,002
+So take a look at this one what this reader
+job what this creator Jonathan has done is
+
+140
+00:14:11,503 --> 00:14:16,986
+he's included an okay hook not a very good hook
+a little bit but take a look at his how he
+
+141
+00:14:17,006 --> 00:14:22,208
+structured it so he's added a topic and he's
+added two lines spaced by with a one line spacing.
+
+142
+00:14:22,668 --> 00:14:30,773
+Next topic two paragraphs but again spaced out
+well. Again a topic and then again these are
+
+143
+00:14:30,793 --> 00:14:36,356
+basically sentences but again. with one line
+spacing in them. So they've done it really
+
+144
+00:14:36,396 --> 00:14:43,581
+well as opposed to like say using something
+like this. So this is a very bad example of
+
+145
+00:14:43,942 --> 00:14:50,106
+how you shouldn't be doing it. So adding like
+say very sizable paragraphs with like multiple
+
+146
+00:14:50,126 --> 00:14:55,990
+lines over two sentences is a very bad idea.
+Take a look at this one. Immediately like as
+
+147
+00:14:56,030 --> 00:15:01,680
+you see something like this as opposed to seeing
+something like this. He won't make this decision
+
+148
+00:15:01,720 --> 00:15:05,650
+consciously, the reader won't make this decision
+consciously. As soon as they see something
+
+149
+00:15:05,670 --> 00:15:12,351
+like this, their eye will just skip away. subconsciously
+because they do not want to read, they do not
+
+150
+00:15:12,371 --> 00:15:16,653
+want to take a lot of put a lot of work into
+reading something. Consumption should be made
+
+151
+00:15:16,773 --> 00:15:22,015
+as easy as possible so that they can read through
+the post and understand what you are talking
+
+152
+00:15:22,035 --> 00:15:28,798
+about. So it is a very simple thing to do all
+you need to do is create short sentences and
+
+153
+00:15:28,938 --> 00:15:36,661
+always add one line spacing in between those
+lines. So formatting optimization is the next
+
+154
+00:15:36,681 --> 00:15:41,768
+step and it is just like paragraph optimization,
+but what we are trying to do here is the way
+
+155
+00:15:41,808 --> 00:15:51,204
+the information is presented to the audience
+in the most. So there is two things that we
+
+156
+00:15:51,224 --> 00:15:59,337
+need to focus on here. take two types of formatting
+it was. So, one is what we call skimming. So,
+
+157
+00:15:59,357 --> 00:16:06,340
+skimming is when you create a post that is very
+easily consumable, very easily readable. And
+
+158
+00:16:06,380 --> 00:16:12,403
+for that we use what we call meme style formatting.
+So, meme style formatting is something that
+
+159
+00:16:12,423 --> 00:16:20,126
+has been popularized by a creator called Justin
+Welch. So, what he does is he creates quickly
+
+160
+00:16:20,166 --> 00:16:27,630
+readable short posts. So, most of the posts
+that you see on LinkedIn and he just adds quick
+
+161
+00:16:27,650 --> 00:16:32,673
+bullet points like a very quick pointer on how
+it looks. It is not exactly like paragraphs,
+
+162
+00:16:32,713 --> 00:16:37,275
+it is not exactly one lines because he is structuring
+them accordingly. So, if it is eight questions,
+
+163
+00:16:37,295 --> 00:16:43,319
+so the eight questions are written as one liners
+and then there are a few other lines for the
+
+164
+00:16:43,399 --> 00:16:44,679
+intro or the hook and the
+
+165
+00:16:49,234 --> 00:16:54,700
+Here is another example of something by Jess
+Cook. So Jess Cook is also a content marketer.
+
+166
+00:16:55,801 --> 00:17:03,852
+So take a look at this. So she is talking about.
+tackling the first research reporter. So, this
+
+167
+00:17:03,892 --> 00:17:09,576
+is one topic, so starting the first three steps
+for the starting and that leads to the survey
+
+168
+00:17:09,597 --> 00:17:14,120
+questions which is the next two steps for the
+survey questions which leads to the top line
+
+169
+00:17:14,140 --> 00:17:18,883
+stats, the next two questions for the top line
+stats. So, you see how the formatting is done
+
+170
+00:17:18,923 --> 00:17:27,012
+for each of these. So, she is categorized them
+into specific topics or stages in the process
+
+171
+00:17:27,072 --> 00:17:32,954
+that she is about to cover, that she wants to
+cover and it is segregated or segmented accordingly
+
+172
+00:17:32,974 --> 00:17:42,179
+in the post. So, come up with skimmability is
+all about coming up with easy to read formats
+
+173
+00:17:42,719 --> 00:17:48,242
+that people can quickly skim through. So, skimming
+is reading very quickly. So, take a look at
+
+174
+00:17:48,262 --> 00:17:49,042
+the 60 second
+
+175
+00:17:52,624 --> 00:17:57,088
+one type of content, four of them. Pick your
+industrial level topic, four of them. So, people
+
+176
+00:17:57,128 --> 00:18:03,675
+can read these quickly and this type of content
+performs really well. We format it in this
+
+177
+00:18:03,695 --> 00:18:08,781
+manner, it performs really well for the simple
+reason that people can consume it very quickly.
+
+178
+00:18:10,394 --> 00:18:15,739
+and read through it really quickly. Always remember
+that copywriting is all about, the first line
+
+179
+00:18:15,759 --> 00:18:19,323
+should be about getting users to read the second
+line, the second line should be about getting
+
+180
+00:18:19,343 --> 00:18:25,249
+readers to read the third line. So, every single
+line in your post should be optimized for getting
+
+181
+00:18:25,289 --> 00:18:32,736
+people to be able to consume it quickly, you
+need to reduce the friction of, of the mental
+
+182
+00:18:32,756 --> 00:18:40,268
+friction of people having to. read the post
+and spend time of the post. So make it as easy
+
+183
+00:18:40,308 --> 00:18:46,570
+as possible for them. This is the goal of formatting.
+Now what we took a look at over here is called
+
+184
+00:18:46,650 --> 00:18:53,753
+skimming optimization. There is another type
+of formatting that we can use which is called
+
+185
+00:18:53,813 --> 00:19:00,556
+concentrating. So concentrating is about getting
+people to focus on a specific topic and we
+
+186
+00:19:00,576 --> 00:19:06,878
+keep like a few paragraphs or lines in between.
+So This is very good for formats like listicle.
+
+187
+00:19:06,898 --> 00:19:12,500
+So for example, we already saw this example
+where Jonathan wrote a four pointer about four
+
+188
+00:19:12,540 --> 00:19:18,201
+pointer post about major content books you need
+for like a paid social strategy. So he talked
+
+189
+00:19:18,221 --> 00:19:21,702
+about thought leadership and some detail about
+thought leadership, product marketing and some
+
+190
+00:19:21,742 --> 00:19:26,363
+detail about product marketing, social proof
+and some detail about social proof. So he is
+
+191
+00:19:26,403 --> 00:19:30,805
+concentrating on each of these topics one by
+one and detailing about it. So that is the
+
+192
+00:19:30,825 --> 00:19:39,856
+way he is formatted the content of the post.
+Now you can use both of these elements in your
+
+193
+00:19:39,876 --> 00:19:46,178
+content but pay some attention to the skimming
+formatting because it's a very important formatting
+
+194
+00:19:46,238 --> 00:19:51,220
+element that you need to keep in mind when you
+structure the content of your posts and this
+
+195
+00:19:51,280 --> 00:19:57,063
+is across the board for all content formats
+all types of content formats you create not
+
+196
+00:19:57,123 --> 00:20:01,165
+specifically for like informative posts which
+is what this content format is.
+
+197
+00:20:04,810 --> 00:20:12,499
+Yeah, all of these are informative posts, content
+formats. Now we have lead videos later on in
+
+198
+00:20:12,519 --> 00:20:18,623
+the program that are dedicated to each content
+format. that will teach you about how the content
+
+199
+00:20:18,643 --> 00:20:23,226
+management process looks like in the content
+world for each of the content formats one by
+
+200
+00:20:23,346 --> 00:20:28,929
+one. I'll talk about how the content management
+process works in ClickUp. I'll talk about how
+
+201
+00:20:28,949 --> 00:20:32,932
+the content ideation process works and how we
+can go about creating the content formats easily.
+
+202
+00:20:34,573 --> 00:20:39,797
+And I'll talk about the differences in the content
+creation for each of those content formats
+
+203
+00:20:39,837 --> 00:20:48,641
+as well. But the next topic we are moving on
+to is hashtags. So hashtags are important because
+
+204
+00:20:48,661 --> 00:20:53,764
+they help you categorize your post, help the
+algorithm categorize your post and present
+
+205
+00:20:53,784 --> 00:21:03,649
+it to a more relevant audience. And the typical
+usage of hashtags is very wrong you could say.
+
+206
+00:21:04,470 --> 00:21:09,534
+Even on LinkedIn because what most users do
+is they add they find a lot of relevant hashtags
+
+207
+00:21:09,554 --> 00:21:13,737
+that you later to the post They don't do much
+research about it And they assume that adding
+
+208
+00:21:13,778 --> 00:21:20,303
+more hashtags will get you more reach that is
+completely wrong The way hashtags work on LinkedIn
+
+209
+00:21:20,503 --> 00:21:26,528
+is clearly outlined in the LinkedIn algorithm
+report And what it states what it found is
+
+210
+00:21:26,568 --> 00:21:35,228
+that statistically Posts with hashtags more
+than five hashtags tend to reduce the reach
+
+211
+00:21:35,268 --> 00:21:42,521
+of the post. So the maximum number of hashtags
+that you should be adding in your post should
+
+212
+00:21:42,561 --> 00:21:48,436
+be five so you shouldn't go beyond five now
+how do we select these hashtags which is the
+
+213
+00:21:48,476 --> 00:21:54,418
+big question so selecting these hashtags is
+done by manually researching so assume let's
+
+214
+00:21:54,438 --> 00:21:59,561
+take this post as an example so this is about
+content buckets you need for successful paid
+
+215
+00:21:59,601 --> 00:22:04,943
+social strategy right so social media marketing
+is obviously the first hashtag that I would
+
+216
+00:22:04,963 --> 00:22:09,305
+consider so what I would do is I would type
+a hashtag at the start and then I would do
+
+217
+00:22:09,565 --> 00:22:10,966
+social media marketing now what I would
+
+218
+00:22:14,368 --> 00:22:20,173
+to see how many followers it has because The
+best hashtags have the most number of followers
+
+219
+00:22:20,213 --> 00:22:24,997
+So ideally you should be selecting hashtags
+that are topically relevant to your posts and
+
+220
+00:22:25,017 --> 00:22:29,842
+at the same time have a good following So if
+I wanted to compare social media marketing
+
+221
+00:22:29,902 --> 00:22:32,965
+and social media I could easily see
+
+222
+00:22:36,246 --> 00:22:42,876
+that social media has way more followers than
+social media marketing. So if I was to choose
+
+223
+00:22:42,916 --> 00:22:47,763
+between social media and social media marketing,
+I would definitely go with social media. Now
+
+224
+00:22:47,843 --> 00:22:53,966
+how do you find more hashtags? So product marketing
+is one of the... Pointers mentioning here thought
+
+225
+00:22:54,006 --> 00:22:59,269
+leadership is a point I mentioned in here. So
+all of these are Our stuff I could include
+
+226
+00:22:59,409 --> 00:23:04,951
+all of this is basically about Content marketing
+in general or marketing in general. So all
+
+227
+00:23:04,991 --> 00:23:12,275
+of these are hashtags that I can search for
+I would look for specific more niche Topics
+
+228
+00:23:12,295 --> 00:23:17,017
+so I've included social media in here. So now
+what I could do is I would look for product
+
+229
+00:23:18,446 --> 00:23:22,369
+Marketing let's see if product marketing is
+there and see like what the hashtag what the
+
+230
+00:23:22,389 --> 00:23:28,775
+follower count is So what eight thousand followers
+not too bad, but I wouldn't see it's too big
+
+231
+00:23:28,976 --> 00:23:35,141
+either So let's try to find some better hashtags
+So single image ads so they're talking about
+
+232
+00:23:35,222 --> 00:23:43,605
+advertising right so advertising is a good broad
+hashtag that I could use so advertising if
+
+233
+00:23:43,625 --> 00:23:47,690
+you take a look at it should have okay large
+number of followers so this is a good hashtag
+
+234
+00:23:47,710 --> 00:23:54,056
+I can use and then we're talking about successful
+paid social strategy so it's basically social
+
+235
+00:23:54,997 --> 00:24:01,350
+media advertising, social advertising. So let's
+take a look at social advertising. Okay, not
+
+236
+00:24:01,711 --> 00:24:10,299
+very impressive. So we'll keep doing this process
+until I figure out some good hashtags. So image
+
+237
+00:24:10,499 --> 00:24:17,226
+ads, let's see, okay, image ads doesn't seem
+to have much. So let's see, how about ads,
+
+238
+00:24:17,326 --> 00:24:28,237
+like just ads? That should be a hashtag. Okay,
+not very big, but somewhat okay. Thought leadership,
+
+239
+00:24:28,318 --> 00:24:29,241
+how about thought leadership?
+
+240
+00:24:37,718 --> 00:24:43,543
+Boom 26,000 there you got your third hashtag.
+So this is how you go about doing this. So
+
+241
+00:24:43,563 --> 00:24:49,148
+we have content So content and content marketing
+are both Stuff you would consider so content
+
+242
+00:24:49,649 --> 00:24:56,375
+marketing seems to have A good number of followers
+and content also seems to have a good number
+
+243
+00:24:56,395 --> 00:25:01,903
+of followers. I'm pretty sure it has quite a
+large follow, basically 61,000. So there, we
+
+244
+00:25:01,943 --> 00:25:05,545
+have found our five hashtags. So this is how
+you go about doing it. You take a look at the
+
+245
+00:25:05,585 --> 00:25:13,288
+post that you've already written and you do
+searches on LinkedIn to identify the most relevant
+
+246
+00:25:13,308 --> 00:25:20,732
+hashtags. Now, over time, you should ideally
+be creating a hashtag list of the best hashtags
+
+247
+00:25:20,752 --> 00:25:27,871
+that you can use for your content. And this
+is the hashtag sheet in the content analysis
+
+248
+00:25:27,891 --> 00:25:31,693
+sheet. So it's a simple sheet. We just have
+the hashtag where you can include the hashtags
+
+249
+00:25:32,233 --> 00:25:37,075
+and the follower count so that over time, you
+can build a list of hashtags that have very
+
+250
+00:25:37,095 --> 00:25:42,898
+good followings on LinkedIn. So whenever you
+create a post, come in here and drop the hashtags
+
+251
+00:25:42,938 --> 00:25:48,881
+on the follower counts in here. When you're
+writing the post itself, so that over time,
+
+252
+00:25:48,941 --> 00:25:54,944
+it'll be very easy for you to just copy paste
+hashtags and use them in your content. the
+
+253
+00:25:54,964 --> 00:26:02,126
+best hashtags with really good follow-ups and
+save a lot of time. And now that we're done
+
+254
+00:26:02,146 --> 00:26:08,529
+with hashtags, let's talk a bit about publishing
+content on LinkedIn. So publishing process,
+
+255
+00:26:09,649 --> 00:26:15,372
+this part of the video specifically for your
+team members who are handling the publishing
+
+256
+00:26:15,412 --> 00:26:23,096
+process. If you're doing this yourself, great.
+But this is quite simple. For any kind of content
+
+257
+00:26:23,116 --> 00:26:27,578
+that you wanna publish, you can do it from here.
+So all you need to do is click on start a post,
+
+258
+00:26:28,018 --> 00:26:36,443
+which will bring a pop-up. this icon over here
+there are all the different media types that
+
+259
+00:26:36,463 --> 00:26:41,266
+you want to create or include so if you want
+to create an event directly from your user
+
+260
+00:26:41,286 --> 00:26:45,809
+profile you can do it here if you want to create
+a poll you can do it here if you want to add
+
+261
+00:26:45,889 --> 00:26:52,254
+a carousel or a slide post to your post you
+can add it here if you want to add an image
+
+262
+00:26:52,274 --> 00:26:56,797
+or a photo you can do it here if you want to
+add a video you can do it here. Let me go through
+
+263
+00:26:56,837 --> 00:26:58,057
+like say some of the content
+
+264
+00:27:02,662 --> 00:27:11,184
+so that it's easy for you. So this is some sample
+post copy that I'm just doing, using for showing
+
+265
+00:27:11,204 --> 00:27:16,266
+you how to create a post. So you add the post,
+make sure the line spacing is correct. This
+
+266
+00:27:16,306 --> 00:27:22,809
+is important. It has to be exactly as it is
+in Raptor in ClickUp. So, however it is in
+
+267
+00:27:22,829 --> 00:27:26,691
+ClickUp, I make sure it's come, you come in
+here and it's formatted exactly the same way.
+
+268
+00:27:27,131 --> 00:27:33,675
+Sometimes the way this format in ClickUp, when
+you copy paste it into LinkedIn, there may
+
+269
+00:27:33,695 --> 00:27:38,177
+be like additional spaces like these. or the
+spaces may be absent. So make sure you review
+
+270
+00:27:38,197 --> 00:27:45,782
+both the ClickUp content card or task and look
+at it and come back here and make sure the
+
+271
+00:27:45,822 --> 00:27:53,147
+formatting is exactly the same way. All right,
+then make sure that the tags that are included
+
+272
+00:27:53,207 --> 00:28:00,412
+of people in ClickUp are mentioned the correct
+way. So the real tag is suppose I want to include
+
+273
+00:28:00,752 --> 00:28:08,517
+Immortal Tag Captura, which is a company in
+here. at the rate and I would select the correct
+
+274
+00:28:08,577 --> 00:28:14,261
+company from here. So in most cases the copywriters
+will mention like which company it is in the
+
+275
+00:28:14,301 --> 00:28:22,167
+post copy itself so that you can tag the correct
+company in brackets. So make sure that gets
+
+276
+00:28:22,227 --> 00:28:26,750
+done properly. Pay special attention to tagging
+the correct company and then if there's any
+
+277
+00:28:26,810 --> 00:28:32,834
+additional details mentioned by the copywriters
+in brackets on which our company is to be tagged
+
+278
+00:28:32,854 --> 00:28:36,696
+or the company page URL or something like that
+or the company page username or something like
+
+279
+00:28:36,716 --> 00:28:41,279
+that. Please make sure you remove that bracket
+and just tag the correct person. That is just
+
+280
+00:28:41,339 --> 00:28:47,544
+given for reference so that you can tag the
+correct companies. And then after you select
+
+281
+00:28:47,564 --> 00:28:53,467
+the correct companies like this, make sure the
+spacing is correct, make sure the CTAs are
+
+282
+00:28:53,488 --> 00:28:59,632
+correct, the hashtags selected correctly. So
+after you take a quick look at this, look at
+
+283
+00:28:59,752 --> 00:29:07,398
+formatting options. So formatting is about making
+sure points if any bullet points have been
+
+284
+00:29:07,438 --> 00:29:12,165
+included in ClickUp make sure the bullet points
+are mentioned correctly are given correctly
+
+285
+00:29:12,205 --> 00:29:18,653
+so for example if is these three points were
+bullet points I have to come in here and manually
+
+286
+00:29:18,693 --> 00:29:31,099
+added this one two three, right? Or if the bullet
+points are just not numbered, they're just
+
+287
+00:29:31,159 --> 00:29:36,643
+normal bullet points, you can come in here and
+manually add in here as bullet points in this
+
+288
+00:29:36,683 --> 00:29:45,870
+manner. All right, so please pay special attention
+before you hit publish to the formatting. It
+
+289
+00:29:45,910 --> 00:29:53,638
+is very important on LinkedIn. And after you're
+done with that, take a look at any media that
+
+290
+00:29:53,678 --> 00:29:57,966
+is supposed to be added. So if you're just creating
+like a text post, so experiential stories,
+
+291
+00:29:58,527 --> 00:30:06,243
+informative posts. engagement page, customer
+experience text stories, then if it is a viral
+
+292
+00:30:06,283 --> 00:30:13,265
+post, it is like viral text post or viral influencer
+persona, text post or similar formats, it is
+
+293
+00:30:13,345 --> 00:30:18,006
+all just text. So, in that case, it is this
+is a good to go and you can go ahead and schedule
+
+294
+00:30:18,046 --> 00:30:25,508
+a publish directly. But in case there is media
+to be added, media can be an image. So, if
+
+295
+00:30:25,528 --> 00:30:34,737
+it is an image post, it will be included in
+the. Clickup task for that specific content
+
+296
+00:30:34,757 --> 00:30:39,689
+piece and in the later videos I will be explaining
+how you can how the process differs for each
+
+297
+00:30:39,729 --> 00:30:47,201
+content format. But These three buttons over
+here cover almost every single content format
+
+298
+00:30:47,221 --> 00:30:51,925
+that you would want to publish on LinkedIn.
+So these are image posts for all posts that
+
+299
+00:30:51,945 --> 00:30:57,551
+include images. Just click on this, click on
+select images to share and select the screenshot.
+
+300
+00:30:57,571 --> 00:30:59,553
+So whatever the screenshot is, you can select
+it over here.
+
+301
+00:31:02,850 --> 00:31:09,199
+So here's an image that I'm just using to demonstrate
+how it's done. So I just uploaded the image,
+
+302
+00:31:09,259 --> 00:31:17,302
+I can add the post copy in here and then I can
+click on this pencil icon over here to. edit
+
+303
+00:31:17,342 --> 00:31:23,605
+it so I can crop the image as I see fit I can
+zoom in as I see fit I can straighten or like
+
+304
+00:31:23,685 --> 00:31:27,847
+rotate it as I see fit all of this stuff is
+possible I can add filters to the image as
+
+305
+00:31:27,887 --> 00:31:34,550
+well but I can also tag people on the post so
+if you're if it's of an event or something
+
+306
+00:31:34,570 --> 00:31:40,613
+like that there's additional team members that
+are in the photo or there's additional influencers
+
+307
+00:31:40,633 --> 00:31:40,933
+you took a
+
+308
+00:31:47,656 --> 00:31:52,158
+include them in the post of that they get notifications
+that they were tagged in a post and so on just
+
+309
+00:31:52,198 --> 00:31:59,142
+like how we do on Facebook and so on all of
+that stuff can be done in here. For videos
+
+310
+00:31:59,502 --> 00:32:06,582
+there is a small difference that we can also
+include thumbnail images for the videos. So
+
+311
+00:32:06,602 --> 00:32:12,288
+let me show you that quickly as well. So I'm
+going to drag and drop a video. Okay, that
+
+312
+00:32:12,308 --> 00:32:18,514
+content format is not supported. And we can
+see the supported content formats here so that
+
+313
+00:32:18,534 --> 00:32:23,619
+you understand what format the video should
+be in and the issue. Let's go back and let
+
+314
+00:32:23,779 --> 00:32:25,401
+me upload our direct content format.
+
+315
+00:32:29,746 --> 00:32:36,871
+I click on video, I select a test file to upload,
+and while it's loading, I can upload a thumbnail.
+
+316
+00:32:36,891 --> 00:32:41,915
+So this is where you click on upload thumbnail
+and select the thumbnail image. So you should
+
+317
+00:32:41,935 --> 00:32:47,260
+have downloaded the thumbnail image from the
+clicker class to your computer, your laptop
+
+318
+00:32:47,300 --> 00:32:55,178
+or PC, and then uploaded it. And you can also
+auto-generate captions if you'd like. and you
+
+319
+00:32:55,198 --> 00:32:59,460
+can also review the captions before viewers
+can see them so you can edit them quickly stuff
+
+320
+00:32:59,500 --> 00:33:04,722
+through them but in most cases if you're creating
+videos we have a subtitling process in the
+
+321
+00:33:04,742 --> 00:33:09,364
+clicker class so there should be or there could
+be an SRT file in the clicker class so take
+
+322
+00:33:09,384 --> 00:33:14,147
+a look at it and you can also upload an SRT
+file instead of auto generating captions in
+
+323
+00:33:14,187 --> 00:33:20,029
+English all right and once you're done you can
+click on done and add the post copy and you're
+
+324
+00:33:20,049 --> 00:33:20,410
+good to go
+
+325
+00:33:24,912 --> 00:33:32,117
+it's a PDF file that you need to upload so you
+need to select the document option over here
+
+326
+00:33:32,137 --> 00:33:36,580
+so at the bottom click on the document option
+click on choose file and then finally click
+
+327
+00:33:36,720 --> 00:33:43,104
+on the PDF that you want to upload so I'm taking
+this one as an example because it's a PDF I
+
+328
+00:33:43,124 --> 00:33:49,568
+click on open and we can add a title so the
+title is displayed in LinkedIn so ideally add
+
+329
+00:33:49,608 --> 00:33:50,649
+like the relevant document
+
+330
+00:33:54,612 --> 00:34:00,584
+about you can just add that topic in there.
+The topic can be the same topic of the clickable
+
+331
+00:34:00,704 --> 00:34:06,886
+task as well and once you are done with that
+you can click on done. So let me just enter
+
+332
+00:34:06,906 --> 00:34:12,929
+a text for now. You can enter your own title.
+But once you add, upload the PDF and you add
+
+333
+00:34:12,969 --> 00:34:17,611
+the post copy, you can go ahead and schedule
+a quick publish. So that's it. This is how
+
+334
+00:34:17,671 --> 00:34:23,994
+you publish content. Now, the only other thing
+that you'll need to do in terms of like after
+
+335
+00:34:24,274 --> 00:34:30,717
+the publishing process is collecting the analytics.
+So let's take a look at the posts and see how
+
+336
+00:34:30,757 --> 00:34:32,018
+we can collect the analytics.
+
+337
+00:34:35,280 --> 00:34:41,641
+Just copying the link to the LinkedIn post,
+just click on this button over here at the
+
+338
+00:34:41,661 --> 00:34:46,102
+side of the post and click on copy link to the
+post and the post should be, the post link
+
+339
+00:34:46,122 --> 00:34:50,804
+should be copied to your clipboard and then
+you can paste them after you publish it to
+
+340
+00:34:50,824 --> 00:34:59,054
+the click of task. And in addition to that if
+you want to take a look at the... view counts
+
+341
+00:34:59,254 --> 00:35:03,016
+so just come to the post and in here you should
+be able to see like the impressions you can
+
+342
+00:35:03,056 --> 00:35:07,558
+also see additional stats but you can get the
+like count the comment count the repost count
+
+343
+00:35:07,658 --> 00:35:13,180
+as well as the impressions in here if you click
+on this button you can also see the analytics
+
+344
+00:35:13,601 --> 00:35:19,343
+for the post if you'd like to see if you'd like
+to take a look at additional analytics for
+
+345
+00:35:19,403 --> 00:35:24,406
+your analytics process and you can see viewer
+demographics on like say what the job titles
+
+346
+00:35:24,486 --> 00:35:24,586
+are
+
+347
+00:35:28,488 --> 00:35:35,291
+people that engage with the post and so on.
+So this is how you go about collecting analytics
+
+348
+00:35:35,331 --> 00:35:45,516
+and copying post links of the posts and the
+content that you publish on LinkedIn. Now content
+
+349
+00:35:45,556 --> 00:35:51,619
+promotion which comes after publishing is an
+advanced process. So we are covering it in
+
+350
+00:35:51,639 --> 00:35:58,595
+the later modules. So you will need to progress
+after the content creation step. into the growth
+
+351
+00:35:58,635 --> 00:35:59,943
+hack in your content engine what you will do.
+
+352
+00:36:02,962 --> 00:36:07,265
+understand how to promote your content, learn
+how to promote your content. We did cover a
+
+353
+00:36:07,306 --> 00:36:14,032
+quick video on using GlingBoost at the start
+of the content marketing modules. So you can
+
+354
+00:36:14,112 --> 00:36:19,336
+use the same process, but we cover far more
+detailed processes on how to promote your content
+
+355
+00:36:19,356 --> 00:36:24,021
+manually using manual communities of pods as
+well as using automated tools like GlingBoost
+
+356
+00:36:24,041 --> 00:36:30,983
+and GlamPod later on in the program. So you
+can either choose to not follow the promotion
+
+357
+00:36:31,023 --> 00:36:36,772
+steps until that stage until you've gotten there
+to those videos or you can take a look at those
+
+358
+00:36:36,792 --> 00:36:41,740
+videos right now in the growth acne content
+engine and you can start with the promotion
+
+359
+00:36:41,780 --> 00:36:43,983
+activity as well using manual automated pods.
+
+360
+00:36:50,590 --> 00:36:56,663
+one of the final lessons in this video. is the
+times to post. So it is very important that
+
+361
+00:36:56,703 --> 00:37:03,026
+you go publish your content at the right time
+when you receive the most engagement. So what
+
+362
+00:37:03,046 --> 00:37:09,689
+we've done here is in the content format sheet,
+we've included the best times to post, a screenshot
+
+363
+00:37:09,709 --> 00:37:15,992
+of the best times to post. These suggested times
+come from the LinkedIn algorithm report, which
+
+364
+00:37:17,173 --> 00:37:21,835
+is a statistical study that discovered the best
+times to post, when LinkedIn post received
+
+365
+00:37:21,855 --> 00:37:28,297
+the best engagement. So this is the best data
+back source that we have right now on when
+
+366
+00:37:28,317 --> 00:37:32,739
+you will receive the most engagement. Now the
+good thing is that we have this but the bad
+
+367
+00:37:32,759 --> 00:37:38,221
+thing is that the times differ on several days.
+So if you take a look at Sundays it's from
+
+368
+00:37:38,421 --> 00:37:44,603
+1 p.m. to around 3 p.m. On one days it's from
+10 a.m. to around 1 p.m. On Tuesdays it's 8
+
+369
+00:37:44,703 --> 00:37:52,919
+a.m. to around 11 a.m. On Wednesdays it's 9
+a.m. to around 12 a.m. I'm sorry 12 p.m. Thursdays
+
+370
+00:37:52,959 --> 00:38:02,690
+its from 8am to 11am, Fridays from 1pm to 3pm
+and Saturdays its from 11pm to 10 a.m. to 1
+
+371
+00:38:02,730 --> 00:38:09,314
+p.m. So you can either choose like a slot that
+works on most days and choose to ignore the
+
+372
+00:38:09,354 --> 00:38:15,076
+remaining days. Say for example 10 a.m. is a
+time slot that works on most days which is
+
+373
+00:38:15,136 --> 00:38:22,200
+why in most of the coaching calls we recommend
+10 a.m. for most of you. But please remember
+
+374
+00:38:22,240 --> 00:38:27,142
+that these time zones are for the time zones
+of your target audience. So if you're located
+
+375
+00:38:27,182 --> 00:38:27,722
+in Europe
+
+376
+00:38:30,744 --> 00:38:34,446
+need to be focusing on the time zones in the
+US audience, time zones of the US audience
+
+377
+00:38:34,486 --> 00:38:40,730
+and publishing at 10 am in their time zone.
+In similar fashion if you are in the US and
+
+378
+00:38:40,870 --> 00:38:47,855
+you are targeting an audience in EU or the European
+Union, you need to be focusing on time zones
+
+379
+00:38:47,895 --> 00:38:53,619
+in the European Union and publishing it at those
+time zones at 10 am. So 10 am is just a suggestion,
+
+380
+00:38:54,099 --> 00:38:58,722
+you can choose to publish at the most optimal
+time. So the most optimal times for each of
+
+381
+00:38:58,762 --> 00:39:04,486
+these days will be the start of these times.
+slots so that's 1 p.m. on Sundays, 10 a.m.
+
+382
+00:39:04,666 --> 00:39:13,032
+on Mondays, 8 a.m. on Tuesdays, 9 a.m. on Wednesdays,
+8 a.m. on Thursdays, 1 p.m. on Fridays and
+
+383
+00:39:13,392 --> 00:39:19,516
+10 a.m. on Saturdays. So these are the best
+times to post for each of these days. If you're
+
+384
+00:39:19,536 --> 00:39:25,020
+manually publishing this and promoting the content
+this will be a bit difficult but the best way
+
+385
+00:39:25,040 --> 00:39:32,366
+you can structure this process is to set due
+dates and reminders and allow. or calendar
+
+386
+00:39:32,406 --> 00:39:39,414
+blockers which is the best option for these
+specific times in the calendars of the team
+
+387
+00:39:39,434 --> 00:39:45,982
+members who are handling the posting. So what
+I recommend is blocking of your calendars at
+
+388
+00:39:46,002 --> 00:39:52,561
+this exact time. If the strategy you want to
+follow is posting at the most optimal times.
+
+389
+00:39:53,543 --> 00:39:58,729
+If for convenience you want to post at the best
+time, just add a scheduled calendar blocker
+
+390
+00:39:58,769 --> 00:40:03,855
+at 10 a.m. on every day and just post and promote
+and engage on the content during that period.
+
+391
+00:40:03,875 --> 00:40:05,737
+Now, let us see how to do this. So, let us say
+that I have a video on a particular topic.
+
+392
+00:40:10,954 --> 00:40:16,596
+While replying to comments is an optional part
+of this process, especially when you're getting
+
+393
+00:40:16,636 --> 00:40:21,999
+started and you just want to create and promote
+a post, this is something that takes a significant
+
+394
+00:40:22,039 --> 00:40:27,801
+amount of time investment. But time and time
+again, we've come across creators or participants
+
+395
+00:40:27,821 --> 00:40:33,124
+in the program who have achieved really good
+results simply because they were engaging on
+
+396
+00:40:33,224 --> 00:40:38,366
+every single comment. So we've included a process
+for this in the click-up boards as well. So
+
+397
+00:40:38,426 --> 00:40:43,228
+after you publish and promote every single post.
+Ideally, you should be setting aside the calendar
+
+398
+00:40:43,248 --> 00:40:48,731
+blocker not just for publishing and promoting
+the post but also for the time required for
+
+399
+00:40:48,871 --> 00:40:55,473
+engaging with the users that comment. Now which
+is why we have.
+
+400
+00:40:58,930 --> 00:41:03,473
+recommend that those calendar blockers that
+you scheduled for the publishing at different
+
+401
+00:41:03,493 --> 00:41:09,758
+times or at the same time every day be for a
+minimum of one hour so that after you publish
+
+402
+00:41:09,798 --> 00:41:15,183
+and promote the post you can come in here wait
+for the automated pod comments or the manual
+
+403
+00:41:15,223 --> 00:41:21,388
+pod comments or the genuine comments from the
+users to trickle in time by time so they'll
+
+404
+00:41:21,428 --> 00:41:26,359
+trickle in like say over the first hour and
+Whenever you receive a comment, keep reloading
+
+405
+00:41:26,379 --> 00:41:32,843
+the page. Whenever you receive a comment, reply
+with a really good response. Ideally tag the
+
+406
+00:41:32,863 --> 00:41:39,448
+people who drop the comment so that they can
+come in here, include some questions at the
+
+407
+00:41:39,528 --> 00:41:40,869
+end of the comment on.
+
+408
+00:41:44,342 --> 00:41:50,090
+their comments so that you can proceed with
+the conversation. So here are some examples
+
+409
+00:41:50,170 --> 00:41:54,492
+of say how we do this. Say for example, say
+here, has dropped a comment, I love the idea
+
+410
+00:41:54,512 --> 00:41:57,614
+of setting expectations on each team member,
+I have to ensure that everyone is on the same
+
+411
+00:41:57,634 --> 00:42:02,216
+page and working towards the same goals. So
+we just responded with absolutely setting clear
+
+412
+00:42:02,276 --> 00:42:05,057
+expectations, essentially we're ensuring that
+everyone is aligned and working towards the
+
+413
+00:42:05,077 --> 00:42:10,540
+same goals, which can lead to greater success.
+We focus on employee happiness is so refreshing,
+
+414
+00:42:10,580 --> 00:42:15,122
+it gets, it's great to see a leader who sees,
+who values their team as people, not just workers.
+
+415
+00:42:15,582 --> 00:42:20,024
+And we respond obviously, thank you for doing
+that, app is crucial to creating a positive
+
+416
+00:42:20,624 --> 00:42:27,626
+environment where everyone can thrive and succeed.
+So you can also choose to create these comments,
+
+417
+00:42:27,666 --> 00:42:32,848
+these responses to the comments automatically
+in CharsgVD. So the process that we teach you
+
+418
+00:42:34,168 --> 00:42:41,637
+in the content promotion videos later on. in
+the growth-acquired engine modules, covers
+
+419
+00:42:41,657 --> 00:42:46,182
+the process for creating these comments. All
+you need to do is edit that prompt a little
+
+420
+00:42:46,202 --> 00:42:52,103
+bit. If you also want the... the comments to
+be generated here, comments that applies to
+
+421
+00:42:52,143 --> 00:42:58,005
+the comments also to be automatically generated
+by ggbt. This is not a process that I would
+
+422
+00:42:58,045 --> 00:43:01,707
+recommend though. This would save you a lot
+of time if you just want to do this and just
+
+423
+00:43:01,727 --> 00:43:07,470
+assign it to a team member and not spend a lot
+of time or focus on it. But ideally, you should
+
+424
+00:43:07,510 --> 00:43:12,952
+be manually taking a look at every single comment
+that comes in and responding manually, engaging
+
+425
+00:43:12,972 --> 00:43:18,715
+with them, liking the comments, reviewing if
+these prospects are good prospects. So if C
+
+426
+00:43:18,755 --> 00:43:23,320
+is a good prospect. fits my bypass or not I
+could start a conversation with him right now
+
+427
+00:43:23,620 --> 00:43:32,450
+simply because he dropped a comment. So that
+sums up this video. where we talked about creating
+
+428
+00:43:32,490 --> 00:43:36,691
+content in different content formats. We went
+through the different elements that make good
+
+429
+00:43:36,751 --> 00:43:42,552
+LinkedIn post copy. We talked about how we'll
+be having dedicated videos for each content
+
+430
+00:43:42,573 --> 00:43:47,074
+format later on. We talked about hashtags, how
+to publish content on LinkedIn with different
+
+431
+00:43:47,114 --> 00:43:51,695
+media formats, how promotions are advanced tactic
+and how we can do it later on in the process.
+
+432
+00:43:51,735 --> 00:43:56,596
+And finally, we talked about the best times
+to post, how to block your calendars for the
+
+433
+00:43:56,616 --> 00:44:03,026
+best times to post based on the time slots mentioned
+in here. which are the most optimal times to
+
+434
+00:44:03,046 --> 00:44:10,470
+post and in the later videos in this module
+we will be getting into the dedicated processes
+
+435
+00:44:10,530 --> 00:44:15,573
+for each content format so that you can understand
+exactly how to ideate and create content for
+
+436
+00:44:15,613 --> 00:44:19,675
+each of those content formats. That is it for
+this video, see you in the next one.
+
