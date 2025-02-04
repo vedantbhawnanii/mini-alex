@@ -1,45 +1,41 @@
 # OS related imports
-import os
-from glob import glob
-from chromadb import api
-from dotenv import load_dotenv
-import warnings
-
-
-from typing import List, Dict
 import datetime
+import logging
+import os
+import sys
+import warnings
+from glob import glob
+from typing import List
+
+import nltk
+# from chromadb import api
+# from dotenv import load_dotenv
+from langchain.chains import ConversationalRetrievalChain
+from langchain.memory import ConversationSummaryBufferMemory
+from langchain.retrievers import ContextualCompressionRetriever
+### Document Compressor Pipeline
+from langchain.retrievers.document_compressors import (
+    DocumentCompressorPipeline, EmbeddingsFilter)
+from langchain.schema import Document
+from langchain.text_splitter import CharacterTextSplitter
+from langchain_community.document_transformers import (
+    EmbeddingsRedundantFilter, LongContextReorder)
+from langchain_community.vectorstores import Chroma
+from langchain_core.prompts import ChatPromptTemplate, PromptTemplate
+# LLM imports
+from langchain_google_genai import (GoogleGenerativeAI,
+                                    GoogleGenerativeAIEmbeddings)
+from langchain_text_splitters import (NLTKTextSplitter,
+                                      RecursiveCharacterTextSplitter)
 
 # Logger
 from logger import CustomFormatter
-import logging
-
-from langchain_text_splitters import NLTKTextSplitter, RecursiveCharacterTextSplitter
-from langchain_community.vectorstores import Chroma
-from langchain.schema import Document
-
-from langchain_core.prompts import PromptTemplate, ChatPromptTemplate
-from langchain.chains import ConversationalRetrievalChain
-from langchain.memory import ConversationSummaryBufferMemory
-
-# LLM imports
-from langchain_google_genai import (
-    GoogleGenerativeAI,
-    GoogleGenerativeAIEmbeddings,
-)
-
-import nltk
-
-### Document Compressor Pipeline
-from langchain.retrievers.document_compressors import DocumentCompressorPipeline
-from langchain.text_splitter import CharacterTextSplitter
-from langchain_community.document_transformers import EmbeddingsRedundantFilter,LongContextReorder
-from langchain.retrievers.document_compressors import EmbeddingsFilter
-from langchain.retrievers import ContextualCompressionRetriever
 
 nltk.download("punkt_tab")
 warnings.filterwarnings("ignore", category=FutureWarning)
 
 # Get all environment variables
+### We don't use this because of streamlit. The  user will enter their API key in streamlit.
 # load_dotenv()
 # os.environ["GOOGLE_API_KEY"] = os.environ["GEMINI_API_KEY"]
 
@@ -177,15 +173,17 @@ def create_compression_retriever(embeddings, base_retriever, chunk_size=500, k=1
 # INFO:                   Prompting                 
 
 def get_standalone_template():
-    standalone_question_template = """You are an expert at understanding and rephrasing questions. Given a conversation transcript from course lectures and a follow-up question, rewrite the follow-up question as a standalone question that can be understood without prior context. Ensure the standalone question is clear, concise, and provides all necessary context.
-
+    standalone_question_template = """Given a chat history and the latest user question \
+which might reference context in the chat history, formulate a standalone question \
+which can be understood without the chat history. Do NOT answer the question, \
+just reformulate it if needed and otherwise return it as is.
 Use the following format to structure your response:
 
 Chat History: {chat_history}
 
 Follow-Up Input: {question}
 
-Standalone Question:  
+Standalone Question: {{Your answer here}}
 """
 
     standalone_question_prompt = PromptTemplate(
@@ -202,12 +200,12 @@ def create_conversation_chain(retriever, api_key) -> ConversationalRetrievalChai
         return_messages=True,
         output_key="answer",
         input_key="question",
-        max_token_limit=1000,
+        max_token_limit=1000,      ### INFO: Change this to increase answer size. In paid api calls, increasing this will increase cost per answer.
     )
 
     standalone_question_prompt = get_standalone_template()
 
-    # ? Prompt passed to the llm based on which it generates the answer. Modify this to align outputs as per requirement.
+    # INFO: Prompt passed to the llm based on which it generates the answer. Modify this to align outputs as per requirement.
     general_system_template = r"""Use the following pieces of context to answer the question at the end.
     If you don't know the answer, just say that you don't know, don't try to make up an answer. Always provide source from document in the answer. Ensure you include examples that make it easy to understand the concept even for a complete newbie.
     {context}
@@ -222,7 +220,7 @@ def create_conversation_chain(retriever, api_key) -> ConversationalRetrievalChai
 
     chain = ConversationalRetrievalChain.from_llm(
         condense_question_prompt=standalone_question_prompt,
-        condense_question_llm=create_llm(temperature=0.3, api_key=api_key),
+        condense_question_llm=create_llm(temperature=0.2, api_key=api_key),
         memory=memory,
         retriever=retriever,
         llm=create_llm(temperature=0.6, api_key=api_key),
@@ -291,11 +289,12 @@ def main(api_key):
 
 # INFO:                     Test Function.
 
-def test_run(api_key):
+def test_run():
     query = "When starting your own content marketing, what is important?"
     persist_directory = "google-embed/transcripts.db"
     files = [f for f in glob("./data/*.srt")]
-
+    
+    api_key = sys.argv[1]
     
     if os.path.exists(persist_directory):
         log.info("Found existing vectorstore... Loading into it...")
@@ -340,4 +339,4 @@ def test_run(api_key):
     #     print(f"{query=}")
     #     print(f"{result=}")
 
-test_run("AIzaSyCvsLIQzh6bAXQlx_f7KCaxDWKGRSKMEyo")
+test_run()
