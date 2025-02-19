@@ -29,13 +29,12 @@ from langchain_text_splitters import (NLTKTextSplitter,
                                       RecursiveCharacterTextSplitter)
 
 # Logger
-from logger import CustomFormatter
+# from logger import CustomFormatter
 
 nltk.download("punkt_tab")
 warnings.filterwarnings("ignore", category=FutureWarning)
 
 # Get all environment variables
-### We don't use this because of streamlit. The  user will enter their API key in streamlit.
 # load_dotenv()
 # os.environ["GOOGLE_API_KEY"] = os.environ["GEMINI_API_KEY"]
 
@@ -44,15 +43,15 @@ if not os.path.isdir("log"):
     os.mkdir("log")
 logging.basicConfig(filename=f"log/log-{datetime.datetime.today()}", level=logging.INFO)
 log = logging.getLogger()
-ch = logging.StreamHandler()
-ch.setFormatter(CustomFormatter())
-log.addHandler(ch)
+# ch = logging.StreamHandler()
+# ch.setFormatter(CustomFormatter())
+# log.addHandler(ch)
 
 # Constants
 chunk_size = 1200
 chunk_overlap = 200
 
-# INFO:                  Data functions                     
+# INFO:                  Data functions
 
 def load_srt_function(file_path: str) -> str:
     """
@@ -85,16 +84,16 @@ def load_srt_function(file_path: str) -> str:
 def create_vectorstore(files: List[str], api_key):
     log.info("Creating vectorstores...")
     print("Creating vectorstores")
-    documents = [load_srt_function(file_path) for file_path in files]
+    # documents = [load_srt_function(file_path) for file_path in files]
     text_splitter = NLTKTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
-
     docs = []
-    for document in documents:
+    for file in files:
         # Create langchain document for each document
-        doc = Document(page_content=document)
+        document = load_srt_function(file)
+        doc = Document(page_content=document, metadata={"filename": file})
         split_docs = text_splitter.split_documents([doc])
         docs.extend(split_docs)
-
+    
     embedding_function = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key = api_key)
 
     """    vector store    """
@@ -103,7 +102,7 @@ def create_vectorstore(files: List[str], api_key):
         docs, embedding_function, persist_directory="google-embed/transcripts.db"
     )
 
-
+    print("Created store...")
     log.info("Finished creating vectorstore...")
     return store, embedding_function
 
@@ -138,13 +137,8 @@ def vectorstore_backed_retriever(vectorstore,search_type="similarity",k=4,score_
     )
     return retriever
 
-def create_compression_retriever(embeddings, base_retriever, chunk_size=500, k=16, similarity_threshold=None):
-    """Build a ContextualCompressionRetriever.
-    We wrap the the base_retriever (a vectorstore-backed retriever) into a ContextualCompressionRetriever.
-    The compressor here is a Document Compressor Pipeline, which splits documents
-    into smaller chunks, removes redundant documents, filters out the most relevant documents,
-    and reorder the documents so that the most relevant are at the top and bottom of the list.
-    
+def create_compression_retriever(embeddings, base_retriever, chunk_size=800, k=16, similarity_threshold=None):
+    """
     Parameters:
         embeddings: GoogleGenerativeAIEmbeddings 
         base_retriever: a vectorstore-backed retriever.
@@ -207,8 +201,8 @@ def create_conversation_chain(retriever, api_key) -> ConversationalRetrievalChai
 
     # INFO: Prompt passed to the llm based on which it generates the answer. Modify this to align outputs as per requirement.
     general_system_template = r"""Use the following pieces of context to answer the question at the end.
-    If you don't know the answer, just say that you don't know, don't try to make up an answer. Always provide source from document in the answer. Ensure you include examples that make it easy to understand the concept even for a complete newbie.
-    {context}
+    If you don't know the answer, just say that you don't know, don't try to make up an answer. Explain in detail, by providing examples for better understanding. Try to be as elaborate as possible, and explain as nicely as possible. 
+    Context: {context}
     Question: {question}
     Helpful Answer:"""
 
@@ -254,14 +248,24 @@ def create_llm(
 def call_chain(user_input: str, chain: ConversationalRetrievalChain) -> str:
     log.info(f"Calling chain with {user_input=}")
     result = chain.invoke({"question": user_input})
-    # print(result)
-    logging.debug(result)
-    return result
+    logging.info(result)
 
+    # Extract filename from source documents (if any)
+    filenames = set()
+    if result.get("source_documents"):
+        for doc in result["source_documents"]:
+            filenames.add(doc.metadata.get("filename", "Unknown Source"))  # "Unknown Source" as fallback
+
+    # Append filename to answer
+    answer = result["answer"].strip()
+    if filenames:
+        answer += f"\n\nSource: {', '.join(filenames)}"  # Combine multiple filenames if needed
+
+    return answer
 # INFO:                        Streamlit
 
 def main(api_key):
-    persist_directory = "google-embed/transcripts.db"
+    persist_directory = "google-embed/allData.db"
 
     if os.path.exists(persist_directory):
         log.info("Found existing vectorstore... Loading into it...")
@@ -274,7 +278,7 @@ def main(api_key):
           
     else:
             
-        files = [f for f in glob("./data/*.srt")]
+        files = [f for f in glob("./data/*.txt")]
         store, embedding_function = create_vectorstore(files, api_key= api_key)
         base_retriever = vectorstore_backed_retriever(store, "similarity", k=10) 
         compressed_retriever = create_compression_retriever(
@@ -292,8 +296,7 @@ def main(api_key):
 def test_run():
     query = "When starting your own content marketing, what is important?"
     persist_directory = "google-embed/transcripts.db"
-    files = [f for f in glob("./data/*.srt")]
-    
+
     api_key = sys.argv[1]
     
     if os.path.exists(persist_directory):
@@ -307,6 +310,7 @@ def test_run():
 
     else:
         
+        files = [f for f in glob("./data/*.txt")]
         store, embedding_function = create_vectorstore(files, api_key=api_key)
         base_retriever = vectorstore_backed_retriever(store)
         compressed_retriever = create_compression_retriever(
@@ -317,26 +321,26 @@ def test_run():
     chain = create_conversation_chain(compressed_retriever, api_key=api_key)
 
     # Test questions
-    query = "What is TOFU, MOFU, BOFU content and how to identify it?"
-    response = call_chain(query, chain)
+    # query = "What is TOFU, MOFU, BOFU content and how to identify it?"
+    # response = call_chain(query, chain)
+    #
+    # print(f"{query=}")
+    # print(f"Answer: {response['answer']}")
+    #
+    # # query = "What are three content formats that I should be using for LinkedIn outreach?"
+    # query = "What are some advanced topics I will learn in this course?"
+    # response = call_chain(query, chain)
+    #
+    # print(f"{query=}")
+    # print(f"Answer: {response['answer']}")
 
-    print(f"{query=}")
-    print(f"Answer: {response["answer"]}")
 
-    query = "How many states are there in United States?"
-    response = call_chain(query, chain)
+    while True:
+        query = input("Query: ")
+        if query in ["q", "exit"]:
+            break
+        result = call_chain(query, chain)
+        print(f"{query=}")
+        print(f"{result=}")
 
-    print(f"{query=}")
-    print(f"Answer: {response["answer"]}")
-
-
-    # while True:
-    #     query = input("Query: ")
-    #     if query in ["q", "exit"]:
-    #         break
-    #     response = call_chain(query, chain)
-    #     result = response["answer"]
-    #     print(f"{query=}")
-    #     print(f"{result=}")
-
-# test_run()
+test_run()

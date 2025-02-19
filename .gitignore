@@ -9,3 +9,14 @@ pyrightconfig.json
 __pycache__/
 data/
 .devcontainer/
+videos
+sapient-office-432811-e5-8a2a4b59d2aa.json
+centered-radio-450708-u5-c8c7839b4aa8.json
+token.json
+transcription_notes.txt
+urls.txt
+videos.txt
+main.py
+.python-version
+main/
+
