@@ -1,43 +1,44 @@
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+from flask import Flask, jsonify, request
 
-import streamlit as st
-from bot import main, call_chain
+from config import Config
+from src.webhooks.whatsapp_webhook import handle_webhook
 
-st.title("Simple Chat")
+app = Flask(__name__)
 
-# Input field for API Key
-api_key = st.text_input("Enter your Google API Key:", type="password")
+# Register webhook endpoint
+app.add_url_rule("/", "whatsapp_webhook", handle_webhook, methods=["GET", "POST"])
 
-if not api_key:
-    st.warning("Please enter your API key to continue.")
-    st.stop()  # Stop execution until API key is provided
 
-# Initialize session state for messages
-if "messages" not in st.session_state:
-    st.session_state.messages = []
+# @app.route("/", methods=["POST"])
+# def handle_post():
+#     print("-------------- New Request POST --------------")
+#     print("Headers:", request.headers)
+#     print("Body:", request.json)
+#     return jsonify({"message": "Thank you for the message"})
 
-if "chain" not in st.session_state:
-    st.session_state.chain = main(api_key=api_key)
 
-# Display chat messages
-for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        st.markdown(message["content"])
+@app.route("/", methods=["GET"])
+def handle_get():
+    mode = request.args.get("hub.mode")
+    token = request.args.get("hub.verify_token")
+    challenge = request.args.get("hub.challenge")
 
-# Handle user input
-if prompt := st.chat_input("What are we working on today?"):
-    with st.chat_message("user"):
-        st.markdown(prompt)
+    print("-------------- New Request GET --------------")
+    print("Headers:", request.headers)
+    print("Body:", request.args)
 
-    st.session_state.messages.append({"role": "user", "content": prompt})
+    if mode and token:
+        if mode == "subscribe" and token == "12345":
+            print("WEBHOOK_VERIFIED")
+            return challenge, 200
+        else:
+            print("Responding with 403 Forbidden")
+            return "Forbidden", 403
+    else:
+        print("Replying Thank you.")
+        return jsonify({"message": "Thank you for the message"})
 
-    with st.chat_message("assistant"):
-        response = call_chain(prompt, st.session_state.chain)
-        st.markdown(response["answer"])
 
-    st.session_state.messages.append(
-        {"role": "assistant", "content": response["answer"]}
-    )
-
+if __name__ == "__main__":
+    print(f"Example Facebook app listening at {Config.PORT}")
+    app.run(host="0.0.0.0", port=Config.PORT, debug=True)

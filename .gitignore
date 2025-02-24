@@ -19,4 +19,9 @@ videos.txt
 main.py
 .python-version
 main/
+test.py 
+my_app.log
+experimental/
+creds/
+.devcontainer/
 
