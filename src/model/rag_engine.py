@@ -28,7 +28,7 @@ from langchain_core.prompts import ChatPromptTemplate, PromptTemplate
 from langchain_google_genai import GoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain_text_splitters import NLTKTextSplitter
 
-from src.utils.logger import ColorLogger
+from src.utils.logger import CustomLogger
 
 nltk.download("punkt_tab")
 warnings.filterwarnings("ignore", category=FutureWarning)
@@ -37,7 +37,7 @@ os.environ["GOOGLE_API_KEY"] = os.environ["GEMINI_API_KEY"]
 if not os.path.isdir("log"):
     os.mkdir("log")
 
-log = ColorLogger("my_app", "my_app.log")
+log = CustomLogger("my_app", "my_app.log")
 
 # ---------------------------------------
 # Data functions

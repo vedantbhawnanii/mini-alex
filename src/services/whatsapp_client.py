@@ -22,15 +22,15 @@ class WhatsAppClient:
 
         if context_message_id:
             payload["context"] = {"message_id": context_message_id}
-        print(
-            f"In whatsapp client send message.\nPayload: {payload}\nheaders: {self.headers}\n"
-        )
+        # print(
+        #     f"In whatsapp client send message.\nPayload: {payload}\nheaders: {self.headers}\n"
+        # )
         response = requests.post(
             f"{self.base_url}/508861485653521/messages",
             json=payload,
             headers=self.headers,
         )
-        print(response.json())
+        # print(response.json())
         return response.json()
 
     def mark_message_read(self, phone_number_id, message_id):

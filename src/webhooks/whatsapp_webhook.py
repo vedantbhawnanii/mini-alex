@@ -2,9 +2,9 @@ from flask import jsonify, request
 
 from src.model.rag_engine import RagAgent
 from src.services.whatsapp_client import WhatsAppClient
-from src.utils.logger import ColorLogger
+from src.utils.logger import CustomLogger
 
-logger = ColorLogger(__name__)
+logger = CustomLogger(__name__)
 # client = MongoClient(Config.MONGODB_URI)
 # db = client.get_database()
 # messages_collection = db.messages
